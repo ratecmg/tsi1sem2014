@@ -33,11 +33,14 @@ Fluxo Principal
 
 Ações dos Atores:	Ações do Sistema:
 
-1. O usuário deve fazer o login no sistema e visualizar a página inicial do sistema.	
+1. O usuário deve fazer o login no sistema e visualizar a página inicial do sistema.
+	
 2. O sistema deve apresentar ao usuário a mensagem de aniversariantes do dia e as duas abas de “Mensagens” e “Classificados” 
 
 3. O usuário deve clicar na opção desejada: “Mensagens” ou “Classificados”.	
+
 4. O sistema deve mostrar a tela de “Mensagens” ou “Classificados”.
+
 5. Fim do Caso de Uso.	 
 	
 Protótipo de Interface Homem-Máquina:
