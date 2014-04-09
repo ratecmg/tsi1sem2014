@@ -1,0 +1,2228 @@
+<center>'''IFSP - SBV'''</center>
+
+<center>'''INSTITUTO FEDEREAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DE SÃO PAULO'''</center>
+
+<center>'''CAMPUS SÃO JOÃO DA BOA VISTA'''</center>
+
+
+<center>'''DESENVOLVIMENTO DE PROJETO WEB'''</center>
+
+
+<center>'''TITULO DO PROJETO'''</center>
+
+
+<center>'''São João da Boa Vista'''</center>
+
+<center>'''2014'''</center>
+
+<center>[[Image:]]</center>
+
+
+<center>'''INSTITUTO FEDEREAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DE SÃO PAULO'''</center>
+
+<center>'''CAMPUS SÃO JOÃO DA BOA VISTA'''</center>
+
+
+<center>'''IFBOOK'''</center>
+
+
+'''Projeto integrado apresentado no módulo VI do curso Tecnólogo em Sistemas para Internet, como requisito parcial para a conclusão das disciplinas Desenvolvimento de Projetos Web, Desenvolvimento para Dispositivos Móveis Qualidade e Teste de Software e Sistemas Distribuídos para Web.'''
+
+
+<center>'''Histórico da Revisão'''</center>
+
+
+{| style="border-spacing:0;"
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Data'''
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Versão'''
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição'''
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Autor'''
+
+|-
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 01/03/2014
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.0
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Criação do Documento
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Lucas Grabert
+
+|-
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|}
+<center>'''São João da Boa Vista'''</center>
+
+<center>'''2014'''</center>
+
+'''APRESENTAÇÃO'''
+
+
+Breve apresentação do projeto com objetivos.
+
+
+Equipe:
+
+Nome – Prontuário – E-mail
+
+'''SUMÁRIO'''[#__RefHeading__14_2112022823 1. INICIAÇÃO12]
+
+[#__RefHeading__16_2112022823 1.1. ATA E DIAGNÓSTICO12]
+
+[#__RefHeading__18_2112022823 1.2. TERMO DE ABERTURA DE PROJETO12]
+
+[#__RefHeading__20_2112022823 2. PLANEJAMENTO12]
+
+[#__RefHeading__22_2112022823 2.1. GERENCIAMENTO DO ESCOPO12]
+
+[#__RefHeading__24_2112022823 2.1.1. DECLARAÇÃO DO ESCOPO12]
+
+[#__RefHeading__26_2112022823 2.1.2. DOCUMENTO DE REQUISITOS DO PROJETO12]
+
+[#__RefHeading__28_2112022823 2.1.2.1 MODULO 1 POSTAGEM12]
+
+[#__RefHeading__30_2112022823 2.1.2.1.1 INTRODUÇÃO12]
+
+[#__RefHeading__32_2112022823 2.1.2.1.2 REQUISITOS FUNCIONAIS12]
+
+[#__RefHeading__34_2112022823 2.1.2.1.2.1 PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS12]
+
+[#__RefHeading__36_2112022823 Fagner F S Cruz13]
+
+[#__RefHeading__38_2112022823 Luís Fernando Anizello13]
+
+[#__RefHeading__40_2112022823 Maximilian S Chiocheti14]
+
+[#__RefHeading__42_2112022823 Média Ponderada14]
+
+[#__RefHeading__44_2112022823 2.1.2.1.3 REQUISITOS NÃO FUNCIONAIS15]
+
+[#__RefHeading__46_2112022823 2.1.2.2 MODULO 2 POSTAGEM15]
+
+[#__RefHeading__48_2112022823 2.1.2.2.1 INTRODUÇÃO15]
+
+[#__RefHeading__50_2112022823 2.1.2.2.2 REQUISITOS FUNCIONAIS15]
+
+[#__RefHeading__52_2112022823 2.1.2.2.2.1 PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS15]
+
+[#__RefHeading__54_2112022823 Bruno Ap. Galdino16]
+
+[#__RefHeading__56_2112022823 Danilo Oliveira16]
+
+[#__RefHeading__58_2112022823 Jessé Cuzini16]
+
+[#__RefHeading__60_2112022823 Tiago Modena17]
+
+[#__RefHeading__62_2112022823 Wellington Silva dos Santos17]
+
+[#__RefHeading__64_2112022823 Média Ponderada18]
+
+[#__RefHeading__66_2112022823 2.1.2.2.3 REQUISITOS NÃO FUNCIONAIS18]
+
+[#__RefHeading__68_2112022823 2.1.3. ESTRUTURA ANALÍTICA DO PROJETO – EAP18]
+
+[#__RefHeading__70_2112022823 2.1.4. DIAGRAMAS DE CASOS DE USO18]
+
+[#__RefHeading__72_2112022823 2.1.4.1 Modulo 118]
+
+[#__RefHeading__74_2112022823 2.1.4.1.1 Atores18]
+
+[#__RefHeading__76_2112022823 2.1.4.1.2 Casos de Uso19]
+
+[#__RefHeading__78_2112022823 2.1.4.1.2.1 Login19]
+
+[#__RefHeading__80_2112022823 2.1.4.1.2.2 Exibir Tela Inicial21]
+
+[#__RefHeading__82_2112022823 2.1.4.1.2.3 Editar Área de Interesse22]
+
+[#__RefHeading__84_2112022823 2.1.4.1.2.4 Recuperar Senha.23]
+
+[#__RefHeading__86_2112022823 2.1.4.1.2.5 Enviar Imagem de Perfil25]
+
+[#__RefHeading__88_2112022823 2.1.4.1.3. Diagrama de Caso de Uso28]
+
+[#__RefHeading__90_2112022823 2.1.4.1.4. Estimativa de Esforços por Pontos de Caso de Uso28]
+
+[#__RefHeading__92_2112022823 2.1.4.1.4.1 Fatores Técnicos28]
+
+[#__RefHeading__94_2112022823 2.1.4.1.4.2. Fatores Ambientais29]
+
+[#__RefHeading__96_2112022823 2.1.4.1.5. Estimativa Estimativa30]
+
+[#__RefHeading__98_2112022823 2.1.4.2 Modulo 230]
+
+[#__RefHeading__100_2112022823 2.1.4.2.1 Atores30]
+
+[#__RefHeading__102_2112022823 2.1.4.2.2 Casos de Uso30]
+
+[#__RefHeading__104_2112022823 2.1.4.2.2.1 Visualizar mensagens e Classificados31]
+
+[#__RefHeading__106_2112022823 2.1.4.2.2.3 Editar Mensagens36]
+
+[#__RefHeading__108_2112022823 2.1.4.2.2.4 Remover Mensagem41]
+
+[#__RefHeading__110_2112022823 2.1.4.2.2.5 Postar Classificados45]
+
+[#__RefHeading__112_2112022823 2.1.4.2.2.6 Editar Classificados48]
+
+[#__RefHeading__114_2112022823 2.1.4.2.3. Diagrama de Caso de Uso55]
+
+[#__RefHeading__116_2112022823 2.1.4.2.4. Estimativa de Esforços por Pontos de Caso de Uso55]
+
+[#__RefHeading__118_2112022823 2.1.4.2.4.1. Fatores Técnicos55]
+
+[#__RefHeading__120_2112022823 2.1.4.2.4.2. Fatores Ambientais56]
+
+[#__RefHeading__122_2112022823 2.1.4.2.5. Estimativa57]
+
+[#__RefHeading__124_2112022823 2.1.5. DIAGRAMAS DE CLASSE58]
+
+[#__RefHeading__126_2112022823 2.1.6. DIAGRAMAS DE SEQUÊNCIA58]
+
+[#__RefHeading__128_2112022823 2.1.7. PROJETO DO BANCO DE DADOS58]
+
+[#__RefHeading__130_2112022823 2.1.7.1 Modelo Conceitual58]
+
+[#__RefHeading__132_2112022823 2.1.7.2 Modelo Lógico59]
+
+[#__RefHeading__134_2112022823 2.1.7.3Modelo Físico59]
+
+[#__RefHeading__136_2112022823 2.2. GERENCIAMENTO DO TEMPO60]
+
+[#__RefHeading__138_2112022823 2.2.1. MATRIZ DE RESPONSABILIDADES60]
+
+[#__RefHeading__140_2112022823 2.2.2. CRONOGRAMA60]
+
+[#__RefHeading__142_2112022823 2.3. GERENCIAMENTO DA QUALIDADE60]
+
+[#__RefHeading__144_2112022823 2.3.1. PLANEJAMENTO DA QUALIDADE60]
+
+[#__RefHeading__146_2112022823 2.3.2. CONTROLE DA QUALIDADE60]
+
+[#__RefHeading__148_2112022823 2.3.3. TESTES DE QUALIDADE60]
+
+[#__RefHeading__150_2112022823 2.4. GERENCIAMENTO DE RISCOS60]
+
+[#__RefHeading__152_2112022823 2.4.1. REGISTRO DOS RISCOS60]
+
+[#__RefHeading__154_2112022823 2.4.2. PLANEJAMENTO DE RESPOSTA AOS RISCOS60]
+
+[#__RefHeading__156_2112022823 3. EXECUÇÃO E CONTROLE60]
+
+[#__RefHeading__158_2112022823 3.1. APLICATIVO WEB60]
+
+[#__RefHeading__160_2112022823 3.2. TESTES DE QUALIDADE60]
+
+[#__RefHeading__162_2112022823 3.3. WEB SERVICE60]
+
+[#__RefHeading__164_2112022823 3.4. RELATÓRIOS DE DESEMPENHO60]
+
+[#__RefHeading__166_2112022823 3.4. APLICATIVO ANDROID60]
+
+[#__RefHeading__168_2112022823 4. IMPLANTAÇÃO60]
+
+[#__RefHeading__170_2112022823 4.1. PLANEJAMENTO DA IMPLANTAÇÃO60]
+
+[#__RefHeading__172_2112022823 4.2. MANUAL DO USUÁRIO60]
+
+[#__RefHeading__174_2112022823 4.3. TREINAMENTO60]
+
+[#__RefHeading__176_2112022823 5. ENCERRAMENTO60]
+
+[#__RefHeading__178_2112022823 5.1. AUDITORIA DO PROJETO60]
+
+[#__RefHeading__180_2112022823 5.2. TERMO DE ENCERRAMENTO DO PROJETO60]
+
+[#__RefHeading__182_2112022823 6. REFERÊNCIAS60]
+
+[#__RefHeading__184_2112022823 7. ANEXOS60]'''LISTA DE FIGURAS'''
+
+
+'''LISTA DE TABELAS'''
+
+= 1. INICIAÇÃO =
+== 1.1. ATA E DIAGNÓSTICO ==
+== 1.2. TERMO DE ABERTURA DE PROJETO ==
+= 2. PLANEJAMENTO =
+== 2.1. GERENCIAMENTO DO ESCOPO ==
+=== 2.1.1. DECLARAÇÃO DO ESCOPO ===
+=== 2.1.2. DOCUMENTO DE REQUISITOS DO PROJETO ===
+=== 2.1.2.1 MODULO 1 POSTAGEM ===
+= 2.1.2.1.1 INTRODUÇÃO =
+Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de '''Solicitações dos Principais Envolvidos.'''
+
+= 2.1.2.1.2 REQUISITOS FUNCIONAIS =
+Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
+
+
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição do Requisito'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF#01</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Cadastro pré-definido, sendo necessário possuir um BV do IFSP-SJBV para se cadastrar.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF#02</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Sistema de Login''' responsável pela identificação única do usuário no IFBOOK. Para o acesso será necessário o BV e a senha previamente cadastrados. No primeiro acesso à rede, será obrigatório o preenchimento do restante dos dados pessoais. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF#03</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário (usuário/gestor) cadastrado deverá ter as '''informações relacionadas ao seu perfil''' salvas em banco de dados. A Rede Social deve permitir a alteração e atualização desses dados.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF#04</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário da rede deve ser capaz de '''enviar uma imagem''' sua para o seu perfil caso queira. Essa imagem pode vir do seu Celular (Se possuir gerenciador de diretório) ou de algum link na web. O tamanho máximo será 64kb suportando os formatos JPG e PNG.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF#05</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Dentro do perfil, o usuário deve ser capaz de definir sua '''Área de Interesse '''que será definida posteriormente. 
+
+|}
+= 2.1.2.1.2.1 PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS =
+Segue abaixo o resultado da priorização dos requisitos funcionais deste sistema, utilizando-se do método de Análise Kano: 
+
+
+= Fagner F S Cruz =
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>b<center>Preencher tabela</center></center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|}
+= Luís Fernando Anizello =
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>b<center>Preencher tabela</center></center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|}
+= Maximilian S Chiocheti =
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>b<center>Preencher tabela</center></center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|}
+= Média Ponderada =
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>b<center>Preencher tabela</center></center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|}
+=== 2.1.2.1.3 REQUISITOS NÃO FUNCIONAIS  ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição do Requisito'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RN #01</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Design Pattern MVC: Será utilizado o design pattern MVC. Esse padrão de projeto será adotado pois facilita a reutilização do código e facilita também a forma com que a implementação será gerenciada, permitindo que cada camada possa ser construída de forma quase que completamente independente. Não será utilizada nenhuma ferramenta de geração de código.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RN #02</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este sistema deverá ser capaz de propiciar uma interface agradável ao usuário, com opções simples, e autoexplicativas.
+
+|}
+=== 2.1.2.2 MODULO 2 POSTAGEM ===
+=== 2.1.2.2.1 INTRODUÇÃO ===
+Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de '''Solicitações dos Principais Envolvidos.'''
+
+=== 2.1.2.2.2 REQUISITOS FUNCIONAIS ===
+Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
+
+
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição do Requisito'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este módulo deverá ser capaz de manter as mensagens e fotos (Inserir, Editar e Remover). Estas serão armazenadas em um banco de dados juntos à metadados. Os metadados das mensagens serão: Título, Descrição, Imagem.
+
+Os vídeos deverão ser compartilhados pelo Youtube, disponibilizando o seu link no IFBOOK. O Formato de arquivo de imagem permitidos serão: jpg”,”.png”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| RF #02
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| As mensagens podem ser editadas e excluídas pelo autor da mensagem. O gestor pode excluir qualquer mensagem de qualquer usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| RF #03
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este módulo contará com um requisito denominado classificado, que deverá manter uma área destinada a postagens de classificados, onde os usuários poderão postar classificados de compra, venda, alugueis, entre outros. Os classificados deverão conter: Título, Descrição, Imagem.
+
+|}
+=== 2.1.2.2.2.1 PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS ===
+Segue abaixo o resultado da priorização dos requisitos funcionais deste sistema, utilizando-se do método de Análise Kano: 
+
+
+=== Bruno Ap. Galdino ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Performance'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #02</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Reverso(inválido)</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #03</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Indiferente</center>
+
+|}
+=== Danilo Oliveira ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Performance'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #02</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Reverso (inválido)</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #03</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Performance'''</center>
+
+|}
+=== Jessé Cuzini ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Performance'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #02</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Esperado</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Deve ser feito'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #03</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Indiferente </center>
+
+|}
+=== Tiago Modena ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Esperado</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Deve ser feito'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #02</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Esperado</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Convivo com isso</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''I'''ndiferente</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #03</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Esperado</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Convivo com isso</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Indiferente</center>
+
+|}
+=== Wellington Silva dos Santos ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Positiva'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resposta Negativa'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não Gostaria</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Performance'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #02</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Não importa</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Indiferente</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #03</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gostaria</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Convivo com isso</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Atrativo</center>
+
+|}
+=== Média Ponderada ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador Requisito Funcional'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Priorização'''</center>
+
+<center>'''Final'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #01</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Performance'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #02</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Indiferente</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RF #03</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''I'''ndiferente</center>
+
+|}
+=== 2.1.2.2.3 REQUISITOS NÃO FUNCIONAIS  ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Identificador'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição do Requisito'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RN #01</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| É necessário que o Processo de Software a ser utilizado seja a linguagem JAVA para plataforma Android.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RN #02</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Banco de Dados utilizado será o SQLite, por ser uma ferramenta gratuita e por suprir todos os requisitos do projeto IFBOOK.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>RN #03</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Design Pattern MVC: Será utilizado o design pattern MVC. Esse padrão de projeto será adotado pois facilita a reutilização do código e facilita também a forma com que a implementação será gerenciada, permitindo que cada camada possa ser construída de forma quase que completamente independente. Não será utilizada nenhuma ferramenta de geração de código.
+
+|}
+=== 2.1.3. ESTRUTURA ANALÍTICA DO PROJETO – EAP ===
+=== 2.1.4. DIAGRAMAS DE CASOS DE USO ===
+Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Perfil da Rede Social IFBOOK.
+
+=== 2.1.4.1 Modulo 1 ===
+=== 2.1.4.1.1 Atores ===
+A seguir a tabela X mostra os atores envolvidos no sistema.
+
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#e7e6e6;border:0.5pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Tabela de Atores</center>
+
+|-
+| style="border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000;border-left:0.5pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Usuário</center>
+| style="border:0.5pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Usuários interessados em utilizar o sistema.</center>
+
+|-
+| style="border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000;border-left:0.5pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gestor</center>
+| style="border:0.5pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista.</center>
+
+|}
+=== 2.1.4.1.2 Casos de Uso ===
+A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
+
+=== 2.1.4.1.2.1 Login ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Login'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente cadastrado.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.O usuário deve digitar o BV e senha
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Login Inválido - Senha Inválida'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1O usuário deve digitar o nome de usuário e senha.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.2. Exibe um alerta de “Usuário ou Senha inválidos”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.3. Retornar ao passo 1 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Login Inválido - Usuário Inexistente'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1. O usuário deve digitar o nome de usuário e senha.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.2. Exibe um alerta de “nome de usuário não cadastrado”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.3 Retornar ao passo 1 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo C – Login Inválido – Usuário Inválido'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1. O usuário deve digitar o nome de usuário e senha.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.2. Exibe um alerta de “Usuário ou Senha inválidos”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.3. Retornar ao passo 1 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+=== 2.1.4.1.2.2 Exibir Tela Inicial ===
+
+{| style="border-spacing:0;"
+| colspan="3"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Exibir Tela Inicial'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve redirecionar o usuário após ter feito o login para a tela Principal.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente cadastrado e ter efetuado o login.
+
+|-
+| colspan="3"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| colspan="2"  style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Exibir o uma tela inicial (Home) para o usuário onde irá exibir:
+
+- Imagem do perfil (Ao clicar ir para o U.C 4.4)
+
+- Nome
+
+- Áreas de Interesse (Ao clicar ir para o U.C 4.3)
+
+- Painel de Mensagens (Ao clicar ir para o U.C visualizar mensagem)
+
+- Aba Logoff
+
+|-
+| colspan="2"  style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="3"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+<center>[[Image:]][[Image:]]</center>
+
+
+
+
+|}
+=== 2.1.4.1.2.3 Editar Área de Interesse  ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Editar Área de Interesse'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer quando for cadastrada, alterada ou excluída uma área de interesse.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Estar na tela inicial
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar em “Área de interesse” no menu de seleção.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Exibir uma tela com uma combo box a área de interesse.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Selecionar a Área de Interesse desejada e clica em Salvar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema exibe a mensagem “Alterado com sucesso”
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Alterar Área de interesse (Desistência do usuário)'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1. Clicar em “Área de interesse” no menu de seleção.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.2. Exibir uma tela com uma combo box a área de interesse.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.3. O usuário desiste da alteração e clica no botão voltar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.4. O sistema retorna para a tela principal
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.5. Fim do caso de Uso
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+<center>[[Image:]]</center>
+
+|}
+=== 2.1.4.1.2.4 Recuperar Senha. ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Recuperar Senha'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que o método “Recuperar Senha” for executado.
+
+Ele deve remeter ao usuário um e-mail com uma nova senha para Login.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Ter um cadastro no sistema
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar em “Recuperar senha” no menu de seleção na tela de login.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Exibir o sub-menu de recuperação de senha, com as informações:
+
+-bv
+
+-e-mail
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Digitar usuário e e-mail e clicar em confirmar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. - Confrontar dados com o banco de dados
+
+- Se estiver correto o sistema deve gerar uma senha aleatória e redirecionar para o e-mail cadastrado do usuário.
+
+- Exibir uma tela com as caixas de texto:
+
+A nova senha foi enviada para seu e-mail.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pós-Condição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Limpar os campos.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Nome de Usuário incorreto'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.1. Exibe a mensagem “Usuário não cadastrado”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.2. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – E-mail incorreto'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.1. Exibe a mensagem “E-mail incorreto”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.2. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Campos em Branco'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.1. Exibe a mensagem “Campos em branco”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.2. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pós-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Limpar Campos.
+
+|-
+| colspan="2"  style="border-top:0.75pt solid #000080;border-bottom:0.5pt solid #000000;border-left:0.75pt solid #000080;border-right:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+=== 2.1.4.1.2.5 Enviar Imagem de Perfil ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Enviar Imagem de Perfil'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Esse Caso de Uso ocorre quando usuário deseja enviar uma nova imagem para seu perfil.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente logado.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.Usuário acessa a sessão Editar Perfil > Editar Imagem de Perfil.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Exibe a página para envio de imagem, com:
+
+- Imagem atual
+
+-Input para a seleção de uma nova imagem armazenada no dispositivo do usuário
+
+-Botão para envio.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Seleciona um Imagem.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. Salva imagem no sistema e volta para a tela inicial.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Formato não suportado'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1 Seleciona uma imagem que não é do formato JPEG nem PNG. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. Exibe um alerta de “Formato de imagem inválido (JPEG, PNG)”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Exceder Tamanaho'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. Seleciona uma imagem que é maior que 2 megabyte. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. Exibe um alerta de “Tamanho máximo permitido de imagem 2 megabytes”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+=== 2.1.4.1.3. Diagrama de Caso de Uso ===
+[[Image:]]
+
+=== 2.1.4.1.4. Estimativa de Esforços por Pontos de Caso de Uso ===
+=== 2.1.4.1.4.1 Fatores Técnicos ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Técnicos'''
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultado'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Sistema distribuído
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Tempo de resposta
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Eficiência
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Processamento complexo
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Código'' reusável''
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de instalação
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de uso
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Portabilidade
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de mudança
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Concorrência
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Recursos de segurança
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Acessível por terceiros
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requer treinamento especial
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Tfactor'''</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>17</center>
+
+|}
+=== 2.1.4.1.4.2. Fatores Ambientais ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Ambientais'''
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultados'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Familiaridade com o RUP ou outro processo formal
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Experiência com a aplicação em desenvolvimento
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Experiência em Orientação a Objetos
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1,5</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Presença de Analista Experiente
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0,5</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Motivação
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requisitos Estáveis
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Desenvolvedores em meio período
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Linguagem de programação difícil
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Efactor'''</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>13</center>
+
+|}
+=== 2.1.4.1.5. Estimativa Estimativa ===
+[[Image:]]
+
+=== 2.1.4.2 Modulo 2 ===
+=== 2.1.4.2.1 Atores ===
+A seguir a tabela X mostra os atores envolvidos no sistema.
+
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#e7e6e6;border:0.5pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Tabela de Atores</center>
+
+|-
+| style="border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000;border-left:0.5pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Usuário</center>
+| style="border:0.5pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Usuários interessados em utilizar o sistema.</center>
+
+|-
+| style="border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000;border-left:0.5pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Gestor</center>
+| style="border:0.5pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista.</center>
+
+|}
+=== 2.1.4.2.2 Casos de Uso ===
+A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
+
+=== 2.1.4.2.2.1 Visualizar mensagens e Classificados ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Visualizar Mensagens'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer quando o usuário for visualizar mensagens ou classificados.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário deve fazer o login no sistema.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. O usuário deve fazer o login no sistema e visualizar a página inicial do sistema.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema deve apresentar ao usuário a mensagem de aniversariantes do dia e as duas abas de “Mensagens” e “Classificados” 
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O usuário deve clicar na opção desejada: “Mensagens” ou “Classificados”.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema deve mostrar a tela de “Mensagens” ou “Classificados”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+[[Image:]]
+
+[[Image:]]
+
+|}
+2.1.4.2.2.2 Postar Mensagens
+
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Postar Mensagens'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuários e Gestores
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar no botão “Opções” na tela de mensagens.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema abre as opções de mensagens: “Nova Mensagem”, “Editar Mensagem”, “Apagar Mensagem”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O Usuário deve selecionar “Nova Mensagem” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema abre a tela de postagem de mensagens com os seguintes campos:
+
+Título:(50 caracteres) (obrigatório)
+
+Descrição:(45 caracteres)(obrigatório)
+
+Categoria:(combobox, 50 caracteres) (obrigatório)
+
+Inserir Imagem. (2 mb)
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. O usuário preenche os campos, tendo a opção de não inserir imagens (opcional).
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7. Fim do Caso de Uso.
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Postar Mensagens-Erro de clique'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. O usuário clicar em:” Editar Mensagem” ou “Apagar Mensagem”.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. O sistema deve habilitar um botão para que o usuário retorne a tela anterior(“Mensagens”).
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. O Usuário escolhe a opção regressar a tela de mensagens
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.4. O sistema retorna ao passo 1 do Fluxo Principal
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Postar Mensagens-Campos com tamanhos Excedentes'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.1. O usuário tenta incluir uma Mensagem com campos maiores que os definidos”.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.2. O usuário não irá conseguir incluir mais caracteres do que a quantidade definida.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.3. O Usuário ajusta sua mensagem conforme a capacidade dos espaços
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.4. O sistema retorna ao passo 6 do Fluxo Principal
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Postar Mensagens-Campos em Branco'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.1. O Usuário Deixa algum dos campo sem preenchimento (exceção do inserir imagem).
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.2. O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.3. O Usuário corrige o campo solicitado pelo sistema
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.4. Caso ainda ocorra algum problema o sistema volta ao passo 5.2 deste fluxo alternativo, caso não ocorra nenhum erro o sistema retorna ao passo 6 do Fluxo Principal
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+[[Image:]] 
+
+
+<center>[[Image:]] </center>
+
+
+
+
+|}
+=== 2.1.4.2.2.3 Editar Mensagens ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Editar Mensagem'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que o usuário desejar editar uma mensagem criada por ele
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário, Gestor
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| - Existir mensagens publicadas pelo usuário.
+
+- O usuário deve estar visualizando a tela de mensagens.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar no botão “Opções” na tela de mensagens.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema abre as opções de mensagens: “Nova Mensagem”, “Editar Mensagem”, “Apagar Mensagem”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O Usuário deve selecionar “Editar Mensagem” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema abre a tela de mensagens postadas pelo usuário, caso o usuário seja o Gestor do sistema, todas as mensagens postadas por todos os usuários serão visualizadas, ordenadas por data de publicação. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. O usuário seleciona a mensagem que deseja alterar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema abre a tela com as informações da mensagem, possibilitando a edição dos seguintes campos:
+
+Título:(50 caracteres) (obrigatório)
+
+Descrição:(45 caracteres)(obrigatório)
+
+Categoria: (combobox, 50 caracteres) (obrigatório)
+
+Inserir Imagem.(2 mb)
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7. O usuário edita os campos, tendo a opção de não inserir imagens (opcional).
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 8. O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 9. Fim do Caso de Uso.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Editar Mensagem- Inexistentes '''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.1. O usuário não possui nenhuma mensagem publicada.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.2. O sistema alerta ao usuário que o mesmo não possui nenhuma mensagem publicada. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.3. Fim do Caso de Uso.
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Editar Mensagem- Erro de clique'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. O usuário clicar em:” Nova Mensagem” ou “Apagar Mensagem”.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. O sistema deve habilitar um botão para que o usuário retorne a tela anterior (“Mensagens”).
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3.O Usuário escolhe a opção regressar a tela de mensagens
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.4. O sistema retorna ao passo 1 do Fluxo Principal 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo C – Editar Mensagem- Campos em Branco'''</center>
+
+|-
+| style="background-color:#ffffff;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.1. Deixar algum dos campos editado sem preenchimento (exceção do inserir imagem).
+| style="background-color:#ffffff;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.2. O sistema emite um alerta dizendo para o usuário preencher corretamente o campo ou campos irregulares.
+
+
+
+
+|-
+| style="background-color:#ffffff;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.3. O Usuário corrige o campo solicitado pelo sistema
+| style="background-color:#ffffff;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.4. Caso ainda ocorra algum problema o sistema volta ao passo 7.2 deste fluxo alternativo, caso não ocorra nenhum erro o sistema retorna ao passo 8 do Fluxo Principal
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+[[Image:]]''' '''[[Image:]]
+
+
+[[Image:]]
+
+
+
+
+|}
+=== 2.1.4.2.2.4 Remover Mensagem ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Remover Mensagens'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que o usuário desejar excluir uma mensagem publicada.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário, Gestor
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| - Estar logado no sistema.
+
+- O usuário deve estar visualizando a tela de mensagens.
+
+- Existência de uma mensagem a ser excluída.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar no botão “Opções” na tela de mensagens.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema abre as opções de mensagens: “Nova Mensagem”, “Editar Mensagem”, “Apagar Mensagem”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O Usuário deve selecionar “Apagar Mensagem” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema abre uma tela contendo os títulos e os usuários responsáveis pela mensagem. Caso o usuário seja o Gestor do sistema, todas as mensagens postadas por todos os usuários serão visualizadas
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. O Usuário seleciona a mensagem a ser deletada. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema abre a tela com as informações da mensagem:
+
+Título:(50 caracteres) (obrigatório)
+
+Descrição:(45 caracteres)(obrigatório)
+
+Categoria:( combobox, 50 caracteres) (obrigatório)
+
+Inserir Imagem.(2 mb)
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7. O Usuário escolhe a opção excluir mensagem.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 8. O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 9. O usuário confirma a exclusão da mensagem
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 10. O sistema exibe a mensagem “Evento excluído com sucesso”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 11. Fim do Caso de Uso
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Apagar Mensagem-Inexistentes'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. O Usuário deve selecionar “Apagar Mensagem” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. O sistema exibe a mensagem “Não existe mensagens a serem excluídas”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Apagar Mensagem- Negada pelo Usuário'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.1. O Usuário escolhe a opção excluir mensagem.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.2. O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.3. O usuário cancela a exclusão da mensagem
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.4. O sistema exibe a mensagem “Evento Não excluído” e retorna ao passo 4 do fluxo Principal.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+[[Image:]]
+
+[[Image:]]
+
+
+
+
+|}
+=== 2.1.4.2.2.5 Postar Classificados ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Postar Classificados'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que a ação “Postar classificados” for acionada. Deve publicar no IFBOOK o classificado que foi digitado pelos atores envolvidos.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuários e Gestores
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O Ator deve estar logado no sistema e estar visualizando a tela de Classificados
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar no botão “Opções” na tela de classificados
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema abre as opções de classificados: “Novo Classificados”, “Editar Classificados”, “Apagar Classificados”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O Usuário deve selecionar “Novo Classificados” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema abre a tela de postagem de Classificados com os seguintes campos:
+
+Título:(50 caracteres) (obrigatório)
+
+Descrição:(45 caracteres)(obrigatório)
+
+Categoria:( combobox, 50 caracteres) (obrigatório)
+
+Inserir Imagem.(2 mb)
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. O usuário preenche os campos, tendo a opção de não inserir imagens (opcional).
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema publica os Classificados e redireciona o usuário a tela de visualização de Classificados.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7. Fim do Caso de Uso.
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Postar Classificados'''-''' Erro de clique'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. O usuário clica em: “Editar Classificados” ou “Apagar Classificados”.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. O sistema deve habilitar um botão para que o usuário retorne a tela anterior (“Classificados”). 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. O Usuário escolhe a opção regressar a tela de Classificados
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.4. O sistema retorna ao passo 1 do Fluxo Principal
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.5. Fim do caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Postar '''Classificados- Campos em Branco</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.1. Deixar algum dos campos obrigatórios sem preenchimento.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.2 O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.3. O Usuário corrige o campo solicitado pelo sistema
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5.4. Caso ainda ocorra algum problema o sistema volta ao passo 5.2 deste fluxo alternativo, caso não ocorra nenhum erro o sistema retorna ao passo 6 do Fluxo Principal
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+=== 2.1.4.2.2.6 Editar Classificados ===
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Editar Classificados'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que o usuário desejar editar um classificado criada por ele
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário, Gestor
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| - Existir classificados publicados pelo usuário.
+
+- O usuário deve estar visualizando a tela de classificados.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar no botão “Opções” na tela de mensagens.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema abre as opções de classificados: “Novo Classificado”, “Editar Classificado”, “Apagar Classificado”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O Usuário deve selecionar “Editar Classificado” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema abre a tela de Classificados postados pelo usuário, caso o usuário seja o Gestor do sistema, todas os Classificados postadas por todos os usuários serão visualizadas. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. O usuário seleciona a mensagem que deseja alterar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema abre a tela com as informações do Classificado, possibilitando a edição dos seguintes campos:
+
+Título:(50 caracteres) (obrigatório)
+
+Descrição:(45 caracteres) (obrigatório)
+
+Categoria:( combobox, 50 caracteres) (obrigatório)
+
+Inserir Imagem (2 mb)
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7. O usuário edita os campos, tendo a opção de não inserir imagens (opcional).
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 8. O sistema publica o Classificado e redireciona o usuário a tela de visualização Classificados.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 9. Fim do Caso de Uso.
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Editar '''Classificado- Inexistente</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.1. O usuário não possui nenhum Classificado publicado.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.2. O sistema alerta ao usuário que o mesmo não possui nenhum Classificado publicado. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4.3. Fim do Caso de Uso.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Editar '''Classificado'''- Erro de Clique'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. O usuário clicar em:” Novo Classificado” ou “Apagar Classificado”.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. O sistema deve habilitar um botão para que o usuário retorne a tela anterior (“Classificado”).
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3.O Usuário escolhe a opção regressar a tela de Classificado
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.4. O sistema retorna ao passo 1 do Fluxo Principal 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo C – Editar '''Classificado-Campos em Branco</center>
+
+|-
+| style="background-color:#ffffff;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.1. Deixar algum dos campo editado sem preenchimento (exceção do inserir imagem).
+| style="background-color:#ffffff;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.2. O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
+
+
+
+
+|-
+| style="background-color:#ffffff;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.3. O Usuário corrige o campo solicitado pelo sistema
+| style="background-color:#ffffff;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.4. Caso ainda ocorra algum problema o sistema volta ao passo 7.2 deste fluxo alternativo, caso não ocorra nenhum erro o sistema retorna ao passo 8 do Fluxo Principal.
+
+|-
+| style="background-color:#ffffff;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="background-color:#ffffff;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="background-color:#ffffff;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="background-color:#ffffff;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+[[Image:]]
+
+
+[[Image:]]
+
+|}
+2.1.4.2.2.7 Remover Classificados
+
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Remover Classificados'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que o usuário desejar excluir um classificado publicado.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário, Gestor
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| - Estar logado no sistema.
+
+- O usuário deve estar visualizando a tela de classificados.
+
+- Existência de uma classificado a ser excluído.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar no botão “Opções” na tela de classificado
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema abre as opções de mensagens: “Novo Classificado”, “Editar Classificado”, “Apagar Classificar”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O Usuário deve selecionar “Apagar Classificado” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema abre uma tela contendo os títulos e os usuários responsáveis pelo classificado. Caso o usuário seja o Gestor do sistema, todas os classificados postados por todos os usuários serão visualizadas
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. O Usuário seleciona o classificado a ser deletado. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema abre a tela com as informações do classificado:
+
+Título; 
+
+Descrição;
+
+Categoria;
+
+Inserir Imagem.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7. O Usuário escolhe a opção excluir classificado.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 8. O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 9. O usuário confirma a exclusão do classificado
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 10. O sistema exibe a mensagem “Classificado excluído com sucesso”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 11. Fim do Caso de Uso
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Apagar Classificado- Inexistente'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. O Usuário deve selecionar “Apagar Classificados” no sub-menu.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. O sistema exibe a mensagem “Não existe classificados a serem excluídos”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Apagar Classificados- Negado pelo Usuário'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.1. O Usuário escolhe a opção excluir classificados.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 8.2. O Sistema exibe uma mensagem questionando a exclusão do classificado. 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.3. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 7.4. O sistema exibe a mensagem “Classificado Não excluído” e retorna ao passo 4 do fluxo Principal.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+[[Image:]]
+
+|}
+=== 2.1.4.2.3. Diagrama de Caso de Uso ===
+[[Image:]]
+
+=== 2.1.4.2.4. Estimativa de Esforços por Pontos de Caso de Uso ===
+=== 2.1.4.2.4.1. Fatores Técnicos ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Técnicos'''
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultado'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Sistema distribuído
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Tempo de resposta
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>6</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Eficiência
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Processamento complexo
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Código'' reusável''
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>9</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de instalação
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de uso
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Portabilidade
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de mudança
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Concorrência
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Recursos de segurança
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Acessível por terceiros
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requer treinamento especial
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Tfactor'''</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>22</center>
+
+|}
+=== 2.1.4.2.4.2. Fatores Ambientais ===
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Ambientais'''
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultados'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Familiaridade com o RUP ou outro processo formal
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Experiência com a aplicação em desenvolvimento
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Experiência em Orientação a Objetos
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>6</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Presença de Analista Experiente
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>8</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Motivação
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>9</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requisitos Estáveis
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>9</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Desenvolvedores em meio período
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Linguagem de programação difícil
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Tfactor'''</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>37</center>
+
+|}
+=== 2.1.4.2.5. Estimativa ===
+[[Image:]]
+
+
+=== 2.1.5. DIAGRAMAS DE CLASSE ===
+=== 2.1.6. DIAGRAMAS DE SEQUÊNCIA ===
+=== 2.1.7. PROJETO DO BANCO DE DADOS ===
+=== 2.1.7.1 Modelo Conceitual ===
+[[Image:]]
+
+=== 2.1.7.2 Modelo Lógico ===
+=== 2.1.7.3Modelo Físico ===
+[[Image:]]
+
+== 2.2. GERENCIAMENTO DO TEMPO ==
+=== 2.2.1. MATRIZ DE RESPONSABILIDADES ===
+=== 2.2.2. CRONOGRAMA ===
+== 2.3. GERENCIAMENTO DA QUALIDADE ==
+=== 2.3.1. PLANEJAMENTO DA QUALIDADE ===
+=== 2.3.2. CONTROLE DA QUALIDADE ===
+=== 2.3.3. TESTES DE QUALIDADE ===
+== 2.4. GERENCIAMENTO DE RISCOS ==
+=== 2.4.1. REGISTRO DOS RISCOS ===
+=== 2.4.2. PLANEJAMENTO DE RESPOSTA AOS RISCOS ===
+= 3. EXECUÇÃO E CONTROLE =
+== 3.1. APLICATIVO WEB ==
+== 3.2. TESTES DE QUALIDADE ==
+== 3.3. WEB SERVICE ==
+== 3.4. RELATÓRIOS DE DESEMPENHO ==
+== 3.4. APLICATIVO ANDROID  ==
+= 4. IMPLANTAÇÃO =
+== 4.1. PLANEJAMENTO DA IMPLANTAÇÃO ==
+== 4.2. MANUAL DO USUÁRIO ==
+== 4.3. TREINAMENTO ==
+= 5. ENCERRAMENTO =
+== 5.1. AUDITORIA DO PROJETO ==
+== 5.2. TERMO DE ENCERRAMENTO DO PROJETO ==
+= 6. REFERÊNCIAS =
+= 7. ANEXOS =
