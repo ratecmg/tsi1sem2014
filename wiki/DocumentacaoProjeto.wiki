@@ -22,7 +22,7 @@
 ====== REQUISITOS NÃO FUNCIONAIS	======
 ==== MODULO 2 POSTAGEM	====
 ====== INTRODUÇÃO	======
-====== REQUISITOS FUNCIONAIS	======
+====== REQUISITOS FUNCIONAIS ======
 ======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS =======
 ======= Bruno Ap. Galdino =======
 ======= Danilo Oliveira	=======
