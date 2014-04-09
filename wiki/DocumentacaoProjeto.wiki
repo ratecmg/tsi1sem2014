@@ -35,11 +35,11 @@
 === DIAGRAMAS DE CASOS DE USO===
 ==== Modulo 1====
 ===== Atores=====
-2.1.4.1.2 Casos de Uso	18
-2.1.4.1.2.1 Login	18
-2.1.4.1.2.2 Exibir Tela Inicial	20
-2.1.4.1.2.3 Editar Área de Interesse	22
-2.1.4.1.2.4 Recuperar Senha.	24
+===== Casos de Uso=====
+====== Login======
+====== Exibir Tela Inicial======
+====== Editar Área de Interesse======
+====== Recuperar Senha======
 2.1.4.1.2.5 Enviar Imagem de Perfil	26
 2.1.4.1.3. Diagrama de Caso de Uso	28
 2.1.4.1.4. Estimativa de Esforços por Pontos de Caso de Uso	28
