@@ -1,19 +1,19 @@
 =INICIAÇÃO= 
 
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
 
 =ATA E DIAGNÓSTICO=
 
-yyyyyyyyyyyy
+
 
 ==TERMO DE ABERTURA DE PROJETO	==
 =PLANEJAMENTO=
 == GERENCIAMENTO DO ESCOPO	==
 ===DECLARAÇÃO DO ESCOPO	11
-===DOCUMENTO DE REQUISITOS DO PROJETO	11
-====MODULO 1 POSTAGEM	11
-===== INTRODUÇÃO	11
-===== REQUISITOS FUNCIONAIS	11
-======PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS	11
-======Fagner F S Cruz	12
-======Luís Fernando Anizello	12
+===DOCUMENTO DE REQUISITOS DO PROJETO	===
+====MODULO 1 POSTAGEM ====
+===== INTRODUÇÃO	=====
+===== REQUISITOS FUNCIONAIS	=====
+======PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS ======
+======Fagner F S Cruz	======
+======Luís Fernando Anizello	======
