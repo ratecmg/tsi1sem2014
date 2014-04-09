@@ -42,6 +42,7 @@ Ações dos Atores:	Ações do Sistema:
 
 4. O sistema deve mostrar a tela de “Mensagens” ou “Classificados”.
 
-5. Fim do Caso de Uso.	 
+5. Fim do Caso de Uso.
+	 
 	
 Protótipo de Interface Homem-Máquina:
