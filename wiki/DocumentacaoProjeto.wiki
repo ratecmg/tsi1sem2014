@@ -23,10 +23,10 @@
 ==== MODULO 2 POSTAGEM	====
 ====== INTRODUÇÃO	======
 ====== REQUISITOS FUNCIONAIS	======
-======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS	=======
-=======Bruno Ap. Galdino	=======
-=======Danilo Oliveira	=======
-=======Jessé Cuzini	======
-=======Tiago Modena	======
-=======Wellington Silva dos Santos======	
-=======Média Ponderada	======
+======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS =======
+======= Bruno Ap. Galdino =======
+======= Danilo Oliveira	=======
+======= Jessé Cuzini	======= 
+======= Tiago Modena	======= 
+======= Wellington Silva dos Santos======= 	
+======= Média Ponderada	=======
