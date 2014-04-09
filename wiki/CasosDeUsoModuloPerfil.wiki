@@ -21,11 +21,11 @@ Usuário.
 =====Pré-Condição:=====
 O usuário deve estar previamente cadastrado.
 
-{||+ Fluxo Principal
-!Ações dos Atores !!Ações do Sistema!
-!#O usuário deve digitar o nome de usuário e senha!!#O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.
-!#Fim do Caso de Uso.!! !
-|}
+=====Fluxo Principal=====
+||*Ações dos Atores ||*Ações do Sistema||
+||#O usuário deve digitar o nome de usuário e senha||#O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.
+||#Fim do Caso de Uso.|| ||
+
 Fluxo Alternativo A – Login Inválido - Senha Inválida'''</center>
 
 |-
