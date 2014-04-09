@@ -12,14 +12,14 @@
 ===DECLARAÇÃO DO ESCOPO	11
 ===DOCUMENTO DE REQUISITOS DO PROJETO	===
 ====MODULO 1 POSTAGEM ====
-===== INTRODUÇÃO	=====
-===== REQUISITOS FUNCIONAIS	=====
+===== INTRODUÇÃO =====
+===== REQUISITOS FUNCIONAIS =====
 ======PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS ======
 ======Fagner F S Cruz	======
-======Luís Fernando Anizello	======
-======Maximilian S Chiocheti	======
-======Média Ponderada	14 ======
-====== REQUISITOS NÃO FUNCIONAIS	======
+======Luís Fernando Anizello ======
+======Maximilian S Chiocheti ======
+======Média Ponderada	 ======
+====== REQUISITOS NÃO FUNCIONAIS ======
 ==== MODULO 2 POSTAGEM	====
 ====== INTRODUÇÃO	======
 ====== REQUISITOS FUNCIONAIS ======
