@@ -1,0 +1,607 @@
+<div align="right">'''IFBOOK'''</div>
+
+<div align="right">''' Módulo Perfil'''</div>
+
+<div align="right">'''Versão 1.5 '''</div>
+
+<center>'''Histórico da Revisão'''</center>
+
+
+{| style="border-spacing:0;"
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Data'''
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Versão'''
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição'''
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Autor'''
+
+|-
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 01/03/2014
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.6
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Versão 2014
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
+
+|-
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 11/03/2014
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.6
+| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Versão Atualizada de casos de uso
+| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
+
+|}
+<center>'''Índice Analítico'''</center>[#__RefHeading__16_1607046153 2. Introdução4]
+
+[#__RefHeading__18_1607046153 3. Atores4]
+
+[#__RefHeading__20_1607046153 3.1 Usuário4]
+
+[#__RefHeading__22_1607046153 4. Casos de Uso5]
+
+[#__RefHeading__24_1607046153 4.1 Login5]
+
+[#__RefHeading__26_1607046153 4.2 Exibir Tela Inicial6]
+
+[#__RefHeading__28_1607046153 4.3 Editar Área de Interesse7]
+
+[#__RefHeading__30_1607046153 4.4 Recuperar Senha.8]
+
+[#__RefHeading__32_1607046153 4.5 Enviar Imagem de Perfil9]
+
+[#__RefHeading__34_1607046153 5. Diagrama de Caso de Uso10]
+
+[#__RefHeading__36_1607046153 6. Estimativa de Esforços por Pontos de Caso de Uso10]
+
+[#__RefHeading__38_1607046153 6.1 Fatores Técnicos10]
+
+[#__RefHeading__40_1607046153 6.2 Fatores Ambientais11]
+
+[#__RefHeading__42_1607046153 7. Estimativa11]= Introdução =
+Este documento apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Perfil da Rede Social IFBOOK.
+
+
+= Atores =
+== Usuário ==
+Descrição: Aluno, Servidor ou professor da Instituição.
+
+
+= Casos de Uso =
+== Login ==
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Login'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente cadastrado.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.O usuário deve digitar o nome de usuário e senha
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Login Inválido - Senha Inválida'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1O usuário deve digitar o nome de usuário e senha.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2.1 Exibe um alerta de “Usuário ou Senha inválidos”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1 Retornar ao passo 1 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Login Inválido - Usuário Inexistente'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.2 O usuário deve digitar o nome de usuário e senha.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2.2 Exibe um alerta de “nome de usuário não cadastrado”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2 Retornar ao passo 1 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Login Inválido – Usuário Inválido'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.3 O usuário deve digitar o nome de usuário e senha.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2.3 Exibe um alerta de “Usuário ou Senha inválidos”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3 Retornar ao passo 1 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+== Exibir Tela Inicial ==
+
+{| style="border-spacing:0;"
+| colspan="3"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Exibir Tela Inicial'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve redirecionar o usuário após ter feito o login para a tela Principal.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente cadastrado e ter efetuado o login.
+
+|-
+| colspan="3"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| colspan="2"  style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Exibir o uma tela inicial (Home) para o usuário onde irá exibir:
+
+- Imagem do perfil (Ao clicar ir para o U.C 4.4)
+
+- Nome
+
+- Áreas de Interesse (Ao clicar ir para o U.C 4.3)
+
+- Painel de Mensagens (Ao clicar ir para o U.C visualizar mensagem)
+
+- Aba Logoff
+
+|-
+| colspan="2"  style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="3"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máqu[[Image:]][[Image:]]
+
+
+
+
+|}
+== Editar Área de Interesse  ==
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Editar Área de Interesse'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer quando for cadastrada, alterada ou excluída uma área de interesse.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Estar na tela inicial
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar em “Área de interesse” no menu de seleção.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Exibir uma tela com uma combo box a área de interesse.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Selecionar a Área de Interesse desejada e clica em Salvar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. O sistema exibe a mensagem “Alterado com sucesso”
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Alterar Área de interesse (Desistência do usuário)'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1. Clicar em “Área de interesse” no menu de seleção.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.2. Exibir uma tela com uma combo box a área de interesse.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. O usuário desiste da alteração e clica no botão voltar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 6. O sistema retorna para a tela principal
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 9. Retornar ao passo 7 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+<center>[[Image:]]</center>
+
+|}
+== Recuperar Senha. ==
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Recuperar Senha'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Este Caso de Uso deve ocorrer sempre que o método “Recuperar Senha” for executado.
+
+Ele deve remeter ao usuário um e-mail com uma nova senha para Login.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Ter um cadastro no sistema
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1. Clicar em “Recuperar senha” no menu de seleção na tela de login.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Exibir o sub-menu de recuperação de senha, com as informações:
+
+-bv
+
+-e-mail
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Digitar usuário e e-mail e clicar em confirmar.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. - Confrontar dados com o banco de dados
+
+- Se estiver correto o sistema deve gerar uma senha aleatória e redirecionar para o e-mail cadastrado do usuário.
+
+- Exibir uma tela com as caixas de texto:
+
+A nova senha foi enviada para seu e-mail.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pós-Condição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Limpar os campos.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Nome de Usuário incorreto'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. Exibe a mensagem “Usuário não cadastrado”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – E-mail incorreto'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. Exibe a mensagem “E-mail incorreto”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Campos em Branco'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. Exibe a mensagem “Campos em branco”.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pós-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Limpar Campos.
+
+|-
+| colspan="2"  style="border-top:0.75pt solid #000080;border-bottom:0.5pt solid #000000;border-left:0.75pt solid #000080;border-right:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+== Enviar Imagem de Perfil ==
+
+{| style="border-spacing:0;"
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Enviar Imagem de Perfil'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Esse Caso de Uso ocorre quando usuário deseja enviar uma nova imagem para seu perfil.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente logado.
+
+|-
+| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
+
+|-
+| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
+| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.Usuário acessa a sessão Editar Perfil > Editar Imagem de Perfil.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. Exibe a página para envio de imagem, com:
+
+- Imagem atual
+
+-Input para a seleção de uma nova imagem armazenada no dispositivo do usuário
+
+-Botão para envio.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Seleciona um Imagem.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 4. Salva imagem no sistema e volta para a tela inicial.
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 5. Fim do Caso de Uso
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Formato não suportado'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1 Seleciona uma imagem que não é do formato JPEG nem PNG. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. Exibe um alerta de “Formato de imagem inválido (JPEG, PNG)”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Exceder Tamanaho'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.1. Seleciona uma imagem que é maior que 5 megabyte. 
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.2. Exibe um alerta de “Tamanho máximo permitido de imagem 5 megabytes”.
+
+
+
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3.3. Retornar ao passo 3 do Fluxo Principal.
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+
+|-
+| colspan="2"  style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Protótipo de Interface Homem-Máquina:'''
+
+<center>[[Image:]]</center>
+
+
+
+
+|}
+= Diagrama de Caso de Uso =
+= Estimativa de Esforços por Pontos de Caso de Uso =
+== Fatores Técnicos ==
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Técnicos'''
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultado'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Sistema distribuído
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Tempo de resposta
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Eficiência
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Processamento complexo
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Código'' reusável''
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de instalação
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de uso
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Portabilidade
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de mudança
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Concorrência
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Recursos de segurança
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Acessível por terceiros
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requer treinamento especial
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Tfactor'''</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>17</center>
+
+|}
+== Fatores Ambientais ==
+
+{| style="border-spacing:0;"
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Ambientais'''
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
+| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
+| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultados'''</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Familiaridade com o RUP ou outro processo formal
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Experiência com a aplicação em desenvolvimento
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Experiência em Orientação a Objetos
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1,5</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Presença de Analista Experiente
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0,5</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Motivação
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requisitos Estáveis
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Desenvolvedores em meio período
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Linguagem de programação difícil
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
+
+|-
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
+| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Efactor'''</center>
+| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>13</center>
+
+|}
+= Estimativa =
+[[Image:]]
