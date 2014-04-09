@@ -32,6 +32,7 @@ Pré-Condição:	Usuário deve fazer o login no sistema.
 Fluxo Principal
 
 Ações dos Atores:	Ações do Sistema:
+
 1. O usuário deve fazer o login no sistema e visualizar a página inicial do sistema.	
 2. O sistema deve apresentar ao usuário a mensagem de aniversariantes do dia e as duas abas de “Mensagens” e “Classificados” 
 
