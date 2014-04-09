@@ -6,27 +6,84 @@
 
 
 
-==TERMO DE ABERTURA DE PROJETO	==
+==TERMO DE ABERTURA DE PROJETO==
 =PLANEJAMENTO=
-== GERENCIAMENTO DO ESCOPO	==
-===DECLARAÇÃO DO ESCOPO	11
-===DOCUMENTO DE REQUISITOS DO PROJETO	===
-====MODULO 1 POSTAGEM ====
-===== INTRODUÇÃO =====
-===== REQUISITOS FUNCIONAIS =====
-======PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS ======
-======Fagner F S Cruz	======
-======Luís Fernando Anizello ======
-======Maximilian S Chiocheti ======
-======Média Ponderada	 ======
-====== REQUISITOS NÃO FUNCIONAIS ======
-==== MODULO 2 POSTAGEM	====
-====== INTRODUÇÃO	======
-====== REQUISITOS FUNCIONAIS ======
-======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS =======
-======= Bruno Ap. Galdino =======
-======= Danilo Oliveira	=======
-======= Jessé Cuzini	======= 
-======= Tiago Modena	======= 
+== GERENCIAMENTO DO ESCOPO==
+===DECLARAÇÃO DO ESCOPO===
+===DOCUMENTO DE REQUISITOS DO PROJETO===
+====MODULO 1 POSTAGEM====
+===== INTRODUÇÃO=====
+===== REQUISITOS FUNCIONAIS=====
+======PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS======
+======Fagner F S Cruz======
+======Luís Fernando Anizello======
+======Maximilian S Chiocheti======
+======Média Ponderada======
+====== REQUISITOS NÃO FUNCIONAIS======
+==== MODULO 2 POSTAGEM====
+====== INTRODUÇÃO======
+====== REQUISITOS FUNCIONAIS======
+======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS=======
+======= Bruno Ap. Galdino=======
+======= Danilo Oliveira=======
+======= Jessé Cuzini======= 
+======= Tiago Modena======= 
 ======= Wellington Silva dos Santos======= 	
 ======= Média Ponderada	=======
+===== REQUISITOS NÃO FUNCIONAIS=====
+===ESTRUTURA ANALÍTICA DO PROJETO – EAP===
+2.1.4. DIAGRAMAS DE CASOS DE USO	18
+2.1.4.1 Modulo 1	18
+2.1.4.1.1 Atores	18
+2.1.4.1.2 Casos de Uso	18
+2.1.4.1.2.1 Login	18
+2.1.4.1.2.2 Exibir Tela Inicial	20
+2.1.4.1.2.3 Editar Área de Interesse	22
+2.1.4.1.2.4 Recuperar Senha.	24
+2.1.4.1.2.5 Enviar Imagem de Perfil	26
+2.1.4.1.3. Diagrama de Caso de Uso	28
+2.1.4.1.4. Estimativa de Esforços por Pontos de Caso de Uso	28
+2.1.4.1.4.1 Fatores Técnicos	28
+2.1.4.1.4.2. Fatores Ambientais	29
+2.1.4.1.5. Estimativa Estimativa	30
+2.1.4.2 Modulo 2	30
+2.1.4.2.1 Atores	30
+2.1.4.2.2 Casos de Uso	31
+2.1.4.2.2.1 Visualizar mensagens e Classificados	31
+2.1.4.2.2.3 Editar Mensagens	37
+2.1.4.2.2.4 Remover Mensagem	42
+2.1.4.2.2.5 Postar Classificados	46
+2.1.4.2.2.6 Editar Classificados	49
+2.1.4.2.3. Diagrama de Caso de Uso	57
+2.1.4.2.4. Estimativa de Esforços por Pontos de Caso de Uso	57
+2.1.4.2.4.1. Fatores Técnicos	57
+2.1.4.2.4.2. Fatores Ambientais	58
+2.1.4.2.5. Estimativa	59
+2.1.5. DIAGRAMAS DE CLASSE	60
+2.1.6. DIAGRAMAS DE SEQUÊNCIA	60
+2.1.7. PROJETO DO BANCO DE DADOS	60
+2.2. GERENCIAMENTO DO TEMPO	60
+2.2.1. MATRIZ DE RESPONSABILIDADES	60
+2.2.2. CRONOGRAMA	60
+2.3. GERENCIAMENTO DA QUALIDADE	60
+2.3.1. PLANEJAMENTO DA QUALIDADE	60
+2.3.2. CONTROLE DA QUALIDADE	60
+2.3.3. TESTES DE QUALIDADE	60
+2.4. GERENCIAMENTO DE RISCOS	60
+2.4.1. REGISTRO DOS RISCOS	60
+2.4.2. PLANEJAMENTO DE RESPOSTA AOS RISCOS	60
+3. EXECUÇÃO E CONTROLE	60
+3.1. APLICATIVO WEB	60
+3.2. TESTES DE QUALIDADE	60
+3.3. WEB SERVICE	60
+3.4. RELATÓRIOS DE DESEMPENHO	60
+3.4. APLICATIVO ANDROID	60
+4. IMPLANTAÇÃO	60
+4.1. PLANEJAMENTO DA IMPLANTAÇÃO	60
+4.2. MANUAL DO USUÁRIO	60
+4.3. TREINAMENTO	60
+5. ENCERRAMENTO	60
+5.1. AUDITORIA DO PROJETO	60
+5.2. TERMO DE ENCERRAMENTO DO PROJETO	60
+6. REFERÊNCIAS	61
+7. ANEXOS	61
