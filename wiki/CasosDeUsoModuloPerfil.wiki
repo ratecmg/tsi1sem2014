@@ -1,104 +1,31 @@
-<div align="right">'''IFBOOK'''</div>
-
-<div align="right">''' Módulo Perfil'''</div>
-
-<div align="right">'''Versão 1.5 '''</div>
-
-<center>'''Histórico da Revisão'''</center>
+==Módulo Perfil==
 
 
-{| style="border-spacing:0;"
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Data'''
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Versão'''
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Descrição'''
-| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Autor'''
-
-|-
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 01/03/2014
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.6
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Versão 2014
-| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
-
-|-
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 11/03/2014
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.6
-| style="border-top:0.75pt solid #000000;border-bottom:0.75pt solid #000000;border-left:0.75pt solid #000000;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Versão Atualizada de casos de uso
-| style="border:0.75pt solid #000000;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
-
-|}
-<center>'''Índice Analítico'''</center>[#__RefHeading__16_1607046153 2. Introdução4]
-
-[#__RefHeading__18_1607046153 3. Atores4]
-
-[#__RefHeading__20_1607046153 3.1 Usuário4]
-
-[#__RefHeading__22_1607046153 4. Casos de Uso5]
-
-[#__RefHeading__24_1607046153 4.1 Login5]
-
-[#__RefHeading__26_1607046153 4.2 Exibir Tela Inicial6]
-
-[#__RefHeading__28_1607046153 4.3 Editar Área de Interesse7]
-
-[#__RefHeading__30_1607046153 4.4 Recuperar Senha.8]
-
-[#__RefHeading__32_1607046153 4.5 Enviar Imagem de Perfil9]
-
-[#__RefHeading__34_1607046153 5. Diagrama de Caso de Uso10]
-
-[#__RefHeading__36_1607046153 6. Estimativa de Esforços por Pontos de Caso de Uso10]
-
-[#__RefHeading__38_1607046153 6.1 Fatores Técnicos10]
-
-[#__RefHeading__40_1607046153 6.2 Fatores Ambientais11]
-
-[#__RefHeading__42_1607046153 7. Estimativa11]= Introdução =
+===Introdução ===
 Este documento apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Perfil da Rede Social IFBOOK.
 
 
-= Atores =
-== Usuário ==
+===Atores===
+====Usuários====
 Descrição: Aluno, Servidor ou professor da Instituição.
 
 
-= Casos de Uso =
-== Login ==
+===Casos de Uso===
+==== Login ====
+=====Breve Descrição:=====
+Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.
 
-{| style="border-spacing:0;"
-| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Nome do Caso de Uso: Login'''
+=====Ator Principal:=====
+Usuário.
 
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Breve Descrição: '''
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.
+=====Pré-Condição:=====
+O usuário deve estar previamente cadastrado.
 
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ator Principal:'''
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Usuário.
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Pré-Condição:'''
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| O usuário deve estar previamente cadastrado.
-
-|-
-| colspan="2"  style="background-color:#000066;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Principal'''</center>
-
-|-
-| style="background-color:#c6d9f1;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações dos Atores:'''
-| style="background-color:#c6d9f1;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Ações do Sistema:'''
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.O usuário deve digitar o nome de usuário e senha
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2. O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.
-
-
-
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 3. Fim do Caso de Uso.
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
-
-|-
-| colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo A – Login Inválido - Senha Inválida'''</center>
+{||+ título Fluxo Principal
+!Ações dos Atores !!Ações do Sistema!
+!#O usuário deve digitar o nome de usuário e senha!!#O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.
+!#Fim do Caso de Uso.!! !
+Fluxo Alternativo A – Login Inválido - Senha Inválida'''</center>
 
 |-
 | style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1O usuário deve digitar o nome de usuário e senha.
