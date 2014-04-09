@@ -9,7 +9,19 @@ Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Caso
 == 2.1.4.1.1 Atores ==
  
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+A seguir a tabela X mostra os atores envolvidos no sistema.
+Tabela de Atores
+
+Usuário	Usuários interessados em utilizar o sistema.
+Gestor	Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista.
+
+{|class="wikitable" style="height: 200px"
+!Lorem ipsum
+!dolor sit amet
+|-
+|consectetuer
+|adipiscing elit
+|-
+|Etiam eget
+|ligula eu lectu
+|}
