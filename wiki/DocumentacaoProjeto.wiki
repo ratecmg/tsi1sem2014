@@ -32,9 +32,9 @@
 ======= Média Ponderada	=======
 ===== REQUISITOS NÃO FUNCIONAIS=====
 ===ESTRUTURA ANALÍTICA DO PROJETO – EAP===
-2.1.4. DIAGRAMAS DE CASOS DE USO	18
-2.1.4.1 Modulo 1	18
-2.1.4.1.1 Atores	18
+=== DIAGRAMAS DE CASOS DE USO===
+==== Modulo 1====
+===== Atores=====
 2.1.4.1.2 Casos de Uso	18
 2.1.4.1.2.1 Login	18
 2.1.4.1.2.2 Exibir Tela Inicial	20
