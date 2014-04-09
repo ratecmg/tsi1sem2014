@@ -17,3 +17,16 @@
 ======PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS ======
 ======Fagner F S Cruz	======
 ======Luís Fernando Anizello	======
+======Maximilian S Chiocheti	======
+======Média Ponderada	14 ======
+====== REQUISITOS NÃO FUNCIONAIS	======
+==== MODULO 2 POSTAGEM	====
+====== INTRODUÇÃO	======
+====== REQUISITOS FUNCIONAIS	======
+======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS	=======
+=======Bruno Ap. Galdino	=======
+=======Danilo Oliveira	=======
+=======Jessé Cuzini	======
+=======Tiago Modena	======
+=======Wellington Silva dos Santos======	
+=======Média Ponderada	======
