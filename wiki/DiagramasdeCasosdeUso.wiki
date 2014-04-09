@@ -15,13 +15,6 @@ Tabela de Atores
 Usuário	Usuários interessados em utilizar o sistema.
 Gestor	Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista.
 
-{|class="wikitable" style="height: 200px"
-!Lorem ipsum
-!dolor sit amet
-|-
-|consectetuer
-|adipiscing elit
-|-
-|Etiam eget
-|ligula eu lectu
-|}
+|| Tabela de Atores  ||
+|| Usuário || Usuários interessados em utilizar o sistema. ||
+|| Gestor || Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista. ||
