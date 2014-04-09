@@ -45,4 +45,61 @@ Ações dos Atores:	Ações do Sistema:
 5. Fim do Caso de Uso.
 	 
 	
-Protótipo de Interface Homem-Máquina:
+Protótipo de Interface Homem-Máquina: (Inserir Imagem.
+
+
+
+= 2.1.4.2.2.2 Postar Mensagens = 
+Nome do Caso de Uso: Postar Mensagens
+Breve Descrição: 	Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+
+Ator Principal:	Usuários e Gestores
+
+Pré-Condição:	O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+= Fluxo Principal =
+Ações dos Atores:	Ações do Sistema:
+
+
+1. Clicar no botão “Opções” na tela de mensagens.	2. O sistema abre as opções de mensagens: “Nova Mensagem”, “Editar Mensagem”, “Apagar Mensagem”.
+
+3. O Usuário deve selecionar “Nova Mensagem” no sub-menu.	4. O sistema abre a tela de postagem de mensagens com os seguintes campos:
+Título:(50 caracteres) (obrigatório)
+Descrição:(45 caracteres)(obrigatório)
+Categoria:(combobox, 50 caracteres) (obrigatório)
+Inserir Imagem. (2 mb)
+
+5. O usuário preenche os campos, tendo a opção de não inserir imagens (opcional).	6. O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+7. Fim do Caso de Uso.
+
+=== Fluxo Alternativo A – Postar Mensagens-Erro de clique ===
+
+3.1. O usuário clicar em:” Editar Mensagem” ou “Apagar Mensagem”.	
+
+3.2. O sistema deve habilitar um botão para que o usuário retorne a tela 
+anterior(“Mensagens”).
+
+3.3. O Usuário escolhe a opção regressar a tela de mensagens	
+
+3.4. O sistema retorna ao passo 1 do Fluxo Principal
+Fluxo Alternativo A – Postar Mensagens-Campos com tamanhos Excedentes
+
+5.1. O usuário tenta incluir uma Mensagem com campos maiores que os definidos”.
+
+5.2. O usuário não irá conseguir incluir mais caracteres do que a quantidade definida.
+
+5.3. O Usuário ajusta sua mensagem conforme a capacidade dos espaços	
+
+5.4. O sistema retorna ao passo 6 do Fluxo Principal
+
+=== Fluxo Alternativo B – Postar Mensagens-Campos em Branco ===
+
+5.1. O Usuário Deixa algum dos campo sem preenchimento (exceção do inserir imagem).
+
+5.2. O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
+
+
+5.3. O Usuário corrige o campo solicitado pelo sistema	5.4. Caso ainda ocorra algum problema o sistema volta ao passo 
+
+5.2 deste fluxo alternativo, caso não ocorra nenhum erro o sistema retorna ao passo 6 do Fluxo Principal
