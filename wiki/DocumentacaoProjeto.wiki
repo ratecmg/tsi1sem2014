@@ -24,7 +24,7 @@
 ====== INTRODUÇÃO======
 ====== REQUISITOS FUNCIONAIS======
 ======= PRIORIZAÇÃO DOS REQUISITOS FUNCIONAIS=======
-======= Bruno Ap. Galdino=======
+======== Bruno Ap. Galdino========
 ======= Danilo Oliveira=======
 ======= Jessé Cuzini======= 
 ======= Tiago Modena======= 
