@@ -10,10 +10,6 @@ Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Caso
  
 
 A seguir a tabela X mostra os atores envolvidos no sistema.
-Tabela de Atores
-
-Usuário	Usuários interessados em utilizar o sistema.
-Gestor	Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista.
 
 || Tabela de Atores  ||
 || Usuário || Usuários interessados em utilizar o sistema. ||
@@ -34,4 +30,3 @@ A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
 ||Ações dos Atores:||Ações do Sistema:||
 ||1.O usuário deve digitar o BV e senha||2. O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.|| 
 ||3. Fim do Caso de Uso.||	
-
