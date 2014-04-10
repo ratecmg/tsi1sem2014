@@ -18,3 +18,13 @@ Gestor	Funcionários (Administradores, bibliotecários, serventes, diretoria) do
 || Tabela de Atores  ||
 || Usuário || Usuários interessados em utilizar o sistema. ||
 || Gestor || Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista. ||
+
+
+== 2.1.4.1.2 Casos de Uso ==
+A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
+== 2.1.4.1.2.1 Login ==
+
+||Nome do Caso de Uso: Login||
+||Breve Descrição: ||Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.||
+||Ator Principal:||Usuário.||
+||Pré-Condição:||O usuário deve estar previamente cadastrado.||
