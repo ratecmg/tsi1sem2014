@@ -83,7 +83,8 @@ anterior(“Mensagens”).
 3.3. O Usuário escolhe a opção regressar a tela de mensagens	
 
 3.4. O sistema retorna ao passo 1 do Fluxo Principal
-Fluxo Alternativo A – Postar Mensagens-Campos com tamanhos Excedentes
+
+=== Fluxo Alternativo A – Postar Mensagens-Campos com tamanhos Excedentes ===
 
 5.1. O usuário tenta incluir uma Mensagem com campos maiores que os definidos”.
 
@@ -100,7 +101,9 @@ Fluxo Alternativo A – Postar Mensagens-Campos com tamanhos Excedentes
 5.2. O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
 
 
-5.3. O Usuário corrige o campo solicitado pelo sistema	5.4. Caso ainda ocorra algum problema o sistema volta ao passo 
+5.3. O Usuário corrige o campo solicitado pelo sistema	
+
+5.4. Caso ainda ocorra algum problema o sistema volta ao passo 
 
 5.2 deste fluxo alternativo, caso não ocorra nenhum erro o sistema retorna ao passo 6 do Fluxo Principal
 
@@ -132,7 +135,8 @@ Inserir Imagem. (2 mb)
 5. O usuário preenche os campos, tendo a opção de não inserir imagens (opcional).	6. O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
 
 7. Fim do Caso de Uso.
-Fluxo Alternativo A – Postar Mensagens-Erro de clique
+
+=== Fluxo Alternativo A – Postar Mensagens-Erro de clique ===
 
 3.1. O usuário clicar em:” Editar Mensagem” ou “Apagar Mensagem”.	
 
@@ -150,7 +154,8 @@ Fluxo Alternativo A – Postar Mensagens-Campos com tamanhos Excedentes
 5.3. O Usuário ajusta sua mensagem conforme a capacidade dos espaços	
 
 5.4. O sistema retorna ao passo 6 do Fluxo Principal
-Fluxo Alternativo B – Postar Mensagens-Campos em Branco
+
+=== Fluxo Alternativo B – Postar Mensagens-Campos em Branco ===
 
 5.1. O Usuário Deixa algum dos campo sem preenchimento (exceção do inserir imagem).	
 
