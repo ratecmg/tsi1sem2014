@@ -15,7 +15,6 @@ A seguir a tabela X mostra os atores envolvidos no sistema.
 || Usuário || Usuários interessados em utilizar o sistema. ||
 || Gestor || Funcionários (Administradores, bibliotecários, serventes, diretoria) do Instituto Federal de Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista. ||
 
-
 == 2.1.4.1.2 Casos de Uso ==
 A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
 == 2.1.4.1.2.1 Login ==
@@ -29,4 +28,14 @@ A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
 ||Fluxo Principal||
 ||Ações dos Atores:||Ações do Sistema:||
 ||1.O usuário deve digitar o BV e senha||2. O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.|| 
-||3. Fim do Caso de Uso.||	
+||3. Fim do Caso de Uso.||
+
+==	
+||Fluxo Alternativo A – Login Inválido - Senha Inválida||
+||1.1O usuário deve digitar o nome de usuário e senha.||1.2. Exibe um alerta de “Usuário ou Senha inválidos”.||
+||1.3. Retornar ao passo 1 do Fluxo Principal.||
+
+==
+||Fluxo Alternativo B – Login Inválido - Usuário Inexistente||
+||1.1. O usuário deve digitar o nome de usuário e senha.||1.2. Exibe um alerta de “nome de usuário não cadastrado”.||
+||1.3 Retornar ao passo 1 do Fluxo Principal.||	
