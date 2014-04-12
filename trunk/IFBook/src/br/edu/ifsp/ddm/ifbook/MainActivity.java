@@ -1,4 +1,6 @@
-package com.example.ifbook;
+package br.edu.ifsp.ddm.ifbook;
+
+import com.example.ifbook.R;
 
 import android.os.Bundle;
 import android.app.Activity;

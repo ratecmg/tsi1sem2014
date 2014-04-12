@@ -1,4 +1,4 @@
-package br.edu.ifsp.ifbook.dao;
+package br.edu.ifsp.ddm.ifbook.dao;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
