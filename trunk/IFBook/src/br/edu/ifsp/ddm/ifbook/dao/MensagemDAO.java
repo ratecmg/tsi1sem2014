@@ -3,9 +3,6 @@ package br.edu.ifsp.ddm.ifbook.dao;
 import java.util.ArrayList;
 import java.util.List;
 
-
-
-import br.edu.ifsp.ddm.cadastroprodutobd.modelo.Produto;
 import br.edu.ifsp.ddm.ifbook.modelo.Mensagem;
 import android.content.ContentValues;
 import android.content.Context;
