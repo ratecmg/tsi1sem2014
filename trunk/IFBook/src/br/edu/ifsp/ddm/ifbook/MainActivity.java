@@ -1,13 +1,21 @@
 package br.edu.ifsp.ddm.ifbook;
 
-import com.example.ifbook.R;
+import java.util.List;
+
+import br.edu.ifsp.ddm.ifbook.dao.MensagemDAO;
+import br.edu.ifsp.ddm.ifbook.modelo.Mensagem;
+
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.view.Menu;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
+import android.widget.ListView;
 import android.widget.Spinner;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 	
@@ -15,6 +23,7 @@ public class MainActivity extends Activity {
 	private Mensagem p;
 	private List<Mensagem> mensagem;
 	private MensagemDAO dao;
+	private ListView lvMensagem;
 	private EditText edID;
 	private EditText edTITULO;
 	private EditText edDESCRICAO;
@@ -108,4 +117,42 @@ public class MainActivity extends Activity {
 		edIDUSUARIO.setText(String.valueOf(Mensagem.getIdUsuario()));
 	}
 	
+	
+	
+	// Excluir Mensagem 14/04/2014
+	private void excluirMensagem(final int idMensagem) {
+			
+			
+			AlertDialog.Builder builder = new AlertDialog.Builder(this);
+			builder.setTitle("Excluir a Mensagem?")
+					.setIcon(android.R.drawable.ic_dialog_alert)
+					.setMessage("Deseja excluir essa Mesagem?")
+					.setCancelable(false)
+					.setPositiveButton("Sim",
+							new DialogInterface.OnClickListener() {
+								public void onClick(DialogInterface dialog, int id) {
+									if (dao.deletar(idMensagem)) {
+										atualizarLista();
+										exibirMensagem("Mensagem excluída com sucesso!");
+									} else {
+										exibirMensagem("Não foi possível excluir a Mensagem!");
+									}
+	
+								}
+							})
+					.setNegativeButton("Não",
+							new DialogInterface.OnClickListener() {
+								public void onClick(DialogInterface dialog, int id) {
+									dialog.cancel();
+								}
+							});
+			builder.create();
+			builder.show();
+	
+		}
+	
+	private void exibirMensagem(String msg) {
+		Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_LONG).show();
+	}
 }
+
