@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+
+import br.edu.ifsp.ddm.cadastroprodutobd.modelo.Produto;
 import br.edu.ifsp.ddm.ifbook.modelo.Mensagem;
 import android.content.ContentValues;
 import android.content.Context;
@@ -46,6 +48,14 @@ public class MensagemDAO extends DAO<Mensagem>{
 		
 		
 	}
+	
+	public boolean atualizar(Mensagem mensagem) {
+		ContentValues values = serializeContentValues(mensagem);
+		if(database.update(tableName, values, "id = ?", new String[]{String.valueOf(mensagem.getIdMensagem())})>0)
+			return true;
+		else
+			return false;
+	}		
 	
 	public boolean deletar(Integer id) {
 		if(database.delete(tableName, "id = ?", new String[]{String.valueOf(id)})>0)
