@@ -1,27 +1,17 @@
 {| align=center border=1
-|+ Histórico da Revisão
-! Data	
-! Versão	
-! Descrição	
-! Autor
+|+ Recibo
+!Prato
+!Numero
+!Preço
 |-
-| 172012	
-| 10	
-| Versão Inicial	
-| Luís Fernando Anizello e Maximilian S Chiocheti
+|Entrada
+|1
+|5
 |-
-| 29092013
-| 11	
-| Revisão de Requisitos Funcionais.	
-| Luís Fernando Anizello e Fagner F S Cruz
-|-
-| 24092013
-| 12
-| Revisão de Requisitos Funcionais.
-| Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
-|-
-| 02042014
-| 13	
-| Ajustes finais	
-| Daiane, Simone, Samara, Felipe, Lucas, Márcio
+|Prato do dia
+|2
+|14
+|-Total
+|
+|19
 |}
