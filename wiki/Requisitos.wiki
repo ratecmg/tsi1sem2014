@@ -1,4 +1,4 @@
-{| aling=center border=1
+{| 
 |+ Histórico da Revisão
 ! Data	
 ! Versão	
