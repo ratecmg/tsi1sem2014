@@ -1,18 +1,35 @@
 {| align=center border=1
+
 |+ Recibo
-!Prato
-!Numero
-!Preço
+
+! Prato
+
+! Numero
+
+! Preço
+
 |-
-|Entrada
-|1
-|5
+
+| Entrada
+
+| 1
+
+| 5
+
 |-
-|Prato do dia
-|2
-|14
+
+| Prato do dia
+
+| 2
+
+| 14
+
 |-
-|Total
+
+| Total
+
 |
-|19
+
+| 19
+
 |}
