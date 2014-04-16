@@ -1,4 +1,4 @@
-{ | align=center border=1
+{| align=center border=1
 |+ Histórico da Revisão
 ! Data	
 ! Versão	
@@ -24,4 +24,4 @@
 | 1.3	
 | Ajustes finais	
 | Daiane, Simone, Samara, Felipe, Lucas, Márcio
-| }
+|}
