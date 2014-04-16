@@ -28,7 +28,7 @@ O usuário deve estar previamente cadastrado.
 
 Fluxo Alternativo A – Login Inválido - Senha Inválida'''</center>
 
-|-
+{|-
 | style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 1.1O usuário deve digitar o nome de usuário e senha.
 | style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 2.1 Exibe um alerta de “Usuário ou Senha inválidos”.
 
