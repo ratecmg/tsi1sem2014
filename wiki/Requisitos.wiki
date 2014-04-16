@@ -1,0 +1,28 @@
+
+{|aling=center border=1
+|+Histórico da Revisão
+!Data	
+!Versão	
+!Descrição	
+!Autor
+|-
+|17/10/2012	
+|1.0	
+|Versão Inicial	
+|Luís Fernando Anizello e Maximilian S Chiocheti
+|-
+|29/09/2013
+|1.1	
+|Revisão de Requisitos Funcionais.	
+|Luís Fernando Anizello e Fagner F S Cruz
+|-
+|24/09/2013
+|1.2
+|Revisão de Requisitos Funcionais.
+|Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
+|-
+|02/04/2014
+|1.3	
+|Ajustes finais	
+|Daiane, Simone, Samara, Felipe, Lucas, Márcio
+|}
