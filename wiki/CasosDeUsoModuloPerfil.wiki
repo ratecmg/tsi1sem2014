@@ -27,7 +27,7 @@ O usuário deve estar previamente cadastrado.
 ||1. O usuário deve digitar o nome de usuário e senha || 2. O sistema verifica os dados do usuário, caso estejam corretos o sistema redireciona o usuário para a página principal do sistema.||
 ||3. Fim do Caso de Uso.|| ||
 ||
-|colspan="2"|*Fluxo Alternativo A – Login Inválido - Senha Inválida* || || 
+||*Fluxo Alternativo A – Login Inválido - Senha Inválida* || || 
 ||1.1 O usuário deve digitar o nome de usuário e senha.|| 2.1 Exibe um alerta de “Usuário ou Senha inválidos”.||
 ||3.1 Retornar ao passo 1 do Fluxo Principal.|| ||
 | colspan="2"  style="background-color:#002060;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Fluxo Alternativo B – Login Inválido - Usuário Inexistente'''</center>
