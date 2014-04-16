@@ -28,3 +28,8 @@ Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as 
 || RF#03	|| O usuário (usuário/gestor) cadastrado deverá ter as informações relacionadas ao seu perfil salvas em banco de dados. A Rede Social deve permitir a alteração e atualização desses dados. ||
 || RF#04	|| O usuário da rede deve ser capaz de enviar uma imagem sua para o seu perfil caso queira. Essa imagem pode vir do seu Celular (Se possuir gerenciador de diretório) ou de algum link na web. O tamanho máximo será 64kb suportando os formatos JPG e PNG. ||
 || RF#05	|| Dentro do perfil, o usuário deve ser capaz de definir sua Área de Interesse que será definida posteriormente. ||
+
+== 2.3	Requisitos Não Funcionais ==
+|| *Identificador* || *Descrição do Requisito* ||
+|| RN #01	|| Design Pattern MVC: Será utilizado o design pattern MVC. Esse padrão de projeto será adotado pois facilita a reutilização do código e facilita também a forma com que a implementação será gerenciada, permitindo que cada camada possa ser construída de forma quase que completamente independente. Não será utilizada nenhuma ferramenta de geração de código. ||
+|| RN #02	|| Este sistema deverá ser capaz de propiciar uma interface agradável ao usuário, com opções simples, e autoexplicativas. ||
