@@ -5,23 +5,23 @@
 ! Descrição	
 ! Autor
 |-
-| 17/10/2012	
-| 1.0	
+| 172012	
+| 10	
 | Versão Inicial	
 | Luís Fernando Anizello e Maximilian S Chiocheti
 |-
-| 29/09/2013
-| 1.1	
+| 29092013
+| 11	
 | Revisão de Requisitos Funcionais.	
 | Luís Fernando Anizello e Fagner F S Cruz
 |-
-| 24/09/2013
-| 1.2
+| 24092013
+| 12
 | Revisão de Requisitos Funcionais.
 | Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz
 |-
-| 02/04/2014
-| 1.3	
+| 02042014
+| 13	
 | Ajustes finais	
 | Daiane, Simone, Samara, Felipe, Lucas, Márcio
 |}
