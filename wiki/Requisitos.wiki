@@ -11,7 +11,8 @@
 |Prato do dia
 |2
 |14
-|-Total
+|-
+|Total
 |
 |19
 |}
