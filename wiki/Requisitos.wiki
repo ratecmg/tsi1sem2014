@@ -21,3 +21,10 @@ Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as 
 2.	Solicitações dos Envolvidos
 
  2.1	Requisitos Funcionais Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
+
+|| *Identificador* || *Descrição do Requisito* ||
+|| RF#01	|| Cadastro pré-definido, sendo necessário possuir um BV do IFSP-SJBV para se cadastrar. || 
+|| RF#02	|| Sistema de Login responsável pela identificação única do usuário no IFBOOK. Para o acesso será necessário o BV e a senha previamente cadastrados. No primeiro acesso à rede, será obrigatório o preenchimento do restante dos dados pessoais. || 
+|| RF#03	|| O usuário (usuário/gestor) cadastrado deverá ter as informações relacionadas ao seu perfil salvas em banco de dados. A Rede Social deve permitir a alteração e atualização desses dados. ||
+|| RF#04	|| O usuário da rede deve ser capaz de enviar uma imagem sua para o seu perfil caso queira. Essa imagem pode vir do seu Celular (Se possuir gerenciador de diretório) ou de algum link na web. O tamanho máximo será 64kb suportando os formatos JPG e PNG. ||
+|| RF#05	|| Dentro do perfil, o usuário deve ser capaz de definir sua Área de Interesse que será definida posteriormente. ||
