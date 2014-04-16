@@ -33,7 +33,7 @@ O usuário deve estar previamente cadastrado.
 || *Fluxo Alternativo B – Login Inválido - Usuário Inexistente* || ||
 || 1.2 O usuário deve digitar o nome de usuário e senha. || 2.2 Exibe um alerta de “nome de usuário não cadastrado”.||
 || 3.2 Retornar ao passo 1 do Fluxo Principal.|| ||
-|| *Fluxo Alternativo A – Login Inválido – Usuário Inválido|| ||
+|| *Fluxo Alternativo A – Login Inválido – Usuário Inválido||
 || 1.3 O usuário deve digitar o nome de usuário e senha.|| 2.3 Exibe um alerta de “Usuário ou Senha inválidos”.||
 || 3.3 Retornar ao passo 1 do Fluxo Principal.|| ||
 || *Protótipo de Interface Homem-Máquina:|| ||
