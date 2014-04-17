@@ -2,6 +2,8 @@
 
 
 === PROJETO DO BANCO DE DADOS ===
+
+O presente capítulo
 ==== Modelo Conceitual ====
 
 http://tsi1sem2014.googlecode.com/svn/wiki/images/ModeloConceitual.jpg
