@@ -30,4 +30,13 @@
 || RF#02	|| As mensagens podem ser editadas e excluídas pelo autor da mensagem. O gestor pode excluir qualquer mensagem de qualquer usuário. || 
 || RF#03	|| Este módulo contará com um requisito denominado classificado, que deverá manter uma área destinada a postagens de classificados, onde os usuários poderão postar classificados de compra, venda, alugueis, entre outros. Os classificados deverão conter: Título, Descrição, Imagem. ||
 
+ 2.2	Priorização dos Requisitos Funcionais
+
+ Segue abaixo o resultado da priorização dos requisitos funcionais deste sistema, utilizando-se do método de Análise Kano: 
+
+Bruno Ap. Galdino
+|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
+|| RF#01	|| Gostaria || Não Gostaria || Performance ||
+|| RF#02	|| Não Gostaria || Gostaria || Reverso(inválido)||
+|| RF#03	|| Não Importa || Não importa || Indiferente ||
      
