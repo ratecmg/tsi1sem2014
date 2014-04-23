@@ -1,0 +1,36 @@
+== Histórico da Revisão ==
+
+|| *Data* || *Versão* || *Descrição* || *Autor* ||
+|| 17/10/2012 || 1.0 || Versão Inicial || Luís Fernando Anizello e Maximilian S Chiocheti ||
+|| 24/09/2013 || 1.1 || Revisão de Requisitos Funcionais. || Luís Fernando Anizello e Fagner F S Cruz ||
+|| 29/09/2013 || 1.2 || Revisão de Requisitos Funcionais. || Luís Fernando Anizello, Maximilian S Chiocheti e Fagner F S Cruz ||
+|| 02/04/2014 || 1.3 || Ajustes finais || Daiane, Simone, Samara, Felipe, Lucas, Márcio ||
+
+==Índice Analítico==
+
+1.	Introdução	                        
+ 1.1	Referências:	                        
+2.	Solicitações dos Envolvidos	        
+ 2.2	Requisitos Funcionais	                
+
+ 
+
+==Solicitações dos Principais Envolvidos==
+1.	Introdução
+Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
+
+2.	Solicitações dos Envolvidos
+
+ 2.1	Requisitos Funcionais Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
+
+|| *Identificador* || *Descrição do Requisito* ||
+|| RF#01	|| Cadastro pré-definido, sendo necessário possuir um BV do IFSP-SJBV para se cadastrar. || 
+|| RF#02	|| Sistema de Login responsável pela identificação única do usuário no IFBOOK. Para o acesso será necessário o BV e a senha previamente cadastrados. No primeiro acesso à rede, será obrigatório o preenchimento do restante dos dados pessoais. || 
+|| RF#03	|| O usuário (usuário/gestor) cadastrado deverá ter as informações relacionadas ao seu perfil salvas em banco de dados. A Rede Social deve permitir a alteração e atualização desses dados. ||
+|| RF#04	|| O usuário da rede deve ser capaz de enviar uma imagem sua para o seu perfil caso queira. Essa imagem pode vir do seu Celular (Se possuir gerenciador de diretório) ou de algum link na web. O tamanho máximo será 64kb suportando os formatos JPG e PNG. ||
+|| RF#05	|| Dentro do perfil, o usuário deve ser capaz de definir sua Área de Interesse que será definida posteriormente. ||
+
+== 2.2	Requisitos Não Funcionais ==
+|| *Identificador* || *Descrição do Requisito* ||
+|| RN #01	|| Design Pattern MVC: Será utilizado o design pattern MVC. Esse padrão de projeto será adotado pois facilita a reutilização do código e facilita também a forma com que a implementação será gerenciada, permitindo que cada camada possa ser construída de forma quase que completamente independente. Não será utilizada nenhuma ferramenta de geração de código. ||
+|| RN #02	|| Este sistema deverá ser capaz de propiciar uma interface agradável ao usuário, com opções simples, e autoexplicativas. ||
