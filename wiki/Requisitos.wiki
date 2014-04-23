@@ -1,3 +1,5 @@
+== Histórico da Revisão ==
+
 || *Data* || *Versão* || *Descrição* || *Autor* ||
 || 17/10/2012 || 1.0 || Versão Inicial || Luís Fernando Anizello e Maximilian S Chiocheti ||
 || 24/09/2013 || 1.1 || Revisão de Requisitos Funcionais. || Luís Fernando Anizello e Fagner F S Cruz ||
