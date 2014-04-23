@@ -36,17 +36,18 @@ public class MensagemListAdapter extends BaseAdapter {
 	public View getView(int position, View convertView, ViewGroup parent) {
 		Mensagem p = lista.get(position);
 		LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-		View view = inflater.inflate(R.layout.mensagens, null);
-		
-		TextView id = (TextView) view.findViewById(R.id.txtIdMensagem);
-		id.setText("ID: "+String.valueOf(p.getIdMensagem()));
+		View view = inflater.inflate(R.layout.activity_list_item, null);
 		
 		
-		TextView titulo = (TextView) view.findViewById(R.id.txtTituloMensagem);
-		titulo.setText("Título: "+p.getTitulo());
+		//TextView id = (TextView) view.findViewById(R.id.txtIdMensagem);
+		//id.setText("ID: "+String.valueOf(p.getIdMensagem()));
 		
-		TextView descricao = (TextView) view.findViewById(R.id.txtDescricaoMensagem);
-		descricao.setText("Descrição: "+p.getDescricao());
+		
+		//TextView titulo = (TextView) view.findViewById(R.id.txtTituloMensagem);
+		//titulo.setText("Título: "+p.getTitulo());
+		
+		//TextView descricao = (TextView) view.findViewById(R.id.txtDescricaoMensagem);
+		//descricao.setText("Descrição: "+p.getDescricao());
 		
 		
 		return view;

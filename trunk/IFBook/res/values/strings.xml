@@ -6,11 +6,11 @@
     <string name="hello_world">Hello world!</string>
     
     <string name="id">Id: </string>
-    <string name="titulo">Título: </string>
-    <string name="descricao">Descrição</string>
+    <string name="titulo">Titulo: </string>
+    <string name="descricao">Descricao</string>
     <string name="categoria">Categoria: </string>
     <string name="data">Data: </string>
-    <string name="idusuario">Id Usuário: </string>
+    <string name="idusuario">Id Usuario: </string>
     <string name="btnenviar">Enviar</string>
     
     
