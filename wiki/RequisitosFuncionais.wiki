@@ -1,4 +1,4 @@
-= Histórico da Revisão =
+== Histórico da Revisão ==
 
 || *Data* || *Versão* || *Descrição* || *Autor* ||
 || 17/09/2013 || 1.0 || Requisitos Funcionais || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
@@ -8,7 +8,7 @@
 || 12/02/2014 || 2.2 || Revisão A 2014 ||Daiane,Samara,Simone,Felipe,Lucas,Marcio ||
 || 02/04/2014 || 2.3 || Ajustes Finais ||Daiane,Samara,Simone,Felipe,Lucas, Marcio ||
 
-Índice Analítico
+== Índice Analítico ==
 1.	Introdução	
 2.	Solicitações dos Envolvidos	
 2.1	Requisitos Funcionais	
