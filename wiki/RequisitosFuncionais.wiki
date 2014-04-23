@@ -9,8 +9,9 @@
 || 02/04/2014 || 2.3 || Ajustes Finais ||Daiane,Samara,Simone,Felipe,Lucas, Marcio ||
 
 == Índice Analítico ==
-1.	Introdução	
+1.	Introdução
+
 2.	Solicitações dos Envolvidos	
-  2.1	Requisitos Funcionais	
-  2.2	Priorização dos Requisitos Funcionais	
+  2.1	Requisitos Funcionais	<br>
+  2.2	Priorização dos Requisitos Funcionais	<br>
   2.3      Requisitos não Funcionais      
