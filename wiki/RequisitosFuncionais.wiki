@@ -76,7 +76,7 @@ Média Ponderada
 || RF#03	|| Indiferente ||
 
 <br><br>
-2.3 Requisitos Não Funcionais
+ 2.3 Requisitos Não Funcionais
 || *Identificador* ||  *Descrição do Requisito* ||
 || RF#01	|| É necessário que o Processo de Software a ser utilizado seja a linguagem JAVA para plataforma Android.||
 || RF#02	|| Banco de Dados utilizado será o SQLite, por ser uma ferramenta gratuita e por suprir todos os requisitos do projeto IFBOOK. || 
