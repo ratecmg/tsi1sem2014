@@ -16,5 +16,12 @@
   2.2	Priorização dos Requisitos Funcionais	<br>
   2.3      Requisitos não Funcionais 
 
+== Solicitações dos Principais Envolvidos ==
+1.	Introdução
+ Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
+
+2.	Solicitações dos Envolvidos
+ 2.1	Requisitos Funcionais
+  Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
                 
      
