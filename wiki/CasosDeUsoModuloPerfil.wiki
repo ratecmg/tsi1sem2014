@@ -1,13 +1,12 @@
 ==Módulo Perfil==
 
 
-===Introdução ===
+===Introdução===
 Este documento apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Perfil da Rede Social IFBOOK.
 
 
 ===Atores===
-====Usuários====
-Descrição: Aluno, Servidor ou professor da Instituição.
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/Atores.png
 
 
 ===Casos de Uso===
