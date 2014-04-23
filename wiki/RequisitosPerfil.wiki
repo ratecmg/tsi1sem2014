@@ -16,12 +16,12 @@
  
 
 ==Solicitações dos Principais Envolvidos==
-1.	Introdução
-Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
+===1.	Introdução===
+ Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
 
-2.	Solicitações dos Envolvidos
+===2.	Solicitações dos Envolvidos===
 
- 2.1	Requisitos Funcionais Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
+ ====2.1	Requisitos Funcionais Segue abaixo a lista dos requisitos funcionais identificados para este sistema:==== 
 
 || *Identificador* || *Descrição do Requisito* ||
 || RF#01	|| Cadastro pré-definido, sendo necessário possuir um BV do IFSP-SJBV para se cadastrar. || 
@@ -30,7 +30,7 @@ Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as 
 || RF#04	|| O usuário da rede deve ser capaz de enviar uma imagem sua para o seu perfil caso queira. Essa imagem pode vir do seu Celular (Se possuir gerenciador de diretório) ou de algum link na web. O tamanho máximo será 64kb suportando os formatos JPG e PNG. ||
 || RF#05	|| Dentro do perfil, o usuário deve ser capaz de definir sua Área de Interesse que será definida posteriormente. ||
 
-== 2.2	Requisitos Não Funcionais ==
+====2.2	Requisitos Não Funcionais====
 || *Identificador* || *Descrição do Requisito* ||
 || RN #01	|| Design Pattern MVC: Será utilizado o design pattern MVC. Esse padrão de projeto será adotado pois facilita a reutilização do código e facilita também a forma com que a implementação será gerenciada, permitindo que cada camada possa ser construída de forma quase que completamente independente. Não será utilizada nenhuma ferramenta de geração de código. ||
 || RN #02	|| Este sistema deverá ser capaz de propiciar uma interface agradável ao usuário, com opções simples, e autoexplicativas. ||
