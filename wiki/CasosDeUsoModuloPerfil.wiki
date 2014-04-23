@@ -31,103 +31,11 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC05-Envi
 
 
 
-|}
-= Diagrama de Caso de Uso =
-= Estimativa de Esforços por Pontos de Caso de Uso =
-== Fatores Técnicos ==
+== Diagrama de Caso de Uso ==
+== Estimativa de Esforços por Pontos de Caso de Uso ==
+=== Fatores Técnicos ===
 
-{| style="border-spacing:0;"
-| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Técnicos'''
-| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Peso'''</center>
-| style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Relevância'''</center>
-| style="background-color:#000080;border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Resultado'''</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Sistema distribuído
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Tempo de resposta
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Eficiência
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Processamento complexo
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Código'' reusável''
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de instalação
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de uso
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Portabilidade
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>2</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Facilidade de mudança
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Concorrência
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>1</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>4</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Recursos de segurança
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>3</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Acessível por terceiros
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| Requer treinamento especial
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0.5</center>
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>0</center>
-
-|-
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| 
-| style="border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>'''Tfactor'''</center>
-| style="border:0.75pt solid #000080;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| <center>17</center>
-
-|}
-== Fatores Ambientais ==
+=== Fatores Ambientais ===
 
 {| style="border-spacing:0;"
 | style="background-color:#000080;border-top:0.75pt solid #000080;border-bottom:0.75pt solid #000080;border-left:0.75pt solid #000080;border-right:none;padding-top:0cm;padding-bottom:0cm;padding-left:0.191cm;padding-right:0.191cm;"| '''Fatores Ambientais'''
