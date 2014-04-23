@@ -11,6 +11,6 @@
 == Índice Analítico ==
 1.	Introdução	
 2.	Solicitações dos Envolvidos	
-2.1	Requisitos Funcionais	
-2.2	Priorização dos Requisitos Funcionais	
-2.3      Requisitos não Funcionais      
+  2.1	Requisitos Funcionais	
+  2.2	Priorização dos Requisitos Funcionais	
+  2.3      Requisitos não Funcionais      
