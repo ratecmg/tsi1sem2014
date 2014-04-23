@@ -1,1 +1,9 @@
 = Histórico da Revisão =
+
+|| *Data* || *Versão* || *Descrição* || *Autor* ||
+|| 17/09/2013 || 1.0 || Requisitos Funcionais || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
+|| 19/09/2013 || 1.1 || Requisitos não Funcionais || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
+|| 29/10/2013 || 2.0 || Versão Finalizada || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
+|| 06/02/2014 || 2.1 || Revisão Inicial 2014 || Daiane,Samara,Simone,Felipe,Lucas ||
+|| 12/02/2014 || 2.2 || Revisão A 2014 ||Daiane,Samara,Simone,Felipe,Lucas,Marcio ||
+|| 02/04/2014 || 2.3 || Ajustes Finais ||Daiane,Samara,Simone,Felipe,Lucas, Marcio ||
