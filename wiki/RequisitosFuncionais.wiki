@@ -46,4 +46,25 @@ Danilo Oliveira
 || RF#01	|| Gostaria || Não Gostaria || Performance ||
 || RF#02	|| Não Importa || Gostaria || Reverso(inválido) ||
 || RF#03	|| Gostaria || Não importa || Performance ||
+
+<br><br>
+Jessé Cuzini
+|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
+|| RF#01	|| Gostaria || Não Gostaria || Performance ||
+|| RF#02	|| Esperado || Não Gostaria || Deve ser feito ||
+|| RF#03	|| Não Importa || Não importa || Indiferente ||
+
+<br><br>
+Tiago Modena
+|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
+|| RF#01	|| Esperado || Não Gostaria || Performance ||
+|| RF#02	|| Esperado || Convivo com isso || Indiferente ||
+|| RF#03	|| Esperado || Convivo com isso || Indiferente ||
+
+<br><br>
+Wellington Silva dos Santos
+|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
+|| RF#01	|| Gostaria || Não Gostaria || Performance ||
+|| RF#02	|| Não Importa || Não Importa || Indiferente ||
+|| RF#03	|| Gostaria || Convivo com isso || Atrativo ||
      
