@@ -1,0 +1,99 @@
+package br.edu.ifsp.ddm.ifbook.dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.edu.ifsp.ddm.ifbook.modelo.Classificado;
+import br.edu.ifsp.ddm.ifbook.modelo.Mensagem;
+import android.content.ContentValues;
+import android.content.Context;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+
+public class ClassificadoDAO extends DAO<Classificado>{
+
+	private SQLiteDatabase database;
+	
+	public ClassificadoDAO(Context context) {
+		super(context);
+		campos = new String[]{"idClassificado","Data","Titulo","Descricao","Imagem","AreaInteresse_idAreaInteresse","Usuario_idUsuario"};
+		
+		tableName = "Classificado";
+		database = getWritableDatabase();	
+	}
+	
+	
+	public List<Classificado> listAll() {
+		List<Classificado> list = new ArrayList<Classificado>();
+		Cursor cursor = executeSelect(null, null, "1");
+		
+
+		if(cursor!=null && cursor.moveToFirst())
+		{
+			do{
+				list.add(serializeByCursor(cursor));
+			}while(cursor.moveToNext());
+			
+			
+		}
+		
+		if(!cursor.isClosed())
+		{
+			cursor.close();
+		}
+		
+		return list;
+		
+		
+	}
+	
+	public boolean atualizar(Classificado classificado) {
+		ContentValues values = serializeContentValues(classificado);
+		if(database.update(tableName, values, "id = ?", new String[]{String.valueOf(classificado.getIdClassificado())})>0)
+			return true;
+		else
+			return false;
+	}		
+	
+	public boolean deletar(Integer id) {
+		if(database.delete(tableName, "id = ?", new String[]{String.valueOf(id)})>0)
+			return true;
+		else
+			return false;
+	}
+	
+	
+	
+	private Classificado serializeByCursor(Cursor cursor)
+	{
+		Classificado classificado = new Classificado();
+		classificado.setIdClassificado(cursor.getInt(0));
+		//mensagem.setData(cursor.get???(1));
+		classificado.setTitulo(cursor.getString(2));
+		classificado.setDescricao(cursor.getString(3));		
+		
+		return classificado;
+		
+	}
+	
+	private ContentValues serializeContentValues(Classificado classificado)
+	{
+		ContentValues values = new ContentValues();
+		values.put("IdMensagem", classificado.getIdClassificado());
+		values.put("Data", classificado.getData().toString());
+		values.put("Titulo", classificado.getTitulo());
+		values.put("Descricao", classificado.getDescricao());
+		//values.put("Imagem", mensagem.getImagem());
+		
+		return values;
+	}	
+	
+	
+	private Cursor executeSelect(String selection, String[] selectionArgs, String orderBy)
+	{
+		
+		return database.query(tableName,campos, selection, selectionArgs, null, null, orderBy);		
+
+	}
+	
+}
