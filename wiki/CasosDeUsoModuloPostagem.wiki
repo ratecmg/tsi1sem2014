@@ -1,0 +1,42 @@
+==Módulo 02 Postagem==
+
+
+===Introdução===
+Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Postagem da Rede Social IFBOOK.
+
+===Atores===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/Atores.png
+
+
+===Casos de Uso===
+====Visualizar Mensagens e Classificados====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC01-VisualizarMensClass.png
+
+====Postar Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC02-PostarMensagem.png
+
+====Editar Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC03-EditarMensagem.png
+
+====Remover Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC04-RemoverMensagem.png
+
+====Postar Classificado====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC05-PostarClassificado.png
+
+====Editar Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC06-EditarClassificado.png
+
+====Remover Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC07-RemoverClassificado.png
+
+== Diagrama de Caso de Uso ==
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/DiagramaCasosDeUso.png
+
+
+== Estimativa de Esforços por Pontos de Caso de Uso ==
+=== Fatores Técnicos ===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/EstimativasDeEsforcos/FatoresTecnicos.png
+
+=== Fatores Ambientais ===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/EstimativasDeEsforcos/FatoresAmbientais.png
