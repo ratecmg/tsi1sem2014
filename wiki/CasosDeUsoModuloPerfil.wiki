@@ -26,6 +26,9 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC05-Envi
 
 
 == Diagrama de Caso de Uso ==
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/DiagramaCasosDeUso.png
+
+
 == Estimativa de Esforços por Pontos de Caso de Uso ==
 === Fatores Técnicos ===
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforcos/FatoresTecnicos.png
