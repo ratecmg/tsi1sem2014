@@ -5,9 +5,11 @@
 Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
 
 ===Requisitos Funcionais===
+Segue abaixo a lista dos requisitos funcionais identificados para este sistema:
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/RequisitosFuncionais/RequisitosFuncionais.png
 
 ===Priorização dos Requisitos Funcionais===
+Segue abaixo o resultado da priorização dos requisitos funcionais deste sistema, utilizando-se do método de Análise Kano: 
 ====Fagner F S Cruz====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/PriorizacaoRFuncionais/Fagner.png
 
