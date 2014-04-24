@@ -1,84 +1,13 @@
-== Histórico da Revisão ==
+==Módulo 02 Postagem==
 
-|| *Data* || *Versão* || *Descrição* || *Autor* ||
-|| 17/09/2013 || 1.0 || Requisitos Funcionais || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
-|| 19/09/2013 || 1.1 || Requisitos não Funcionais || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
-|| 29/10/2013 || 2.0 || Versão Finalizada || Bruno Ap. Galdino, Danilo Oliveira,Jessé Cuzini, Tiago Modena, Wellington Silva dos Santos ||
-|| 06/02/2014 || 2.1 || Revisão Inicial 2014 || Daiane,Samara,Simone,Felipe,Lucas ||
-|| 12/02/2014 || 2.2 || Revisão A 2014 ||Daiane,Samara,Simone,Felipe,Lucas,Marcio ||
-|| 02/04/2014 || 2.3 || Ajustes Finais ||Daiane,Samara,Simone,Felipe,Lucas, Marcio ||
 
-== Índice Analítico ==
-1.	Introdução
+===Introdução===
+Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
 
-2.	Solicitações dos Envolvidos	
-  2.1	Requisitos Funcionais	<br>
-  2.2	Priorização dos Requisitos Funcionais	<br>
-  2.3      Requisitos não Funcionais 
+===Requisitos Funcionais===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/RequisitosFuncionais/RequisitosFuncionais.png
 
-== Solicitações dos Principais Envolvidos ==
-===1.	Introdução===
- Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
 
-===2.	Solicitações dos Envolvidos===
- ====2.1	Requisitos Funcionais====
-  Segue abaixo a lista dos requisitos funcionais identificados para este sistema: 
-
-|| *Identificador* || *Descrição do Requisito* ||
-|| RF#01	|| Este módulo deverá ser capaz de manter as mensagens e fotos (Inserir, Editar e Remover). Estas serão armazenadas em um banco de dados juntos à metadados. Os metadados das mensagens serão: Título, Descrição, Imagem.Os vídeos deverão ser compartilhados pelo Youtube, disponibilizando o seu link no IFBOOK. O Formato de arquivo de imagem permitidos serão: jpg”,”.png”.||
-                                                                                	          
-|| RF#02	|| As mensagens podem ser editadas e excluídas pelo autor da mensagem. O gestor pode excluir qualquer mensagem de qualquer usuário. || 
-|| RF#03	|| Este módulo contará com um requisito denominado classificado, que deverá manter uma área destinada a postagens de classificados, onde os usuários poderão postar classificados de compra, venda, alugueis, entre outros. Os classificados deverão conter: Título, Descrição, Imagem. ||
-
- ====2.2	Priorização dos Requisitos Funcionais====
-
- Segue abaixo o resultado da priorização dos requisitos funcionais deste sistema, utilizando-se do método de Análise Kano: 
-
-Bruno Ap. Galdino
-|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
-|| RF#01	|| Gostaria || Não Gostaria || Performance ||
-|| RF#02	|| Não Gostaria || Gostaria || Reverso(inválido) ||
-|| RF#03	|| Não Importa || Não importa || Indiferente ||
-
-<br><br>
-Danilo Oliveira
-|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
-|| RF#01	|| Gostaria || Não Gostaria || Performance ||
-|| RF#02	|| Não Importa || Gostaria || Reverso(inválido) ||
-|| RF#03	|| Gostaria || Não importa || Performance ||
-
-<br><br>
-Jessé Cuzini
-|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
-|| RF#01	|| Gostaria || Não Gostaria || Performance ||
-|| RF#02	|| Esperado || Não Gostaria || Deve ser feito ||
-|| RF#03	|| Não Importa || Não importa || Indiferente ||
-
-<br><br>
-Tiago Modena
-|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
-|| RF#01	|| Esperado || Não Gostaria || Performance ||
-|| RF#02	|| Esperado || Convivo com isso || Indiferente ||
-|| RF#03	|| Esperado || Convivo com isso || Indiferente ||
-
-<br><br>
-Wellington Silva dos Santos
-|| *Identificador Requisito Funcional* || *Resposta Positiva* || *Resposta Negativa* || * Priorização Final* ||
-|| RF#01	|| Gostaria || Não Gostaria || Performance ||
-|| RF#02	|| Não Importa || Não Importa || Indiferente ||
-|| RF#03	|| Gostaria || Convivo com isso || Atrativo ||
-
-<br><br>
-Média Ponderada
-|| *Identificador Requisito Funcional* ||  *Priorização Final* ||
-|| RF#01	|| Performance ||
-|| RF#02	|| Indiferente || 
-|| RF#03	|| Indiferente ||
-
-<br><br>
- ====2.3 Requisitos Não Funcionais====
-|| *Identificador* ||  *Descrição do Requisito* ||
-|| RF#01	|| É necessário que o Processo de Software a ser utilizado seja a linguagem JAVA para plataforma Android.||
-|| RF#02	|| Banco de Dados utilizado será o SQLite, por ser uma ferramenta gratuita e por suprir todos os requisitos do projeto IFBOOK. || 
-|| RF#03	|| Design Pattern MVC: Será utilizado o design pattern MVC. Esse padrão de projeto será adotado pois facilita a reutilização do código e facilita também a forma com que a implementação será gerenciada, permitindo que cada camada possa ser construída de forma quase que completamente independente. Não será utilizada nenhuma ferramenta de geração de código. ||
+===Requisitos Não Funcionais===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/RequisitosNaoFuncionais/RequisitosNaoFuncionais.png
      
