@@ -12,18 +12,27 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/Atores.pn
 ==== Login ====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC01-Login.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/Prototipos/5.PNG
+
 ==== Exibir Tela Incial ====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC02-ExibirTelaInicial.png
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/Prototipos/4.PNG
 
 ==== Editar Área de Interesse ====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC03-EditarAreaInteresse.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/Prototipos/3.PNG
+
 ==== Recuperar Senha ====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC04-RecuperarSenha.png
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/Prototipos/2.PNG
 
 ==== Enviar Imagem do Perfil ====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC05-EnviarImagemPerfil.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/Prototipos/1.PNG
 
 == Diagrama de Caso de Uso ==
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/DiagramaCasosDeUso.png
