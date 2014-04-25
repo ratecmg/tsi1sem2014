@@ -120,3 +120,22 @@ Protótipo de Interface Homem-Máquina:
 
 == IMAGENS ==	
 
+== 2.1.4.1.2.5 Enviar Imagem de Perfil ==
+
+||*Nome do Caso de Uso: Enviar Imagem de Perfil||
+||Breve Descrição: ||Esse Caso de Uso ocorre quando usuário deseja enviar uma nova imagem para seu perfil.||
+||Ator Principal:||Usuário.||
+||Pré-Condição:	||O usuário deve estar previamente logado.||
+
+||*Fluxo Principal||
+||Ações dos Atores:||Ações do Sistema:||
+||1.Usuário acessa a sessão Editar Perfil > Editar Imagem de Perfil. ||2. Exibe a página para envio de imagem, com: - Imagem atual -Input para a seleção de uma nova imagem armazenada no dispositivo do usuário -Botão para envio.||
+||3. Seleciona um Imagem.||4. Salva imagem no sistema e volta para a tela inicial.||
+||5. Fim do Caso de Uso	||
+
+||*Fluxo Alternativo A – Formato não suportado||
+||3.1 Seleciona uma imagem que não é do formato JPEG nem PNG.||3.2. Exibe um alerta de “Formato de imagem inválido (JPEG, PNG)”.||
+||3.3. Retornar ao passo 3 do Fluxo Principal.||	
+||*Fluxo Alternativo B – Exceder Tamanho||
+||3.1. Seleciona uma imagem que é maior que 2 megabyte. ||3.2. Exibe um alerta de “Tamanho máximo permitido de imagem 2 megabytes”.||
+||3.3. Retornar ao passo 3 do Fluxo Principal.||	
