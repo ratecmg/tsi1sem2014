@@ -12,22 +12,35 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/Atores.pn
 ====Visualizar Mensagens e Classificados====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC01-VisualizarMensClass.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/1.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/2.PNG
+
 ====Postar Mensagem====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC02-PostarMensagem.png
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/3.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/4.PNG
 
 ====Editar Mensagem====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC03-EditarMensagem.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/5.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/6.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/7.PNG
+
 ====Remover Mensagem====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC04-RemoverMensagem.png
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/8.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/9.PNG
 
 ====Postar Classificado====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC05-PostarClassificado.png
 
-====Editar Mensagem====
+====Editar Classificado====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC06-EditarClassificado.png
 
-====Remover Mensagem====
+====Remover Classificado====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC07-RemoverClassificado.png
 
 == Diagrama de Caso de Uso ==
