@@ -37,11 +37,17 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/9.PNG
 ====Postar Classificado====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC05-PostarClassificado.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/10.PNG
+
 ====Editar Classificado====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC06-EditarClassificado.png
 
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/11.PNG
+
 ====Remover Classificado====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC07-RemoverClassificado.png
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/Prototipos/12.PNG
 
 == Diagrama de Caso de Uso ==
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/DiagramaCasosDeUso.png
