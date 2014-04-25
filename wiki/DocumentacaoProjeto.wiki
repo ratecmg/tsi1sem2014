@@ -5,7 +5,7 @@
 No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto, conforme pode ser visto abaixo:
 
 ===TERMO DE ABERTURA DE PROJETO===
-aaaa
+
 
 =PLANEJAMENTO=
 ==GERENCIAMENTO DO ESCOPO==
