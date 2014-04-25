@@ -74,4 +74,17 @@ Protótipo de Interface Homem-Máquina:
 ||Ator Principal:||Usuário||
 ||Pré-Condição:||Estar na tela inicial||
 
+||*Fluxo Principal||
+||Ações dos Atores:||Ações do Sistema:||
+||1. Clicar em “Área de interesse” no menu de seleção.||2. Exibir uma tela com uma combo box a área de interesse.||
+||3. Selecionar a Área de Interesse desejada e clica em Salvar.	||4. O sistema exibe a mensagem “Alterado com sucesso”||
+||5. Fim do Caso de Uso.||	
+
+||*Fluxo Alternativo A – Alterar Área de interesse (Desistência do usuário)||
+||1.1. Clicar em “Área de interesse” no menu de seleção.||1.2. Exibir uma tela com uma combo box a área de interesse.||
+||1.3. O usuário desiste da alteração e clica no botão voltar.||1.4. O sistema retorna para a tela principal||
+||1.5. Fim do caso de Uso||
+
+Protótipo de Interface Homem-Máquina:
 	
+== IMAGENS ==
