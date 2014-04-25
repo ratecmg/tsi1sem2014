@@ -9,8 +9,8 @@ aaaa
 ===DECLARAÇÃO DO ESCOPO===
 
 ===DOCUMENTO DE REQUISITOS DO PROJETO===
-==Módulo 01 Perfil==
 
+==Módulo 01 Perfil==
 
 ===Introdução===
 Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
@@ -38,10 +38,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/PriorizacaoRFunciona
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/RequisitosNaoFuncionais/RequisitosNaoFuncionais.png
 
 
-
-
 ==Módulo 02 Postagem==
-
 
 ===Introdução===
 Esta seção contém a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral deste conjunto de Solicitações dos Principais Envolvidos.
@@ -70,68 +67,145 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/PriorizacaoRFunciona
 ===Média Ponderada===
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/PriorizacaoRFuncionais/MediaPonderada.png
 
-
-
 ===Requisitos Não Funcionais===
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/RequisitosNaoFuncionais/RequisitosNaoFuncionais.png
 
 
 
-
-
-===ESTRUTURA ANALÍTICA DO PROJETO – EAP===
+==ESTRUTURA ANALÍTICA DO PROJETO – EAP==
 === DIAGRAMAS DE CASOS DE USO===
-==== Modulo 1====
-===== Atores=====
-===== Casos de Uso=====
-====== Login======
-====== Exibir Tela Inicial======
-====== Editar Área de Interesse======
-====== Recuperar Senha======
-====== Enviar Imagem de Perfil	====== 
-===== Diagrama de Caso de Uso	=====
-===== Estimativa de Esforços por Pontos de Caso de Uso=====
-====== Fatores Técnicos	======
-====== Fatores Ambientais======
-===== Estimativa Estimativa=====
-==== Modulo 2	====
-===== Atores	=====
-=====Casos de Uso	=====
-====== Visualizar mensagens e Classificados	======
-====== Editar Mensagens	======
-====== Remover Mensagem	======
-====== Postar Classificados	======
-====== Editar Classificados	======
-===== Diagrama de Caso de Uso	=====
-===== Estimativa de Esforços por Pontos de Caso de Uso	=====
-======Fatores Técnicos	======
-====== Fatores Ambientais======
-===== Estimativa	======
-===DIAGRAMAS DE CLASSE	===
-=== DIAGRAMAS DE SEQUÊNCIA===
-=== PROJETO DO BANCO DE DADOS===
-== GERENCIAMENTO DO TEMPO==
-=== MATRIZ DE RESPONSABILIDADES	===
-=== CRONOGRAMA	===
-== GERENCIAMENTO DA QUALIDADE	==
-=== PLANEJAMENTO DA QUALIDADE	===
-=== CONTROLE DA QUALIDADE	===
-=== TESTES DE QUALIDADE	===
-== GERENCIAMENTO DE RISCOS	==
-=== REGISTRO DOS RISCOS===
-=== PLANEJAMENTO DE RESPOSTA AOS RISCOS	===
-= EXECUÇÃO E CONTROLE	=
-== APLICATIVO WEB	==
-== TESTES DE QUALIDADE	==
-== WEB SERVICE	==
-== RELATÓRIOS DE DESEMPENHO	==
-== APLICATIVO ANDROID	==
-= IMPLANTAÇÃO	=
-== PLANEJAMENTO DA IMPLANTAÇÃO	==
-== MANUAL DO USUÁRIO	==
-==TREINAMENTO	==
-= ENCERRAMENTO	=
-== AUDITORIA DO PROJETO	==
-== TERMO DE ENCERRAMENTO DO PROJETO==
-=REFERÊNCIAS	=
-= ANEXOS	=
+
+==Módulo 01 Perfil==
+===Introdução===
+Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Perfil da Rede Social IFBOOK.
+
+===Atores===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/Atores.png
+
+
+===Casos de Uso===
+==== Login ====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC01-Login.png
+
+====Exibir Tela Incial====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC02-ExibirTelaInicial.png
+
+==== Editar Área de Interesse ====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC03-EditarAreaInteresse.png
+
+====Recuperar Senha====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC04-RecuperarSenha.png
+
+====Enviar Imagem do Perfil====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC05-EnviarImagemPerfil.png
+
+==Diagrama de Caso de Uso==
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/DiagramaCasosDeUso.png
+
+==Estimativa de Esforços por Pontos de Caso de Uso==
+=== Fatores Técnicos ===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforcos/FatoresTecnicos.png
+
+===Fatores Ambientais===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforcos/FatoresAmbientais.png
+
+
+==Módulo 02 Postagem==
+===Introdução===
+Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Postagem da Rede Social IFBOOK.
+
+===Atores===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/Atores.png
+
+
+===Casos de Uso===
+====Visualizar Mensagens e Classificados====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC01-VisualizarMensClass.png
+
+====Postar Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC02-PostarMensagem.png
+
+====Editar Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC03-EditarMensagem.png
+
+====Remover Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC04-RemoverMensagem.png
+
+====Postar Classificado====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC05-PostarClassificado.png
+
+====Editar Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC06-EditarClassificado.png
+
+====Remover Mensagem====
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/UC07-RemoverClassificado.png
+
+== Diagrama de Caso de Uso ==
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/DiagramaCasosDeUso.png
+
+== Estimativa de Esforços por Pontos de Caso de Uso ==
+=== Fatores Técnicos ===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/EstimativasDeEsforcos/FatoresTecnicos.png
+
+=== Fatores Ambientais ===
+https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/EstimativasDeEsforcos/FatoresAmbientais.png
+
+
+
+
+===DIAGRAMAS DE CLASSE===
+
+===DIAGRAMAS DE SEQUÊNCIA===
+
+===PROJETO DO BANCO DE DADOS===
+
+
+
+==GERENCIAMENTO DO TEMPO==
+===MATRIZ DE RESPONSABILIDADES===
+===CRONOGRAMA===
+
+
+==GERENCIAMENTO DA QUALIDADE==
+===PLANEJAMENTO DA QUALIDADE===
+===CONTROLE DA QUALIDADE===
+===TESTES DE QUALIDADE===
+
+
+==GERENCIAMENTO DE RISCOS==
+===REGISTRO DOS RISCOS===
+===PLANEJAMENTO DE RESPOSTA AOS RISCOS===
+
+
+=EXECUÇÃO E CONTROLE=
+
+==APLICATIVO WEB==
+
+==TESTES DE QUALIDADE==
+
+==WEB SERVICE==
+
+==RELATÓRIOS DE DESEMPENHO==
+
+==APLICATIVO ANDROID==
+
+
+
+=IMPLANTAÇÃO=
+==PLANEJAMENTO DA IMPLANTAÇÃO==
+
+==MANUAL DO USUÁRIO==
+
+==TREINAMENTO==
+
+
+
+=ENCERRAMENTO=
+==AUDITORIA DO PROJETO==
+==TERMO DE ENCERRAMENTO DO PROJETO==
+
+
+=REFERÊNCIAS=
+
+
+=ANEXOS=
