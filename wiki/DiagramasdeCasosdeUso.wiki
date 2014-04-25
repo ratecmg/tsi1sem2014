@@ -88,3 +88,35 @@ Protótipo de Interface Homem-Máquina:
 Protótipo de Interface Homem-Máquina:
 	
 == IMAGENS ==
+
+== 2.1.4.1.2.4 Recuperar Senha. ==
+
+||*Nome do Caso de Uso: Recuperar Senha||
+||Breve Descrição:|| Este Caso de Uso deve ocorrer sempre que o método “Recuperar Senha” for executado. Ele deve remeter ao usuário um e-mail com uma nova senha para Login.||
+||Ator Principal:||Usuário||
+||Precondição:	||Ter um cadastro no sistema||
+
+||*Fluxo Principal||
+||Ações dos Atores:||Ações do Sistema:||
+||1. Clicar em “Recuperar senha” no menu de seleção na tela de login.|| 2. Exibir o sub-menu de recuperação de senha, com as informações: -bv -e-mail||
+||3. Digitar usuário e e-mail e clicar em confirmar. ||4. - Confrontar dados com o banco de dados - Se estiver correto o sistema deve gerar uma senha aleatória e redirecionar para o e-mail cadastrado do usuário. - Exibir uma tela com as caixas de texto: A nova senha foi enviada para seu e-mail.||
+||5. Fim do Caso de Uso.||.||	
+||Pós-Condição: ||Limpar os campos.||
+
+||*Fluxo Alternativo A – Nome de Usuário incorreto||
+||.||4.1. Exibe a mensagem “Usuário não cadastrado”.||
+||4.2. Retornar ao passo 3 do Fluxo Principal.||. ||
+
+||*Fluxo Alternativo A – E-mail incorreto||.||
+||.||	4.1. Exibe a mensagem “E-mail incorreto”.||
+||4.2. Retornar ao passo 3 do Fluxo Principal.||.||	
+
+||*Fluxo Alternativo B – Campos em Branco||
+||.||4.1. Exibe a mensagem “Campos em branco”.||
+||4.2. Retornar ao passo 3 do Fluxo Principal.||.||	
+||Pós-Condição:||Limpar Campos.||
+	
+Protótipo de Interface Homem-Máquina:
+
+== IMAGENS ==	
+
