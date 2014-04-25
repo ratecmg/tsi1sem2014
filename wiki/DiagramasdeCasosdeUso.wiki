@@ -19,7 +19,7 @@ A seguir a tabela X mostra os atores envolvidos no sistema.
 A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
 == 2.1.4.1.2.1 Login ==
 
-||*Nome do Caso de Uso: Login||
+||*Nome do Caso de Uso: Login ||
 ||Breve Descrição: ||Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.||
 ||Ator Principal:||Usuário.||
 ||Pré-Condição:||O usuário deve estar previamente cadastrado.||
@@ -61,5 +61,10 @@ Protótipo de Interface Homem-Máquina:
 ||*Fluxo Principal||
 ||Ações dos Atores:||Ações do Sistema:||
 || ||1. Exibir o uma tela inicial (Home) para o usuário onde irá exibir: - Imagem do perfil (Ao clicar ir para o U.C 4.4) - Nome - Áreas de Interesse (Ao clicar ir para o U.C 4.3) - Painel de Mensagens (Ao clicar ir para o U.C visualizar mensagem) - Aba Logoff||
+||2. Fim do Caso de Uso.||
+
+Protótipo de Interface Homem-Máquina:
+
+== IMAGENS ==
 
 	
