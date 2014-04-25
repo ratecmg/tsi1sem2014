@@ -1,0 +1,107 @@
+package br.edu.ifsp.ddm.ifbook.modelo;
+
+public class Usuario {
+	
+	private int idUsuario;
+	private String Prontuario;
+	private String Senha;
+	private int Nivel;
+	private String Nome;
+	private String Apelido;
+	private String Nascimento;
+	private String LocalTrabalho;
+	private String Cidade;
+	private String Email;
+	private String Telefone;
+	private Byte Foto;
+	private EstadoCivil idEstadoCivil;
+	public int getIdUsuario() {
+		return idUsuario;
+	}
+	public void setIdUsuario(int idUsuario) {
+		this.idUsuario = idUsuario;
+	}
+	public String getProntuario() {
+		return Prontuario;
+	}
+	public void setProntuario(String prontuario) {
+		Prontuario = prontuario;
+	}
+	public String getSenha() {
+		return Senha;
+	}
+	public void setSenha(String senha) {
+		Senha = senha;
+	}
+	public int getNivel() {
+		return Nivel;
+	}
+	public void setNivel(int nivel) {
+		Nivel = nivel;
+	}
+	public String getNome() {
+		return Nome;
+	}
+	public void setNome(String nome) {
+		Nome = nome;
+	}
+	public String getApelido() {
+		return Apelido;
+	}
+	public void setApelido(String apelido) {
+		Apelido = apelido;
+	}
+	public String getNascimento() {
+		return Nascimento;
+	}
+	public void setNascimento(String nascimento) {
+		Nascimento = nascimento;
+	}
+	public String getLocalTrabalho() {
+		return LocalTrabalho;
+	}
+	public void setLocalTrabalho(String localTrabalho) {
+		LocalTrabalho = localTrabalho;
+	}
+	public String getCidade() {
+		return Cidade;
+	}
+	public void setCidade(String cidade) {
+		Cidade = cidade;
+	}
+	public String getEmail() {
+		return Email;
+	}
+	public void setEmail(String email) {
+		Email = email;
+	}
+	public String getTelefone() {
+		return Telefone;
+	}
+	public void setTelefone(String telefone) {
+		Telefone = telefone;
+	}
+	public Byte getFoto() {
+		return Foto;
+	}
+	public void setFoto(Byte foto) {
+		Foto = foto;
+	}
+	public EstadoCivil getIdEstadoCivil() {
+		return idEstadoCivil;
+	}
+	public void setIdEstadoCivil(EstadoCivil idEstadoCivil) {
+		this.idEstadoCivil = idEstadoCivil;
+	}
+	@Override
+	public String toString() {
+		return "Usuario [idUsuario=" + idUsuario + ", Prontuario=" + Prontuario
+				+ ", Senha=" + Senha + ", Nivel=" + Nivel + ", Nome=" + Nome
+				+ ", Apelido=" + Apelido + ", Nascimento=" + Nascimento
+				+ ", LocalTrabalho=" + LocalTrabalho + ", Cidade=" + Cidade
+				+ ", Email=" + Email + ", Telefone=" + Telefone + ", Foto="
+				+ Foto + ", idEstadoCivil=" + idEstadoCivil + "]";
+	}
+
+		
+}

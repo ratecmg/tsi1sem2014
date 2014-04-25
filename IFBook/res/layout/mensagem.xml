@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtID"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:text="@string/id" />
+
+    <EditText
+        android:id="@+id/edID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/txtTITULO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo" />
+
+    <EditText
+        android:id="@+id/edTITULO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/txtDESCRICAO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/descricao" />
+
+    <EditText
+        android:id="@+id/edDESCRICAO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/txtCATEGORIA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/categoria" />
+
+    <Spinner
+        android:id="@+id/spCATEGORIA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtDATA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/data" />
+
+    <EditText
+        android:id="@+id/edDATA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/txtIDUSUARIO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/idusuario" />
+
+    <EditText
+        android:id="@+id/edIDUSUARIO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/btnENVIAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="salvar"
+        android:text="@string/btnenviar" />
+
+</LinearLayout>
