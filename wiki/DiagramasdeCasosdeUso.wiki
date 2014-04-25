@@ -22,7 +22,7 @@ A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
 ||*Nome do Caso de Uso: Login ||
 ||Breve Descrição: ||Esse Caso de Uso deve autenticar um usuário do IFBOOK e leva-lo a sua página principal.||
 ||Ator Principal:||Usuário.||
-||Pré-Condição:||O usuário deve estar previamente cadastrado.||
+||Precondição:||O usuário deve estar previamente cadastrado.||
 
 
 ||*Fluxo Principal||
@@ -56,11 +56,11 @@ Protótipo de Interface Homem-Máquina:
 ||*Nome do Caso de Uso: Exibir Tela Inicial||
 ||Breve Descrição:||Este Caso de Uso deve redirecionar o usuário após ter feito o login para a tela Principal.||
 ||Ator Principal:||Usuário.||
-||Pré-Condição:||O usuário deve estar previamente cadastrado e ter efetuado o login.||
+||Precondição:||O usuário deve estar previamente cadastrado e ter efetuado o login.||
 
 ||*Fluxo Principal||
 ||Ações dos Atores:||Ações do Sistema:||
-|| ||1. Exibir o uma tela inicial (Home) para o usuário onde irá exibir: - Imagem do perfil (Ao clicar ir para o U.C 4.4) - Nome - Áreas de Interesse (Ao clicar ir para o U.C 4.3) - Painel de Mensagens (Ao clicar ir para o U.C visualizar mensagem) - Aba Logoff||
+|| ||1. Exibir o uma tela inicial (Home) para o usuário onde irá exibir: - Imagem do perfil (Ao clicar ir para o U.C 4.4) - Nome - Áreas de Interesse (Ao clicar ir para o U.C 4.3) - Painel de Mensagens (Ao clicar ir para o U.C visualizar mensagem) - Aba Log off||
 ||2. Fim do Caso de Uso.||
 
 Protótipo de Interface Homem-Máquina:
@@ -72,7 +72,7 @@ Protótipo de Interface Homem-Máquina:
 ||*Nome do Caso de Uso: Editar Área de Interesse||
 ||Breve Descrição: ||Este Caso de Uso deve ocorrer quando for cadastrada, alterada ou excluída uma área de interesse.||
 ||Ator Principal:||Usuário||
-||Pré-Condição:||Estar na tela inicial||
+||Precondição:||Estar na tela inicial||
 
 ||*Fluxo Principal||
 ||Ações dos Atores:||Ações do Sistema:||
@@ -98,10 +98,10 @@ Protótipo de Interface Homem-Máquina:
 
 ||*Fluxo Principal||
 ||Ações dos Atores:||Ações do Sistema:||
-||1. Clicar em “Recuperar senha” no menu de seleção na tela de login.|| 2. Exibir o sub-menu de recuperação de senha, com as informações: -bv -e-mail||
+||1. Clicar em “Recuperar senha” no menu de seleção na tela de login.|| 2. Exibir o submenu de recuperação de senha, com as informações: -bv -e-mail||
 ||3. Digitar usuário e e-mail e clicar em confirmar. ||4. - Confrontar dados com o banco de dados - Se estiver correto o sistema deve gerar uma senha aleatória e redirecionar para o e-mail cadastrado do usuário. - Exibir uma tela com as caixas de texto: A nova senha foi enviada para seu e-mail.||
 ||5. Fim do Caso de Uso.||.||	
-||Pós-Condição: ||Limpar os campos.||
+||Precondição: ||Limpar os campos.||
 
 ||*Fluxo Alternativo A – Nome de Usuário incorreto||
 ||.||4.1. Exibe a mensagem “Usuário não cadastrado”.||
@@ -114,7 +114,7 @@ Protótipo de Interface Homem-Máquina:
 ||*Fluxo Alternativo B – Campos em Branco||
 ||.||4.1. Exibe a mensagem “Campos em branco”.||
 ||4.2. Retornar ao passo 3 do Fluxo Principal.||.||	
-||Pós-Condição:||Limpar Campos.||
+||Precondição:||Limpar Campos.||
 	
 Protótipo de Interface Homem-Máquina:
 
@@ -125,7 +125,7 @@ Protótipo de Interface Homem-Máquina:
 ||*Nome do Caso de Uso: Enviar Imagem de Perfil||
 ||Breve Descrição: ||Esse Caso de Uso ocorre quando usuário deseja enviar uma nova imagem para seu perfil.||
 ||Ator Principal:||Usuário.||
-||Pré-Condição:	||O usuário deve estar previamente logado.||
+||Precondição:	||O usuário deve estar previamente logado.||
 
 ||*Fluxo Principal||
 ||Ações dos Atores:||Ações do Sistema:||
@@ -135,7 +135,10 @@ Protótipo de Interface Homem-Máquina:
 
 ||*Fluxo Alternativo A – Formato não suportado||
 ||3.1 Seleciona uma imagem que não é do formato JPEG nem PNG.||3.2. Exibe um alerta de “Formato de imagem inválido (JPEG, PNG)”.||
-||3.3. Retornar ao passo 3 do Fluxo Principal.||	
+||3.3. Retornar ao passo 3 do Fluxo Principal.||.||
+	
+
+
 ||*Fluxo Alternativo B – Exceder Tamanho||
 ||3.1. Seleciona uma imagem que é maior que 2 megabyte. ||3.2. Exibe um alerta de “Tamanho máximo permitido de imagem 2 megabytes”.||
-||3.3. Retornar ao passo 3 do Fluxo Principal.||	
+||3.3. Retornar ao passo 3 do Fluxo Principal.||.||	
