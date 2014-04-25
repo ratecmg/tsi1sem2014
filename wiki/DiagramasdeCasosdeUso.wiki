@@ -48,4 +48,14 @@ A seguir serão expostos os casos de uso envolvidos no Módulo 1 do sistema.
 ==
 
 Protótipo de Interface Homem-Máquina:
+
+== IMAGENS ==
+
+== 2.1.4.1.2.2 Exibir Tela Inicial ==
+
+||Nome do Caso de Uso: Exibir Tela Inicial||
+||Breve Descrição:||Este Caso de Uso deve redirecionar o usuário após ter feito o login para a tela Principal.||
+||Ator Principal:||Usuário.||
+||Pré-Condição:||O usuário deve estar previamente cadastrado e ter efetuado o login.||
+
 	
