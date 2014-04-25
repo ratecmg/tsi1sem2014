@@ -1,6 +1,9 @@
 =INICIAÇÃO= 
 
 =ATA E DIAGNÓSTICO=
+
+No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto, conforme pode ser visto abaixo:
+
 ===TERMO DE ABERTURA DE PROJETO===
 aaaa
 
