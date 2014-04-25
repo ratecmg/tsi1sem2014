@@ -67,4 +67,11 @@ Protótipo de Interface Homem-Máquina:
 
 == IMAGENS ==
 
+== 2.1.4.1.2.3 Editar Área de Interesse ==
+
+||*Nome do Caso de Uso: Editar Área de Interesse||
+||Breve Descrição: ||Este Caso de Uso deve ocorrer quando for cadastrada, alterada ou excluída uma área de interesse.||
+||Ator Principal:||Usuário||
+||Pré-Condição:||Estar na tela inicial||
+
 	
