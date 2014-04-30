@@ -27,12 +27,20 @@ Para que ocorra a definição dos objetivos e justificativas do projeto, e defin
 || Escopo: ||
 || Premissas: || Restrições: ||
 || Necessidades iniciais de recursos: ||
+|| Cronograma básico: ||
 || Riscos: ||
 || *Gerente do Projeto* ||
 || Nome: Lucas Vinícius Rodrigues Grabert ||
-|| Responsabilidades:<br>Revisar a documentação formal do projeto e tomar uma decisão de aceite ou recusa;<br>*Assegurar que os membros da equipe de projeto estejam cientes de suas responsabilidades e também, que todos os compromissos assumidos pelos indivíduos sejam realizados. <br>Gerenciar os compromissos dentro dos prazos e verificar se o sistema está atendendo as necessidades requisitadas;<br>Realizar reuniões com a equipe sempre que necessário;<br>Controlar cronograma e variações técnicas dentro das margens estabelecidas no projeto;<br>Verificar se toda documentação está atualizada nos sistemas, bem como na base de conhecimento;<br>Reportar formalmente o status do projeto ao professor responsável, evitando surpresas.<br>*Averiguar o desenvolvimento de todo processo de desenvolvimento do projeto.<br> ||
+|| Responsabilidades:<br>` * `Revisar a documentação formal do projeto e tomar uma decisão de aceite ou recusa;<br>` * `Assegurar que os membros da equipe de projeto estejam cientes de suas responsabilidades e também, que todos os compromissos assumidos pelos indivíduos sejam realizados. <br>` * `Gerenciar os compromissos dentro dos prazos e verificar se o sistema está atendendo as necessidades requisitadas;<br>` * `Realizar reuniões com a equipe sempre que necessário;<br>` * `Controlar cronograma e variações técnicas dentro das margens estabelecidas no projeto;<br>` * `Verificar se toda documentação está atualizada nos sistemas, bem como na base de conhecimento;<br>` * `Reportar formalmente o status do projeto ao professor responsável, evitando surpresas.<br>` * `Averiguar o desenvolvimento de todo processo de desenvolvimento do projeto.<br> ||
+|| *Participantes* ||
+|| nome dos participantes ||
+|| *Responsáveis pela elaboração deste documento* ||
+|| nome dos responsáveis ||
+|| *Responsável pela autorização do projeto* ||
+|| Nome: ||
+|| Cargo: ||
 
-|| Cronograma básico: ||
+
 =PLANEJAMENTO=
 ==GERENCIAMENTO DO ESCOPO==
 ===DECLARAÇÃO DO ESCOPO===
