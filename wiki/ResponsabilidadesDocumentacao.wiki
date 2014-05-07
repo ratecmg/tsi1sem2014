@@ -1,0 +1,53 @@
+INICIAÇÃO<br>
+ATA E DIAGNÓSTICO<br>
+TERMO DE ABERTURA DE PROJETO <br>
+PLANEJAMENTO<br>
+GERENCIAMENTO DO ESCOPO<br>
+-- DECLARAÇÃO DO ESCOPO<br>
+-- ESTRUTURA ANALÍTICA DO PROJETO – EAP do perfil e do<br> 
+-- DIAGRAMAS DE CLASSE - precisaria fazer<br>
+-- DIAGRAMAS DE SEQUÊNCIA - precisaria fazer<br>
+
+------------------------------------------------------------
+
+PROJETO DO BANCO DE DADOS - ok<br>
+
+------------------------------------------------------------
+
+GERENCIAMENTO DO TEMPO - ?<br>
+
+------------------------------------------------------------
+
+MATRIZ DE RESPONSABILIDADES : Lucas<br>
+
+------------------------------------------------------------
+
+CRONOGRAMA - ok<br>
+
+------------------------------------------------------------
+
+GERENCIAMENTO DA QUALIDADE<br>
+PLANEJAMENTO DA QUALIDADE<br>
+CONTROLE DA QUALIDADE<br>
+TESTES DE QUALIDADE<br>
+GERENCIAMENTO DE RISCOS<br>
+REGISTRO DOS RISCOS<br>
+PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>
+
+------------------------------------------------------------
+
+EXECUÇÃO E CONTROLE<br>
+APLICATIVO WEB<br>
+TESTES DE QUALIDADE<br>
+WEB SERVICE<br>
+RELATÓRIOS DE DESEMPENHO<br>
+APLICATIVO ANDROID<br>
+IMPLANTAÇÃO<br>
+PLANEJAMENTO DA IMPLANTAÇÃO<br>
+MANUAL DO USUÁRIO<br>
+TREINAMENTO<br>
+ENCERRAMENTO<br>
+AUDITORIA DO PROJETO<br>
+TERMO DE ENCERRAMENTO DO PROJETO<br>
+REFERÊNCIAS<br>
+ANEXOS<br>
