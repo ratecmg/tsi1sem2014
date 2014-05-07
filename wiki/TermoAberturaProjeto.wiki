@@ -2,8 +2,10 @@
 
 || *Dados do projeto* ||
 || Título: IFBook ||
-|| Justificativa: Como critério de avaliação interdisciplinar, do 6° Semestre do curso de Sistemas para Internet, escolheu-se aperfeiçoar a comunicação e divulgação de eventos entre alunos, professores e servidores do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista com o projeto de uma rede social.
-Add your content here. ||
+|| Justificativa: Como critério de avaliação interdisciplinar, do 6° Semestre do curso de Sistemas para Internet, escolheu-se aperfeiçoar a comunicação e divulgação de eventos entre alunos, professores e servidores do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista com o projeto de uma rede social.Add your content here. ||
+|| Objetivos: De acordo com o levantamento de requisitos será desenvolvido um aplicativo para o cenário web e plataformas moveis. O sistema contara, além do perfil dos usuários, área para postagens de mensagens e classificados. ||
+|| Escopo:<br> Este aplicativo deverá ser capaz de criar perfil de usuário (Inserir, Editar, Remover). Cada perfil deverá conter: Id Usuário, Prontuário, Nome, Data Nascimento, que serão informados pelo Banco de Dados do Instituto Federal, as informações como Apelido, Cidade, Local de Trabalho, Estado Civil, Telefone, Imagem, E-mail, serão informadas pelo usuário. <br> O usuário deverá ser capaz de inserir, editar, e remover suas mensagens e classificados em arquivos de imagens (.jpg, .jpeg), e documentos, (.doc. .docx,.xlx,.xlxs,.pdf,)  simultaneamente.<br> O gestor deverá ser capaz de inserir, editar e remover suas próprias mensagens e classificados e também remover mensagens de terceiros. Os arquivos serão armazenados no banco de dados MYSQL.||
+
 
 
 = Details =
