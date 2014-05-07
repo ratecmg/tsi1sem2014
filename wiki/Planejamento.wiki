@@ -1,13 +1,13 @@
 1.	* PLANEJAMENTO<br>
 
-Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.<br>
+Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
 
 
-1.1.	* GERENCIAMENTO DO ESCOPO<br>
+<br>1.1.	* GERENCIAMENTO DO ESCOPO<br>
 
 O Gerenciamento do escopo é muito importante no processo, pois indicara como o projeto será desenvolvido, apresentando as funcionalidades que serão desenvolvidas, os casos de usos, diagramas de classes e o projeto do banco de dados, e que poderão ser observados nas seções seguintes.<br>
 
 
-1.1.1. * DECLARAÇÃO DO ESCOPO<br>
+<br>1.1.1. * DECLARAÇÃO DO ESCOPO<br>
 
 	Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
