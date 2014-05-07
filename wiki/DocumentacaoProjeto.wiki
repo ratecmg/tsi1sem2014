@@ -158,42 +158,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforco
 
 === Fatores Ambientais ===
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforcos/FatoresAmbientais.png
-----------------------------------------------------------------------
-==Módulo 01 Perfil==
-===Introdução===
-Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Perfil da Rede Social IFBOOK.
 
-===Atores===
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/Atores.png
-
-
-===Casos de Uso===
-==== Login ====
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC01-Login.png
-
-====Exibir Tela Incial====
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC02-ExibirTelaInicial.png
-
-==== Editar Área de Interesse ====
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC03-EditarAreaInteresse.png
-
-====Recuperar Senha====
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC04-RecuperarSenha.png
-
-====Enviar Imagem do Perfil====
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC05-EnviarImagemPerfil.png
-
-==Diagrama de Caso de Uso==
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/DiagramaCasosDeUso.png
-
-==Estimativa de Esforços por Pontos de Caso de Uso==
-=== Fatores Técnicos ===
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforcos/FatoresTecnicos.png
-
-===Fatores Ambientais===
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/EstimativasDeEsforcos/FatoresAmbientais.png
-
-----------------------------------------------------------------------
 ==Módulo 02 Postagem==
 ===Introdução===
 Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Postagem da Rede Social IFBOOK.
