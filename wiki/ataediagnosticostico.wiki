@@ -4,7 +4,9 @@
 
 No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto, conforme pode ser visto abaixo:
 
-|| *Situação atual ||
-||Não há um aplicativo onde os alunos postam suas mensagens e classificados. <br> Como proposta inicial, o aplicativo desenvolvido deverá permitir acesso somente <br> para usuários previamente cadastrados e os administradores cadastrados receberão privilégios de acesso diferenciados.<br>Para que isso ocorra de maneira dinâmica existe a necessidade da criação de um aplicativo que torne possível o acesso <br> dos usuário as postagens e classificados de outros usuarios.||
+|| *Situação atual* ||
+||Não há um aplicativo onde os alunos postam suas mensagens e classificados. <br> Como proposta inicial, o aplicativo desenvolvido deverá permitir acesso somente <br> para usuários previamente cadastrados e os administradores cadastrados receberão privilégios de acesso diferenciados.<br>Para que isso ocorra de maneira dinâmica existe a necessidade da criação de um aplicativo que torne possível o acesso <br> dos usuário as postagens e classificados de outros usuários.||
 || *Proposta* ||
 ||Implementar um aplicativo capaz de exibir postagens e classificados dos usuários, visando disponibilizar essas postagens via web.<br> A consulta poderá ser feita através de um computador ou dispositivo móvel conectado a internet.<br>Este sistema será desenvolvido utilizando MySQL como servidor de banco de dados, Java como linguagem de programação web <br> e Android como linguagem para acesso por meio de dispositivos móveis. ||
+|| *Responsável pela Elaboração deste documento*||
+|| Daiane Galvão Pereira ||
