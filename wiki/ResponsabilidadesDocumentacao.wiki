@@ -19,9 +19,11 @@ danilo, tiago, jesse, Ricardo
 ------------------------------------------------------------
 
 MATRIZ DE RESPONSABILIDADES : Lucas<br>
-Caso de Uso e Requisitos<br>
-CRONOGRAMA - ok<br>
-PROJETO DO BANCO DE DADOS - ok<br>
+Caso de Uso e Requisitos só falta adicionar os protótipos do modulo 2
+CRONOGRAMA - confirmar
+PROJETO DO BANCO DE DADOS - falta adicionar o script físico pegar com danilo
+
+Lucas Phelps
 ------------------------------------------------------------
 
 
