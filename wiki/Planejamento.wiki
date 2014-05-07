@@ -3,6 +3,7 @@
 Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
 
 
+
 <br>1.1.	* GERENCIAMENTO DO ESCOPO<br>
 
 O Gerenciamento do escopo é muito importante no processo, pois indicara como o projeto será desenvolvido, apresentando as funcionalidades que serão desenvolvidas, os casos de usos, diagramas de classes e o projeto do banco de dados, e que poderão ser observados nas seções seguintes.<br>
@@ -13,10 +14,13 @@ O Gerenciamento do escopo é muito importante no processo, pois indicara como o 
 	Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
 || *Dados do Projeto* ||
-||Título: Sistema de divulgação de notas (SDN) dos alunos do IFSP-SJBV||
-||Justificativa:Este projeto se justifica pelo fato de não haver nenhuma ferramenta para que o aluno possa consultar suas notas de maneira automatizada.||
-||Objetivos:O objetivo deste trabalho é solucionar o problema da consulta de notas dos alunos, através do desenvolvimento de um sistema eletrônico para consulta de notas que possa ser acessado pela web e dispositivos móveis.||
+||Título: IFBook||
+||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando mensagens e classificados.||
+||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa Vista, para postagens de mensagens e classificados. ||
 || *Escopo* ||
-||Produto do projeto: Fluxo do Root Descrição: Usuário com privilégios máximos de administrador (root) loga-se no sistema. As opções respectivas ao seu login são exibidas.||
+||Produto do projeto:<br> Fluxo do Aluno<br> Descrição: O usuário com privilégios de aluno fará o login com seu “bv” e sua senha acessando assim o aplicativo, podendo acrescentar informações e imagem em seu perfil. 
+ `*`	Visualizar os Aniversariantes do dia , Incluir, Editar e Remover Mensagens e Classificados. 
+Fluxo do Gestor
+Descrição: O usuário cadastrado como gestor, além tem como privilégios:
+ `*`	Remover as mensagens e classificados de terceiros||
 ||Exclusão do escopo: ||
-
