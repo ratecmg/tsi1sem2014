@@ -30,8 +30,7 @@
 || Cargo: ||
 || _/_/_ <assinatura> ||
 
-------------------------------------------------
-<Nome do Gerente do Projeto>
-Gerente do Projeto
-
-
+<br><br><br><br>
+-----------------------------------------
+        <Nome do Gerente do Projeto><br>
+                Gerente do Projeto
