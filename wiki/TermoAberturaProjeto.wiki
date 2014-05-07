@@ -1,0 +1,14 @@
+= TERMO DE ABERTURA DO PROJETO =
+
+|| *Dados do projeto* ||
+|| Título: IFBook ||
+|| Justificativa: Como critério de avaliação interdisciplinar, do 6° Semestre do curso de Sistemas para Internet, escolheu-se aperfeiçoar a comunicação e divulgação de eventos entre alunos, professores e servidores do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus São João da Boa Vista com o projeto de uma rede social.
+Add your content here. ||
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
