@@ -1,28 +1,29 @@
+*documentação tem que ser concluída até o dia 14 de maio*
+**Converse com seu grupo sobre as atividades, pode-se segui o exemplo lendo o material do ano passado pelo link https://code.google.com/p/tsi1sem2014/source/browse/wiki/documentos/Documento_Final_Projeto_V3.docx**
+
 INICIAÇÃO<br>
 ATA E DIAGNÓSTICO<br>
 TERMO DE ABERTURA DE PROJETO <br>
 PLANEJAMENTO<br>
+simone, daiane, samara
+-----------------------------------------------------------
 GERENCIAMENTO DO ESCOPO<br>
 -- DECLARAÇÃO DO ESCOPO<br>
 -- ESTRUTURA ANALÍTICA DO PROJETO – EAP do perfil e do<br> 
 -- DIAGRAMAS DE CLASSE - precisaria fazer<br>
 -- DIAGRAMAS DE SEQUÊNCIA - precisaria fazer<br>
-
-------------------------------------------------------------
-
-PROJETO DO BANCO DE DADOS - ok<br>
-
-------------------------------------------------------------
-
 GERENCIAMENTO DO TEMPO - ?<br>
+danilo, tiago, jesse, Ricardo
 
 ------------------------------------------------------------
 
 MATRIZ DE RESPONSABILIDADES : Lucas<br>
 Caso de Uso e Requisitos<br>
+CRONOGRAMA - ok<br>
+PROJETO DO BANCO DE DADOS - ok<br>
 ------------------------------------------------------------
 
-CRONOGRAMA - ok<br>
+
 
 ------------------------------------------------------------
 
@@ -30,11 +31,20 @@ GERENCIAMENTO DA QUALIDADE<br>
 PLANEJAMENTO DA QUALIDADE<br>
 CONTROLE DA QUALIDADE<br>
 TESTES DE QUALIDADE<br>
+marcio, max e fagner
+
+---------------------------------------------------
+entregue até dia 14 de maio.
+
+
+
+
+
+
+
 GERENCIAMENTO DE RISCOS<br>
 REGISTRO DOS RISCOS<br>
 PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>
-
-------------------------------------------------------------
 
 EXECUÇÃO E CONTROLE<br>
 APLICATIVO WEB<br>
