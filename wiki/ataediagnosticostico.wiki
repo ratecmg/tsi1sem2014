@@ -5,9 +5,7 @@
 No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto, conforme pode ser visto abaixo:
 
 || *Situação atual ||
-||Não há um aplicativo onde os alunos postam suas mensagens e classificados. <br> Como proposta inicial, o aplicativo desenvolvido deverá permitir acesso somente <br> para usuários previamente cadastrados e os administradores cadastrados receberão privilégios de acesso diferenciados.||
-
-
+||Não há um aplicativo onde os alunos postam suas mensagens e classificados. <br> Como proposta inicial, o aplicativo desenvolvido deverá permitir acesso somente <br> para usuários previamente cadastrados e os administradores cadastrados receberão privilégios de acesso diferenciados.<br>Para que isso ocorra de maneira dinâmica existe a necessidade da criação de um aplicativo que torne possível o acesso <br> dos alunos as postagens e classificados de outros alunos.||
 
 
 
