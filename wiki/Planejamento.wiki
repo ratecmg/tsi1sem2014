@@ -12,8 +12,11 @@ O Gerenciamento do escopo é muito importante no processo, pois indicara como o 
 
 	Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
-|| *Dados do Projeto||
+|| *Dados do Projeto* ||
 ||Título: Sistema de divulgação de notas (SDN) dos alunos do IFSP-SJBV||
 ||Justificativa:Este projeto se justifica pelo fato de não haver nenhuma ferramenta para que o aluno possa consultar suas notas de maneira automatizada.||
 ||Objetivos:O objetivo deste trabalho é solucionar o problema da consulta de notas dos alunos, através do desenvolvimento de um sistema eletrônico para consulta de notas que possa ser acessado pela web e dispositivos móveis.||
-|| *Escopo||
+|| *Escopo* ||
+||Produto do projeto: Fluxo do Root Descrição: Usuário com privilégios máximos de administrador (root) loga-se no sistema. As opções respectivas ao seu login são exibidas.||
+||Exclusão do escopo: ||
+
