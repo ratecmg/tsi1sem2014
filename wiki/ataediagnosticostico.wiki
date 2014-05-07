@@ -5,13 +5,9 @@
 No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto, conforme pode ser visto abaixo:
 
 || *Situação atual ||
-|| blablalblabla ||
-|| *Necessidades de Negócio ||
-|| blablalblabla ||
-|| *Proposta ||
-|| blablalblabla ||
-|| *Responsáveis ||
-|| blablalblabla ||
+||Não há um aplicativo onde os alunos postam suas mensagens e classificados. <br> Como proposta inicial, o aplicativo desenvolvido deverá permitir acesso somente <br> para usuários previamente cadastrados e os administradores cadastrados receberão privilégios de acesso diferenciados.||
+
+
 
 
 
