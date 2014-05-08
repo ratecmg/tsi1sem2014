@@ -27,6 +27,10 @@ O Gerenciamento do escopo é muito importante no processo, pois indicara como o 
 
 <br><br> *Fases, tarefas, documentos a serem entregues e marcos* 
 ||Fases(Summary Tasks)||Tarefas (Tasks)|| Entregáveis (Deliverables)|| Marcos (Milestones)||
+||Diagnóstico||Entendimento das necessidades e expectativas das partes interessadas || Fluxograma do projeto||Opção pela contratação do produto/serviço||
+||Iniciação||Elaboração do Termo de abertura do projeto||Termo de abertura do projeto||Aceite do Termo de abertura do projeto||
+||Planejamento||Elaboração da Declaração do escopo;||Declaração do escopo;||Aceite da Declaração do escopo;||
+||Planejamento||Elaboração da estrutura analítica do projeto, matriz de responsabilidades, cronograma, orçamento e planejamento da qualidade, recursos humanos, comunicação, riscos e aquisições.||Plano de gerenciamento do projeto.||Aceite do Plano de gerenciamento do projeto.||
 
 
 
