@@ -8,13 +8,25 @@
  Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
  <p align= center >_Tabela 3 - Declaração do Escopo do projeto_
-||<p align=center> *Dados do Projeto* ||
-||Título: IFBook ||
-||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados. ||
-||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e classificados.  ||
-||<p align=center>*Escopo* ||
-||Produto do projeto:<br><br> Fluxo do Aluno<br><br> Descrição: O usuário com privilégios de aluno fará o login com seu “bv” e sua senha acessando assim o aplicativo, podendo acrescentar informações<br> e imagem em seu perfil.<br><br>`*`Visualizar os Aniversariantes do dia , Incluir, Editar e Remover Mensagens e Classificados.<br><br>Fluxo do Gestor <br><br>Descrição: O usuário cadastrado como gestor, além tem como privilégios:<br><br>`*`Remover as mensagens e classificados de terceiros||
-||Exclusão do escopo:<br> Criação de Eventos<br> Criação do Fórum ||
+||||||||<p align=center> *Dados do Projeto* ||
+||||||||Título: IFBook ||
+||||||||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados. ||
+||||||||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e classificados.  ||
+||||||||<p align=center>*Escopo* ||
+||||||||Produto do projeto:<br><br> Fluxo do Aluno<br><br> Descrição: O usuário com privilégios de aluno fará o login com seu “bv” e sua senha acessando assim o aplicativo, podendo acrescentar informações<br> e imagem em seu perfil.<br><br>`*`Visualizar os Aniversariantes do dia , Incluir, Editar e Remover Mensagens e Classificados.<br><br>Fluxo do Gestor <br><br>Descrição: O usuário cadastrado como gestor, além tem como privilégios:<br><br>`*`Remover as mensagens e classificados de terceiros||
+||||||||Exclusão do escopo:<br> Criação de Eventos<br> Criação do Fórum ||
+||||||adsfadsfasdfasdfasdfasdf ||asdfasdfasdfadsfadfaf||
+||||||adsfadsfasdfasdfasdfasdf ||asdfasdfasdfadsfadfaf||
+
+||sdfs||sdfsdf||sdfsdf||sdfsd||
+||sdfs||sdfsdf||sdfsdf||sdfsd||
+||sdfs||sdfsdf||sdfsdf||sdfsd||
+
+||PLANEJAMENTO||sdfsdf||sdfsdf||sdfsd||
+||          ||sdfsdf||sdfsdf||sdfsd||
+|
+
+
 ||Premissas:<br> Parte-se do pressuposto, que os alunos não possuem um aplicativo onde possam interagir com alunos e servidores do Instituto Federal – Campus de<br> São João da Boa Vista.||
 ||Restrições:<br>As restrições podem ocorrer por falta de tempo hábil para concluir o projeto; a falta de uma estrutura para construção do web service, gerando como<br> consequência, a dificuldade para o usuário final acessar o aplicativo.||
 ||Relação com outros projetos:<br>Este projeto vai implicar na integração de alunos, servidores e professores do Instituto Federal- Campus de São João da Boa Vista, fomentando a<br> divulgação de mensagens e classificados de diferentes assuntos e temas, podendo nas turmas seguintes ser aperfeiçoado com os módulos que<br> ficaram fora do escopo deste projeto, como Eventos e Fórum.||
