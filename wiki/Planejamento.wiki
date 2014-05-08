@@ -21,14 +21,14 @@
 ||Acompanhamento do projeto:<br> Será acompanhado pelo gerente de projeto e pelos professores: SDW – Ricardo<br> Alexandre Neves; QTS – Breno Lisi Romano; DPW – Ricardo Alexandre Neves; DDM – Luiz Ângelo Valota Francisco.||
 
 <br><br> *Fases, tarefas, documentos a serem entregues e marcos* 
- ||Fases(Summary Tasks)||Tarefas (Tasks)|| Entregáveis (Deliverables)|| Marcos (Milestones)||
- ||Diagnóstico||Entendimento das necessidades e expectativas das partes interessadas || Fluxograma do projeto||Opção pela contratação do produto/serviço||
- ||Iniciação||Elaboração do Termo de abertura do projeto||Termo de abertura do projeto||Aceite do Termo de abertura do projeto||
- ||Planejamento||Elaboração da Declaração do escopo;||Declaração do escopo;||Aceite da Declaração do escopo;||
- ||Planejamento||Elaboração da estrutura analítica do projeto, matriz de responsabilidades, cronograma, orçamento e planejamento da qualidade, recursos humanos, comunicação, riscos e aquisições.||Plano de gerenciamento do projeto.||Aceite do Plano de gerenciamento do projeto.||
- ||Execução e controle ||Execução do projeto conforme Plano de gerenciamento do projeto.||Software para testes.||Homologação do software.||
- ||Implantação||Elaboração do plano de implantação e treinamento e manual do usuário||Plano de implantação||Aceite do produto final||
- ||Encerramento||Auditoria do projeto e elaboração do Termo de encerramento do projeto||Termo de encerramento do projeto||Aceite do Termo de encerramento do projeto||
+||Fases(Summary Tasks)||Tarefas (Tasks)|| Entregáveis (Deliverables)|| Marcos (Milestones)||
+||Diagnóstico||Entendimento das necessidades e expectativas das partes interessadas || Fluxograma do projeto||Opção pela contratação do produto/serviço||
+||Iniciação||Elaboração do Termo de abertura do projeto||Termo de abertura do projeto||Aceite do Termo de abertura do projeto||
+||Planejamento||Elaboração da Declaração do escopo;||Declaração do escopo;||Aceite da Declaração do escopo;||
+||Planejamento||Elaboração da estrutura analítica do projeto, matriz de responsabilidades, cronograma, orçamento e planejamento da qualidade, recursos humanos, comunicação, riscos e aquisições.||Plano de gerenciamento do projeto.||Aceite do Plano de gerenciamento do projeto.||
+||Execução e controle ||Execução do projeto conforme Plano de gerenciamento do projeto.||Software para testes.||Homologação do software.||
+||Implantação||Elaboração do plano de implantação e treinamento e manual do usuário||Plano de implantação||Aceite do produto final||
+||Encerramento||Auditoria do projeto e elaboração do Termo de encerramento do projeto||Termo de encerramento do projeto||Aceite do Termo de encerramento do projeto||
 
 *Responsáveis pela elaboração do documento*
 ||Nome: Daiane Galvão Pereira, Samara Ribeiro Vieira, Simone Consentino Jús .||
