@@ -20,7 +20,7 @@
 ||Relação com outros projetos:<br>Este projeto vai implicar na integração de alunos, servidores e professores do Instituto Federal- Campus de São João da Boa Vista, fomentando a<br> divulgação de mensagens e classificados de diferentes assuntos e temas, podendo nas turmas seguintes ser aperfeiçoado com os módulos que<br> ficaram fora do escopo deste projeto, como Eventos e Fórum.||
 ||Acompanhamento do projeto:<br> Será acompanhado pelo gerente de projeto e pelos professores: SDW – Ricardo<br> Alexandre Neves; QTS – Breno Lisi Romano; DPW – Ricardo Alexandre Neves; DDM – Luiz Ângelo Valota Francisco.||
 
-<br><br> *Fases, tarefas, documentos a serem entregues e marcos* 
+||*Fases, tarefas, documentos a serem entregues e marcos*|| 
 ||Fases<br>(Summary Tasks)||Tarefas<br>(Tasks)|| Entregáveis<br> (Deliverables)|| Marcos<br>(Milestones)||
 ||Diagnóstico||Entendimento das necessidades<br> e expectativas das partes<br> interessadas || Fluxograma do<br> projeto||Opção pela<br> contratação do<br> produto/serviço||
 ||Iniciação||Elaboração do Termo de<br> abertura do projeto||Termo de<br> abertura do projeto||Aceite do Termo de<br> abertura do projeto||
