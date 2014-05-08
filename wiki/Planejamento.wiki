@@ -8,7 +8,7 @@
  Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
  <p align= center >_Tabela 3 - Declaração do Escopo do projeto_
-|| *Dados do Projeto* ||
+||<p align=center> *Dados do Projeto* ||
 ||Título: IFBook ||
 ||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados. ||
 ||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e classificados.  ||
