@@ -7,6 +7,7 @@
  ==== 1.1.1. DECLARAÇÃO DO ESCOPO ====
  Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
+ <p align= center >_Tabela 3 - Declaração do Escopo do projeto_
 || *Dados do Projeto* ||
 ||Título: IFBook ||
 ||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados. ||
