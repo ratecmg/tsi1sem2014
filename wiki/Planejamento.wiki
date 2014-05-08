@@ -20,6 +20,36 @@
 ||Relação com outros projetos:<br>Este projeto vai implicar na integração de alunos, servidores e professores do Instituto Federal- Campus de São João da Boa Vista, fomentando a<br> divulgação de mensagens e classificados de diferentes assuntos e temas, podendo nas turmas seguintes ser aperfeiçoado com os módulos que<br> ficaram fora do escopo deste projeto, como Eventos e Fórum.||
 ||Acompanhamento do projeto:<br> Será acompanhado pelo gerente de projeto e pelos professores: SDW – Ricardo<br> Alexandre Neves; QTS – Breno Lisi Romano; DPW – Ricardo Alexandre Neves; DDM – Luiz Ângelo Valota Francisco.||
 
+<table border="1">
+<tr>
+<td colspan="4">Fases, tarefas, documentos a serem entregues e marcos</td>
+</tr>
+<tr>
+<td>Fases(Summary Tasks)</td>
+<td>Tarefas(Tasks)</td>
+<td> Entregáveis(Deliverables)</td>
+<td> Marcos(Milestones)</td>
+</tr>
+<tr>
+<td>Diagnóstico</td>
+<td>Entendimento das necessidades e expectativas das partes interessadas</td>
+<td>Fluxograma do projeto</td>
+<td>Opção pela contratação do produto/serviço</td>
+</tr>
+<tr>
+<td>Iniciação</td>
+<td>Elaboração do Termo de abertura do projeto</td>
+<td>Termo de abertura do projeto</td>
+<td>Aceite do Termo de abertura do projeto</td>
+</tr>
+<tr>
+<td>Multimídia</td>
+<td>Placa de Vídeo 512 MB</td>
+<td>85</td>
+<td>6</td>
+</tr>
+</table>
+
 ||*Fases, tarefas, documentos a serem entregues e marcos*|| 
 ||Fases<br>(Summary Tasks)||Tarefas<br>(Tasks)|| Entregáveis<br> (Deliverables)|| Marcos<br>(Milestones)||
 ||Diagnóstico||Entendimento das necessidades<br> e expectativas das partes<br> interessadas || Fluxograma do<br> projeto||Opção pela<br> contratação do<br> produto/serviço||
