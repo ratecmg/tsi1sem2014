@@ -1,4 +1,4 @@
- == PLANEJAMENTO ==
+ == 1. PLANEJAMENTO ==
  Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
 
  === 1.1. GERENCIAMENTO DO ESCOPO ===
