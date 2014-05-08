@@ -42,11 +42,17 @@
 <td>Termo de abertura do projeto</td>
 <td>Aceite do Termo de abertura do projeto</td>
 </tr>
+<tr colspan="2">
+<td>Planejamento</td>
+<td>Elaboração da Declaração do escopo;</td>
+<td>Declaração do escopo;</td>
+<td>Aceite da Declaração do escopo;</td>
+</tr>
 <tr>
-<td>Multimídia</td>
-<td>Placa de Vídeo 512 MB</td>
-<td>85</td>
-<td>6</td>
+<td>Planejamento</td>
+<td>Elaboração da estrutura analítica do projeto, matriz de responsabilidades, cronograma, orçamento e planejamento da qualidade, recursos humanos, comunicação, riscos e aquisições.</td>
+<td>Plano de gerenciamento do projeto.</td>
+<td>Aceite do Plano de gerenciamento do projeto.</td>
 </tr>
 </table>
 
