@@ -27,8 +27,8 @@
 <tr>
 <td>Fases(Summary Tasks)</td>
 <td>Tarefas(Tasks)</td>
-<td> Entregáveis(Deliverables)</td>
-<td> Marcos(Milestones)</td>
+<td>Entregáveis(Deliverables)</td>
+<td>Marcos(Milestones)</td>
 </tr>
 <tr>
 <td>Diagnóstico</td>
@@ -56,7 +56,10 @@
 </tr>
 </table>
 
-||*Fases, tarefas, documentos a serem entregues e marcos*|| 
+
+
+
+|||||||||||*Fases, tarefas, documentos a serem entregues e marcos*||
 ||Fases<br>(Summary Tasks)||Tarefas<br>(Tasks)|| Entregáveis<br> (Deliverables)|| Marcos<br>(Milestones)||
 ||Diagnóstico||Entendimento das necessidades<br> e expectativas das partes<br> interessadas || Fluxograma do<br> projeto||Opção pela<br> contratação do<br> produto/serviço||
 ||Iniciação||Elaboração do Termo de<br> abertura do projeto||Termo de<br> abertura do projeto||Aceite do Termo de<br> abertura do projeto||
