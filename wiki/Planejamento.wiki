@@ -1,19 +1,18 @@
-== PLANEJAMENTO ==
-
-Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
+ == PLANEJAMENTO ==
+ Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
 
 <br>
  === 1.1. GERENCIAMENTO DO ESCOPO ===
-O Gerenciamento do escopo é muito importante no processo, pois indicara como o projeto será desenvolvido, apresentando as funcionalidades que serão desenvolvidas, os casos de usos, diagramas de classes e o projeto do banco de dados, e que poderão ser observados nas seções seguintes.
+ O Gerenciamento do escopo é muito importante no processo, pois indicara como o projeto será desenvolvido, apresentando as funcionalidades que serão desenvolvidas, os casos de usos, diagramas de classes e o projeto do banco de dados, e que poderão ser observados nas seções seguintes.
 
 <br>
  ==== 1.1.1. DECLARAÇÃO DO ESCOPO ====
-Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
+ Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
 || *Dados do Projeto* ||
-||Título: IFBook||
-||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados.||
-||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e classificados. ||
+||Título: IFBook ||
+||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados. ||
+||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e classificados.  ||
 || *Escopo* ||
 ||Produto do projeto:<br> Fluxo do Aluno<br> Descrição: O usuário com privilégios de aluno fará o login com seu “bv” e sua senha acessando assim o aplicativo, podendo acrescentar informações<br> e imagem em seu perfil.  `*`	Visualizar os Aniversariantes do dia , Incluir, Editar e Remover Mensagens e Classificados. <br>Fluxo do Gestor <br>Descrição: O usuário cadastrado como gestor, além tem como privilégios:  `*`	Remover as mensagens e classificados de terceiros||
 ||Exclusão do escopo:<br> Criação de Eventos<br> Criação do Fórum ||
@@ -23,14 +22,14 @@ Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os ob
 ||Acompanhamento do projeto:<br> Será acompanhado pelo gerente de projeto e pelos professores: SDW – Ricardo<br> Alexandre Neves; QTS – Breno Lisi Romano; DPW – Ricardo Alexandre Neves; DDM – Luiz Ângelo Valota Francisco.||
 
 <br><br> *Fases, tarefas, documentos a serem entregues e marcos* 
-||Fases(Summary Tasks)||Tarefas (Tasks)|| Entregáveis (Deliverables)|| Marcos (Milestones)||
-||Diagnóstico||Entendimento das necessidades e expectativas das partes interessadas || Fluxograma do projeto||Opção pela contratação do produto/serviço||
-||Iniciação||Elaboração do Termo de abertura do projeto||Termo de abertura do projeto||Aceite do Termo de abertura do projeto||
-||Planejamento||Elaboração da Declaração do escopo;||Declaração do escopo;||Aceite da Declaração do escopo;||
-||Planejamento||Elaboração da estrutura analítica do projeto, matriz de responsabilidades, cronograma, orçamento e planejamento da qualidade, recursos humanos, comunicação, riscos e aquisições.||Plano de gerenciamento do projeto.||Aceite do Plano de gerenciamento do projeto.||
-||Execução e controle ||Execução do projeto conforme Plano de gerenciamento do projeto.||Software para testes.||Homologação do software.||
-||Implantação||Elaboração do plano de implantação e treinamento e manual do usuário||Plano de implantação||Aceite do produto final||
-||Encerramento||Auditoria do projeto e elaboração do Termo de encerramento do projeto||Termo de encerramento do projeto||Aceite do Termo de encerramento do projeto||
+ ||Fases(Summary Tasks)||Tarefas (Tasks)|| Entregáveis (Deliverables)|| Marcos (Milestones)||
+ ||Diagnóstico||Entendimento das necessidades e expectativas das partes interessadas || Fluxograma do projeto||Opção pela contratação do produto/serviço||
+ ||Iniciação||Elaboração do Termo de abertura do projeto||Termo de abertura do projeto||Aceite do Termo de abertura do projeto||
+ ||Planejamento||Elaboração da Declaração do escopo;||Declaração do escopo;||Aceite da Declaração do escopo;||
+ ||Planejamento||Elaboração da estrutura analítica do projeto, matriz de responsabilidades, cronograma, orçamento e planejamento da qualidade, recursos humanos, comunicação, riscos e aquisições.||Plano de gerenciamento do projeto.||Aceite do Plano de gerenciamento do projeto.||
+ ||Execução e controle ||Execução do projeto conforme Plano de gerenciamento do projeto.||Software para testes.||Homologação do software.||
+ ||Implantação||Elaboração do plano de implantação e treinamento e manual do usuário||Plano de implantação||Aceite do produto final||
+ ||Encerramento||Auditoria do projeto e elaboração do Termo de encerramento do projeto||Termo de encerramento do projeto||Aceite do Termo de encerramento do projeto||
 
 *Responsáveis pela elaboração do documento*
 ||Nome: Daiane Galvão Pereira, Samara Ribeiro Vieira, Simone Consentino Jús .||
