@@ -1,13 +1,13 @@
  = 1. PLANEJAMENTO =
- Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
+ Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde<br> foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da<br> implementação.
 
  === 1.1. GERENCIAMENTO DO ESCOPO ===
- O Gerenciamento do escopo é muito importante no processo, pois indicara como o projeto será desenvolvido, apresentando as funcionalidades que serão desenvolvidas, os casos de usos, diagramas de classes e o projeto do banco de dados, e que poderão ser observados nas seções seguintes.
+ O Gerenciamento do escopo é muito importante no processo, pois indicara como o projeto será<br> desenvolvido, apresentando as funcionalidades que serão desenvolvidas, os casos de usos, diagramas<br> de classes e o projeto do banco de dados, e que poderão ser observados nas seções seguintes.
 
  ==== 1.1.1. DECLARAÇÃO DO ESCOPO ====
- Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
+ Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o<br> projeto estabelece para atender, as divisões e marcos de entrega. 
 
- <p align= center >_Tabela 3 - Declaração do Escopo do projeto_
+<p align=center>_Tabela 3 - Declaração do Escopo do projeto_
 ||||<p align=center> *Dados do Projeto* ||
 ||||Título: IFBook||
 |||||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e<br> professores possam interagir, enviando<br> mensagens e classificados. ||
