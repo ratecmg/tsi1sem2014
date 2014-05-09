@@ -18,7 +18,7 @@
 ||Premissas:<br> Parte-se do pressuposto, que os alunos não<br> possuem um aplicativo onde possam interagir com<br> alunos e servidores do Instituto Federal – Campus de<br> São João da Boa Vista.||Restrições:<br>As restrições podem ocorrer por falta de<br> tempo hábil para concluir o projeto; a falta<br> de uma estrutura para construção do web<br> service, gerando como<br> consequência, a<br> dificuldade para o usuário final acessar o<br> aplicativo.||
 ||Relação com outros projetos:<br>Este projeto vai implicar na integração de alunos,<br> servidores e professores do Instituto Federal-<br> Campus de São João da Boa Vista, fomentando a<br> divulgação de mensagens e classificados de<br> diferentes assuntos e temas, podendo nas turmas<br> seguintes ser aperfeiçoado com os módulos que<br> ficaram fora do escopo deste projeto, como Eventos<br> e Fórum.||Acompanhamento do projeto:<br> Será acompanhado pelo gerente de projeto e<br> pelos professores: SDW – Ricardo<br> Alexandre Neves; QTS – Breno Lisi<br> Romano; DPW – Ricardo Alexandre Neves;<br> DDM – Luiz Ângelo Valota Francisco.||
 
-||<p align=center>*Fases, tarefas, documentos a serem entregues e marcos*||
+||||||||<p align=center>*Fases, tarefas, documentos a serem entregues e marcos*||
 ||Fases(Summary Tasks)||Tarefas(Tasks)|| Entregáveis (Deliverables)|| Marcos(Milestones)||
 ||Diagnóstico||Entendimento das necessidades<br> e expectativas das partes<br> interessadas || Fluxograma do<br> projeto||Opção pela<br> contratação do<br> produto/serviço||
 ||Iniciação||Elaboração do Termo de<br> abertura do projeto||Termo de<br> abertura do projeto||Aceite do Termo de<br> abertura do projeto||
