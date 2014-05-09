@@ -27,7 +27,6 @@
 ||Execução e<br> controle ||Execução do projeto conforme<br> Plano de gerenciamento do<br> projeto.||Software para testes.||Homologação do<br> software.||
 ||Implantação||Elaboração do plano de<br> implantação e treinamento e<br> manual do usuário||Plano de<br> implantação||Aceite do produto<br> final||
 ||Encerramento||Auditoria do projeto e<br> elaboração do Termo de<br> encerramento do projeto||Termo de<br> encerramento do<br> projeto||Aceite do Termo de<br> encerramento do<br> projeto||
-
 ||<p align=center>*Responsáveis pela elaboração do documento*||
 ||Nome: Daiane Galvão Pereira, Samara Ribeiro Vieira, Simone Consentino Jús .||
 ||<p align=center>*Responsável pela aprovação do documento*||
