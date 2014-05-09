@@ -8,12 +8,12 @@
   Segue abaixo a declaração do escopo do projeto, onde foram estabelecidos os objetivos que o projeto estabelece para atender, as divisões e marcos de entrega. 
 
 <br>
-_Tabela 1 - Declaração do Escopo do projeto_
+<p align=center>_Tabela 1 - Declaração do Escopo do projeto_
 
 ||||||||<p align=center> *Dados do Projeto* ||
 ||||||||Título: IFBook||
-||||||||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e<br> professores possam interagir, enviando<br> mensagens e classificados. ||
-||||||||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores<br> do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e<br> classificados.||
+||||||||Justificativa:<br>Este projeto se justifica pelo fato de não haver nenhum aplicativo para que os aluno, funcionários e professores possam interagir, enviando<br> mensagens e classificados. ||
+||||||||Objetivos:<br>O objetivo deste trabalho é proporcionar a integração dos alunos, funcionários e professores do Instituto Federal - Campus de São João da Boa<br> Vista, para postagens de mensagens e classificados.||
 ||||||||<p align=center>*Escopo* ||
 ||||||||Produto do projeto:<br><br> Fluxo do Aluno<br><br> Descrição: O usuário com privilégios de aluno fará o login com seu “bv” e sua senha acessando<br> assim o aplicativo, podendo acrescentar informações<br> e imagem em seu perfil.<br><br>`*`Visualizar os Aniversariantes do dia , Incluir, Editar e Remover Mensagens e Classificados.<br><br>Fluxo do Gestor <br><br>Descrição: O usuário cadastrado como gestor, além tem como privilégios:<br><br>`*`Remover as mensagens e classificados de terceiros||
 ||||||||Exclusão do escopo:<br> Criação de Eventos<br> Criação do Fórum ||
