@@ -12,9 +12,6 @@ No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto,
 || Daiane Galvão Pereira ||
 
 
-
-===TERMO DE ABERTURA DE PROJETO===
-
 = TERMO DE ABERTURA DO PROJETO =
 
 ||||<p align=center> *Dados do projeto* || 
