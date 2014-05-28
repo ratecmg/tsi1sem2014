@@ -5,6 +5,9 @@
 Este tópico apresenta uma Visão dos Casos de Uso organizando o Modelo dos Casos de Uso do Protótipo de Projeto do Módulo de Postagem da Rede Social IFBOOK.
 
 ===Atores===
+
+Estão descriminados abaixo os atores que usarão o sistema.
+
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/CasosDeUso/Atores.png
 
 
