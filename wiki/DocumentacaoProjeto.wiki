@@ -161,6 +161,9 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/Atores.pn
 
 
 ===Casos de Uso===
+
+Abaixo segue os casos de uso envolvidos no Módulo 01 Perfil e suas funcionalidades.
+
 ==== Login ====
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo01/CasosDeUso/UC01-Login.png
 
