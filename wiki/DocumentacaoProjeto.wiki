@@ -14,6 +14,8 @@ No inicio do projeto, foi elaborado um diagnostico para elaboração do projeto,
 
 = TERMO DE ABERTURA DO PROJETO =
 
+Com o intuito de definir os objetivos e as justificativas do projeto, um cronograma básico foi elaborado. Nesse termo de abertura do projeto serão apresentados os seguintes tópicos abaixo:
+
 ||||<p align=center> *Dados do projeto* || 
 |||| Título: IFBook ||
 |||| Justificativa:<br><br> Como critério de avaliação interdisciplinar, do 6° Semestre do curso de Sistemas para Internet, escolheu-se aperfeiçoar a comunicação e<br> divulgação de eventos entre alunos, professores e servidores do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo –<br> Campus São João da Boa Vista com o projeto de uma rede social.Add your content here. ||
