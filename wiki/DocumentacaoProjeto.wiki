@@ -275,6 +275,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Modulo02/EstimativasDeEsforco
 
 
 ===DIAGRAMAS DE CLASSE===
+http://tsi1sem2014.googlecode.com/svn/wiki/images/Diagramas/Class%20Diagram7.jpg
 
 ===DIAGRAMAS DE SEQUÊNCIA===
 
