@@ -8,12 +8,12 @@ TERMO DE ABERTURA DE PROJETO - ok<br>
 PLANEJAMENTO  - ok<br>
 simone, daiane, samara
 -----------------------------------------------------------
-GERENCIAMENTO DO ESCOPO<br>
--- DECLARAÇÃO DO ESCOPO<br>
--- ESTRUTURA ANALÍTICA DO PROJETO – EAP do perfil e do<br> 
--- DIAGRAMAS DE CLASSE - precisaria fazer<br>
--- DIAGRAMAS DE SEQUÊNCIA - precisaria fazer<br>
-GERENCIAMENTO DO TEMPO - ?<br>
+GERENCIAMENTO DO ESCOPO<br> ok
+-- DECLARAÇÃO DO ESCOPO<br>ok
+-- ESTRUTURA ANALÍTICA DO PROJETO – EAP do perfil e do Outro Modulo<br> 
+-- DIAGRAMAS DE CLASSE - Ta com o Jessé<br>
+-- DIAGRAMAS DE SEQUÊNCIA -  Ta com o Jessé<br>
+
 danilo, tiago, jesse, Ricardo
 
 ------------------------------------------------------------
@@ -26,7 +26,8 @@ PROJETO DO BANCO DE DADOS - ok recolocar o final
 Lucas Phelps
 ------------------------------------------------------------
 
-
+-- ESTRUTURA ANALÍTICA DO PROJETO – EAP do perfil e do Outro Modulo<br>
+GERENCIAMENTO DO TEMPO - ?<br>
 
 ------------------------------------------------------------
 
@@ -44,19 +45,30 @@ entregue até dia 14 de maio.
 
 
 
-
-GERENCIAMENTO DE RISCOS<br>
-REGISTRO DOS RISCOS<br>
-PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>
-
+----------------------------------------------------------
 EXECUÇÃO E CONTROLE<br>
 APLICATIVO WEB<br>
-TESTES DE QUALIDADE<br>
+TESTES DE QUALIDADE<br>+
 WEB SERVICE<br>
 RELATÓRIOS DE DESEMPENHO<br>
 APLICATIVO ANDROID<br>
 IMPLANTAÇÃO<br>
 PLANEJAMENTO DA IMPLANTAÇÃO<br>
+
+Simone, Samara, Daiane, DEgine
+----------------------------------------------------------
+
+
+GERENCIAMENTO DE RISCOS<br>
+REGISTRO DOS RISCOS<br>
+PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>
+TREINAMENTO<br>
+ENCERRAMENTO<br>
+Jessé e Tiago papai
+-----------------
+
+
+
 MANUAL DO USUÁRIO<br>
 TREINAMENTO<br>
 ENCERRAMENTO<br>
@@ -64,3 +76,4 @@ AUDITORIA DO PROJETO<br>
 TERMO DE ENCERRAMENTO DO PROJETO<br>
 REFERÊNCIAS<br>
 ANEXOS<br>
+Lucas E Phelps
