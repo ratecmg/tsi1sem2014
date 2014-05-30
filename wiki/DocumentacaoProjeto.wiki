@@ -83,10 +83,6 @@ O planejamento é todo o processo que envolve as ações que antecedem as realid
 ||||||||Nome: Ricardo Alexandre Neves||
 ||||||||Cargo: Professor||
 
-
-==GERENCIAMENTO DO ESCOPO==
-===DECLARAÇÃO DO ESCOPO===
-
 ===DOCUMENTO DE REQUISITOS DO PROJETO===
 
 ==Módulo 01 Perfil==
