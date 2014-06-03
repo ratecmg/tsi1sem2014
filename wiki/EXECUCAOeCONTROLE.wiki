@@ -1,14 +1,17 @@
 #summary One-sentence summary of this page.
 
-= 1.	EXECUÇÃO E CONTROLE =
+== 1.	EXECUÇÃO E CONTROLE ==
 
 Após a realização do planejamento do projeto, iniciou-se a fase de execução do projeto, onde a equipe foi dividida em vários grupos, onde cada grupo tinha a responsabilidade de desenvolver uma parte especifica do aplicativo web e local. Foi definida a arquitetura que seria utilizada, como pode ser visto na imagem abaixo:
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/arquiteturapronta.png </p>
 <p align=center>Figura - Arquitetura do Projeto</p>
-= Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<br>
+Na figura da arquitetura do projeto podemos observar o desenvolvimento de um projeto mobile na qual o bando de dados é responsável pela armazenagem dos dados do usuário e ações do sistema. Os serviços que o sistema pode realizar estão disponíveis na plataforma móvel. Nas próximas seções poderá ser visualizada a organização do projeto com maiores detalhes.
+
+<br>
+===1.1.	APLICATIVO WEB===
+Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter os controllers, um para as classes de DAO, um pacote para as classes do modelo, um pacote para guardar todas as classes que foram utilizados para testes, um pacote para adicionar classes uteis para todo o projeto e por fim um pacote para adicionar as classes de validação.
+
+<p align=center>Figura - Estrutura do Projeto</p>
