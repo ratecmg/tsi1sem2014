@@ -1,3 +1,4 @@
+
 #summary One-sentence summary of this page.
 
 = Diagramas de Sequência =
@@ -36,3 +37,15 @@ http://tsi1sem2014.googlecode.com/svn/Editar%20Mensagem.jpg
 Remover Mensagem
 
 http://tsi1sem2014.googlecode.com/svn/Remover%20Mensagem.jpg
+
+Postar Classificado
+
+http://tsi1sem2014.googlecode.com/svn/PostarClassificado.jpg
+
+Editar Classificado
+
+http://tsi1sem2014.googlecode.com/svn/Editar%20Classificado.jpg
+
+Remover Classificado
+
+http://tsi1sem2014.googlecode.com/svn/Remover%20Classificado.jpg
