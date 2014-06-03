@@ -8,3 +8,7 @@ http://tsi1sem2014.googlecode.com/svn/Login.jpg
 Exibir Tela Inicial
 
 http://tsi1sem2014.googlecode.com/svn/Exibir%20Tela%20Inicial.jpg
+
+Editar Área de Interesse
+
+http://tsi1sem2014.googlecode.com/svn/Editar%20Area%20de%20Interesse.jpg
