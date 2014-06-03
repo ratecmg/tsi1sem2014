@@ -18,16 +18,14 @@ danilo, tiago, jesse, Ricardo
 
 ------------------------------------------------------------
 
-MATRIZ DE RESPONSABILIDADES : Lucas<br>
+MATRIZ DE RESPONSABILIDADES : ok <br>
 Caso de Uso e Requisitos ok
-CRONOGRAMA - confirmar
+CRONOGRAMA - ok refazer 
 PROJETO DO BANCO DE DADOS - ok recolocar o final
 
 Lucas Phelps
 ------------------------------------------------------------
 
--- ESTRUTURA ANALÍTICA DO PROJETO – EAP do perfil e do Outro Modulo<br>
-GERENCIAMENTO DO TEMPO - ?<br>
 
 ------------------------------------------------------------
 
@@ -59,21 +57,18 @@ Simone, Samara, Daiane, DEgine
 ----------------------------------------------------------
 
 
-GERENCIAMENTO DE RISCOS<br>
-REGISTRO DOS RISCOS<br>
-PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>
-TREINAMENTO<br>
-ENCERRAMENTO<br>
+
 Jessé e Tiago papai
 -----------------
 
-
-
+GERENCIAMENTO DE RISCOS<br> ok
+REGISTRO DOS RISCOS<br>ok
+PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>ok
 MANUAL DO USUÁRIO<br>
-TREINAMENTO<br>
+TREINAMENTO<br> já é o manual ok
 ENCERRAMENTO<br>
-AUDITORIA DO PROJETO<br>
-TERMO DE ENCERRAMENTO DO PROJETO<br>
-REFERÊNCIAS<br>
-ANEXOS<br>
+AUDITORIA DO PROJETO<br>acima
+TERMO DE ENCERRAMENTO DO PROJETO<br>acima
+REFERÊNCIAS<br> pegar as das imentas 
+ANEXOS<br> só o caso de teste
 Lucas E Phelps
