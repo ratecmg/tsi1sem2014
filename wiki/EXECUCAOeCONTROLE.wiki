@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= 1.	EXECUÇÃO E CONTROLE =
+
+Após a realização do planejamento do projeto, iniciou-se a fase de execução do projeto, onde a equipe foi dividida em vários grupos, onde cada grupo tinha a responsabilidade de desenvolver uma parte especifica do aplicativo web e local. Foi definida a arquitetura que seria utilizada, como pode ser visto na imagem abaixo:
+
+<p align=center>Figura - Arquitetura do Projeto</p>
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
