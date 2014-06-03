@@ -4,3 +4,7 @@
 Login
 
 http://tsi1sem2014.googlecode.com/svn/Login.jpg
+
+Exibir Tela Inicial
+
+http://tsi1sem2014.googlecode.com/svn/Exibir%20Tela%20Inicial.jpg
