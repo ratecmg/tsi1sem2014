@@ -16,3 +16,7 @@ http://tsi1sem2014.googlecode.com/svn/Editar%20Area%20de%20Interesse.jpg
 Recuperar Senha
 
 http://tsi1sem2014.googlecode.com/svn/Recuperar%20Senha.jpg
+
+Visualizar Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Visualizar%20Mensagens.jpg
