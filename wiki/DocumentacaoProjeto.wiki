@@ -323,9 +323,22 @@ Para obter um controle sobre as tarefas e prazos realizados, foi elaborado um cr
 https://tsi1sem2014.googlecode.com/svn/wiki/images/Cronograma.PNG
 
 ==GERENCIAMENTO DA QUALIDADE==
+
+A fim de satisfazer a qualidade do projeto, tudo foi elaborado conforme os requisitos, especificações e adequado ao uso no projeto. 
+
 ===PLANEJAMENTO DA QUALIDADE===
+
+Para realizar um controle de qualidade no software que foi desenvolvido, um planejamento de testes foi elaborado. Vários casos de testes foram criados e implementados maneiras para relatos das ocorrências. Encontramos os casos de testes no anexo 01.
+
 ===CONTROLE DA QUALIDADE===
+
+Anexo1
+
 ===TESTES DE QUALIDADE===
+
+Segue anexo os resultados dos testes de qualidade executados no sistema IFbook.
+
+Anexo 01.
 
 
 ==GERENCIAMENTO DE RISCOS==
