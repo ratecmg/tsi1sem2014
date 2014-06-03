@@ -28,3 +28,11 @@ http://tsi1sem2014.googlecode.com/svn/Visualizar%20Classificados.jpg
 Postar Mensagem
 
 http://tsi1sem2014.googlecode.com/svn/Postar%20Mensagem.jpg
+
+Editar Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Editar%20Mensagem.jpg
+
+Remover Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Remover%20Mensagem.jpg
