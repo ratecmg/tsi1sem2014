@@ -301,14 +301,17 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/scriptbanco/5.png
 ==GERENCIAMENTO DO TEMPO==
 = 1. Gerenciamento de Tempo =
 
-Com o propósito de controlar o tempo do projeto, foi necessário criar um controle das tarefas a serem desenvolvidas, assim como a elaboração do cronograma utilizado no projeto, sendo uma responsabilidade do gerente de projeto. Foi elaborado um esquema de responsabilidades das principais tarefas do projeto, mostradas a seguir.
+Para o melhor gerenciamento do tempo do projeto, foi realizado um controle das tarefas envolvidas no processo de criação do sistema, essas tarefas foram divididas entre os membros da equipe para melhor aproveitamento do tempo. Como produto deste controle, foram criados matrizes de responsabilidades e o cronograma de atividades expostos a seguir. 
 
 
 ===MATRIZ DE RESPONSABILIDADES===
+As responsabilidades sobre as atividades foram divididas entre os integrantes de acordo com a solicitação dos stackholders, visando o aprendizado dos envolvidos. Segue abaixo o esquema de responsabilidades em relação ao planejamento.
 
-Para obter o sucesso na execução do projeto, foram divididas as responsabilidades entre os integrantes, conforme suas habilidades e aptidões. Segue abaixo o esquema de responsabilidades em relação ao planejamento e execução que foi elaborada pelo integrantes.
+https://tsi1sem2014.googlecode.com/svn/wiki/images/matrizresp/MatrizREsp1.jpg
+<br>
+A seguir, é exposta a matriz de responsabilidades em relação a execução do projeto.
 
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Esquema%20de%20Planejamento.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/matrizresp/MatrizREsp2.jpg
 
 ===CRONOGRAMA===
 
@@ -323,9 +326,19 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/Cronograma.PNG
 
 
 ==GERENCIAMENTO DE RISCOS==
-===REGISTRO DOS RISCOS===
-===PLANEJAMENTO DE RESPOSTA AOS RISCOS===
 
+Problemas podem ocorrer durante o desenvolvimento de projetos, por essa razão, é necessário um planejamento para a diminuição destes riscos. Esta seção é responsável por realizar análises dos possíveis riscos que podem atrapalhar o desenvolvimento deste projeto. Como resultado desta análise é criado um plano de contingência para mitigar e eliminar os problemas.<br>
+===REGISTRO DE RISCOS===
+
+A tabela a seguir registra os riscos levantados para este projeto.
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/riscos/riscos1.png
+https://tsi1sem2014.googlecode.com/svn/wiki/images/riscos/riscos2.png
+
+===PLANEJAMENTO DE RESPOSTA AOS RISCOS===
+ O plano de contingência para os riscos expostos acima é registrado na tabela abaixo.
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/riscos/riscos3.png
 
 =EXECUÇÃO E CONTROLE=
 
