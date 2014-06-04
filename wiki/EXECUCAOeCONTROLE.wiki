@@ -136,6 +136,6 @@ O sistema SDN foi concebido para ser executado pelos seguintes softwares:
 <br><br>Linux: http://www.vivaolinux.com.br/dica/Instalando-MySQL-5.1-no-Debian-5-x86_64-pelo-aptget 
 Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-windows-7/ 
 <br><br>O arquivo com a implementação da Base de dados e alguns dados pré-inseridos é fornecido por um arquivo sem extensão com nome banco_sdn. Para restaurar a base dados através do arquivo você deve possuir o aplicativo Mysql Administrator, um software do pacote de instalação MySQL GUI Tools Bundle disponível em: http://dev.mysql.com/downloads.
-<br>Ao executar o programa a tela da Figura 22 será exibida:
-<p http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acesso%20mysql.png
+<br><br>Ao executar o programa a tela da Figura 22 será exibida:
+<p http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
 <p align=center>Figura 22 – Acesso MySQL </p>
