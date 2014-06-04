@@ -1,7 +1,6 @@
 == 1.	EXECUÇÃO E CONTROLE ==
 
 Após a realização do planejamento do projeto, iniciou-se a fase de execução do projeto, onde a equipe foi dividida em vários grupos, onde cada grupo tinha a responsabilidade de desenvolver uma parte especifica do aplicativo web e local. Foi definida a arquitetura que seria utilizada, como pode ser visto na imagem abaixo:
-
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/arquiteturapronta.png </p>
 <p align=center>Figura 1 - Arquitetura do Projeto</p>
 
@@ -50,3 +49,18 @@ Na imagem abaixo é possível observar as classes que foram criadas no pacote ú
 Na figura abaixo é possível observar as classes que foram criadas no pacote 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
 <p align=center>Figura 8 – Classes do pacote </p>
+
+<br><br>
+Abaixo é possível observar os métodos da classe BaseController, utilizada para centralizar as permissões do usuário ao acessar as páginas. Deste modo simplificou o desenvolvimento das funcionalidades, além de reutilizar o código.
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 9 – Classe BaseController </p>
+
+<br><br>
+Na figura abaixo é possível observar as classes que foram criadas no pacote testes, onde os desenvolvedores criaram para testar os métodos de DAO.
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 9 – Classes do Pacote de Teste </p>
+
+<br><br>
+Abaixo é possível observar as classes que foram criadas no pacote útil, que contém a classe URLCatcher  e o pacote validation, onde possui uma classe para realizar a validação.
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 10 – Demais pacotes </p>
