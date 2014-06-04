@@ -123,3 +123,17 @@ Na figura abaixo é possível observar as classes que foram criadas no pacote mo
 Abaixo podemos observar as telas do Android dentro da pasta res/layout/ 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
 <p align=center>Figura 21 – Telas do Aplicativo Android </p>
+
+== 2. IMPLANTAÇÃO ==
+Com o objetivo de orientar as pessoas que desejarem implantar o sistema no Instituto Federal, foi elaborado um planejamento de sua implantação, que pode ser visto nas próximas seções.
+
+=== 2.1. PLANEJAMENTO DA IMPLANTAÇÃO ===
+O sistema SDN foi concebido para ser executado pelos seguintes softwares:
+<br>Apache Tomcat Versão 7.0.34.0: O Apache Tomcat é um servidor web Java de aplicações JEE, mais especificamente, um contêiner de servlets. Um tutorial de instalação para esta versão do Tomcat pode ser encontrado em:
+<br><br>Linux: http://desenvolvedorinteroperavel.wordpress.com/2012/03/18/instalacao-do-tomcat-7-e-java-jdk-1-7-no-centos-fedora-e-red-hat/ 
+<br><br>Windows: http://www.oficinadanet.com.br/artigo/992/instalacao_e_configuracao_do_tomcat 
+<br>MySQL Versão 5.1.34-community: O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. Um tutorial de instalação para esta versão doMysql pode ser encontrado em:
+<br><br>Linux: http://www.vivaolinux.com.br/dica/Instalando-MySQL-5.1-no-Debian-5-x86_64-pelo-aptget 
+Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-windows-7/ 
+<br><br>O arquivo com a implementação da Base de dados e alguns dados pré-inseridos é fornecido por um arquivo sem extensão com nome banco_sdn. Para restaurar a base dados através do arquivo você deve possuir o aplicativo Mysql Administrator, um software do pacote de instalação MySQL GUI Tools Bundle disponível em: http://dev.mysql.com/downloads.
+<br>Ao executar o programa a tela da Figura 22 será exibida:
