@@ -280,7 +280,58 @@ http://tsi1sem2014.googlecode.com/svn/wiki/images/Diagramas/Class%20Diagram7.jpg
 Obs.:Para melhor visualização da imagem, clique sobre ela com o botão direito do mouse sobre a imagem e selecione a opção "Abrir imagem em uma nova guia"
 
 ===DIAGRAMAS DE SEQUÊNCIA===
-ok
+= Diagramas de Sequência =
+Login
+
+http://tsi1sem2014.googlecode.com/svn/Login.jpg
+
+Exibir Tela Inicial
+
+http://tsi1sem2014.googlecode.com/svn/Exibir%20Tela%20Inicial.jpg
+
+Enviar Imagem de Perfil
+
+http://tsi1sem2014.googlecode.com/svn/Enviar%20Imagem%20do%20Perfil.jpg
+
+Editar Área de Interesse
+
+http://tsi1sem2014.googlecode.com/svn/Editar%20Area%20de%20Interesse.jpg
+
+Recuperar Senha
+
+http://tsi1sem2014.googlecode.com/svn/Recuperar%20Senha.jpg
+
+Visualizar Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Visualizar%20Mensagens.jpg
+
+Visualizar Classificado
+
+http://tsi1sem2014.googlecode.com/svn/Visualizar%20Classificados.jpg
+
+Postar Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Postar%20Mensagem.jpg
+
+Editar Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Editar%20Mensagem.jpg
+
+Remover Mensagem
+
+http://tsi1sem2014.googlecode.com/svn/Remover%20Mensagem.jpg
+
+Postar Classificado
+
+http://tsi1sem2014.googlecode.com/svn/PostarClassificado.jpg
+
+Editar Classificado
+
+http://tsi1sem2014.googlecode.com/svn/Editar%20Classificado.jpg
+
+Remover Classificado
+
+http://tsi1sem2014.googlecode.com/svn/Remover%20Classificado.jpg
 
 === PROJETO DO BANCO DE DADOS ===
 
@@ -297,12 +348,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/scriptbanco/3.png
 https://tsi1sem2014.googlecode.com/svn/wiki/images/scriptbanco/4.png
 https://tsi1sem2014.googlecode.com/svn/wiki/images/scriptbanco/5.png
 
-
-
-
-
 ==GERENCIAMENTO DO TEMPO==
-= 1. Gerenciamento de Tempo =
 
 Para o melhor gerenciamento do tempo do projeto, foi realizado um controle das tarefas envolvidas no processo de criação do sistema, essas tarefas foram divididas entre os membros da equipe para melhor aproveitamento do tempo. Como produto deste controle, foram criados matrizes de responsabilidades e o cronograma de atividades expostos a seguir. 
 
