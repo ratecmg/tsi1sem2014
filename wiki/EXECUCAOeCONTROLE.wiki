@@ -74,4 +74,4 @@ Na classe URLCatcher foram definidas todas as URLs das páginas e controllers ut
 ==== 1.1.2 TESTES DE QUALIDADE ====
 Segue abaixo os resultados dos testes de qualidade executados no sistema web.
 <p align=center>Tabela 10- Testes de Qualidade </p>
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/tabela-exemplo.png</p>
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/tabela-exemplo.png <p>
