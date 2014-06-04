@@ -58,9 +58,19 @@ Abaixo é possível observar os métodos da classe BaseController, utilizada par
 <br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote testes, onde os desenvolvedores criaram para testar os métodos de DAO.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
-<p align=center>Figura 9 – Classes do Pacote de Teste </p>
+<p align=center>Figura 10 – Classes do Pacote de Teste </p>
 
 <br><br>
 Abaixo é possível observar as classes que foram criadas no pacote útil, que contém a classe URLCatcher  e o pacote validation, onde possui uma classe para realizar a validação.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
-<p align=center>Figura 10 – Demais pacotes </p>
+<p align=center>Figura 11 – Demais pacotes </p>
+
+<br><br>
+Na classe URLCatcher foram definidas todas as URLs das páginas e controllers utilizados, como mostra um trecho retirado da classe a baixo:
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 12 – URLs das páginas de controllers </p>
+
+
+==== 1.1.2 TESTES DE QUALIDADE ====
+Segue abaixo os resultados dos testes de qualidade executados no sistema web.
+<p align=center>Tabela 10- Testes de Qualidade </p>
