@@ -25,3 +25,18 @@ Na figura abaixo é possível observar as classes que foram criadas no pacote
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
 <p align=center>Figura 4 – Classes do pacote</p>
+
+<br><br>
+Observa-se na figura abaixo as classes criadas no pacote DAO, responsável por realizar o acesso e todas as interações ao banco de dados. 
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 5 – Classes do Pacote DAO</p>
+
+<br><br>
+É possível verificar na imagem abaixo as classes que foram criadas no pacote modelo.
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 5 – Classes do pacote modelo</p>
+
+<br><br>
+Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest (Web Service)
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png
+<p align=center>Figura 6 – Classes do pacote rest</p>
