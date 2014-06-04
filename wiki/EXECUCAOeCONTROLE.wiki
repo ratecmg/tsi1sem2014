@@ -14,3 +14,7 @@ Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em 
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura2-Estrutura%20do%20Projeto.png </p>
 <p align=center>Figura - Estrutura do Projeto</p>
+
+Abaixo contém a parte visual do projeto, onde estão contidos os arquivos de javascript, de css e as views que foram criadas.
+
+<p align=center>Figura – Estrutura de Layout do Projeto </p>
