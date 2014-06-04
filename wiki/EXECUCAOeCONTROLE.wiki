@@ -2,7 +2,7 @@
 
 Após a realização do planejamento do projeto, iniciou-se a fase de execução do projeto, onde a equipe foi dividida em vários grupos, onde cada grupo tinha a responsabilidade de desenvolver uma parte especifica do aplicativo web e local. Foi definida a arquitetura que seria utilizada, como pode ser visto na imagem abaixo:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/arquiteturapronta.png </p>
-<p align=center>Figura 1 - Arquitetura do Projeto</p>
+<p align=center>Figura 1 - Arquitetura do Projeto </p>
 
 Na figura da arquitetura do projeto podemos observar o desenvolvimento de um projeto mobile na qual o bando de dados é responsável pela armazenagem dos dados do usuário e ações do sistema. Os serviços que o sistema pode realizar estão disponíveis na plataforma móvel. Nas próximas seções poderá ser visualizada a organização do projeto com maiores detalhes.
 
@@ -11,7 +11,7 @@ Na figura da arquitetura do projeto podemos observar o desenvolvimento de um pro
 Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter os controllers, um para as classes de DAO, um pacote para as classes do modelo, um pacote para guardar todas as classes que foram utilizados para testes, um pacote para adicionar classes uteis para todo o projeto e por fim um pacote para adicionar as classes de validação.
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 2 - Estrutura do Projeto</p>
+<p align=center>Figura 2 - Estrutura do Projeto </p>
 
 <br><br>
 Abaixo contém a parte visual do projeto, onde estão contidos os arquivos de javascript, de css e as views que foram criadas.
@@ -23,27 +23,27 @@ Abaixo contém a parte visual do projeto, onde estão contidos os arquivos de ja
 Na figura abaixo é possível observar as classes que foram criadas no pacote 
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 4 – Classes do pacote</p>
+<p align=center>Figura 4 – Classes do pacote </p>
 
 <br><br>
 Observa-se na figura abaixo as classes criadas no pacote DAO, responsável por realizar o acesso e todas as interações ao banco de dados. 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 5 – Classes do Pacote DAO</p>
+<p align=center>Figura 5 – Classes do Pacote DAO </p>
 
 <br><br>
 É possível verificar na imagem abaixo as classes que foram criadas no pacote modelo.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 5 – Classes do pacote modelo</p>
+<p align=center>Figura 5 – Classes do pacote modelo </p>
 
 <br><br>
 Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest (Web Service)
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 6 – Classes do pacote rest</p>
+<p align=center>Figura 6 – Classes do pacote rest </p>
 
 <br><br>
 Na imagem abaixo é possível observar as classes que foram criadas no pacote útil (conexão com Web Service)
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 7 – Classes do pacote útil</p>
+<p align=center>Figura 7 – Classes do pacote útil </p>
 
 <br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote 
@@ -74,7 +74,7 @@ Na classe URLCatcher foram definidas todas as URLs das páginas e controllers ut
 ==== 1.1.2 TESTES DE QUALIDADE ====
 Segue abaixo os resultados dos testes de qualidade executados no sistema web.
 <p align=center>Tabela 1 - Testes de Qualidade </p>
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/tabela-exemplo.png <p>
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/tabela-exemplo.png </p>
 
 <br><br>
 === 1.2 WEB SERVICE ===
@@ -137,5 +137,5 @@ O sistema SDN foi concebido para ser executado pelos seguintes softwares:
 Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-windows-7/ 
 <br><br>O arquivo com a implementação da Base de dados e alguns dados pré-inseridos é fornecido por um arquivo sem extensão com nome banco_sdn. Para restaurar a base dados através do arquivo você deve possuir o aplicativo Mysql Administrator, um software do pacote de instalação MySQL GUI Tools Bundle disponível em: http://dev.mysql.com/downloads.
 <br><br>Ao executar o programa a tela da Figura 22 será exibida:
-<p http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
 <p align=center>Figura 22 – Acesso MySQL </p>
