@@ -526,9 +526,35 @@ Ao editar suas informações o usuário deve clicar no botão salvar.
 O sistema foi desenvolvido com uma interface simples para a mais fácil navegação do usuário. Para facilitar o uso foi implantado a função de que o usuário pode clicar a qualquer momento no logo do sistema para regressar a tela inicial.
 
 =ENCERRAMENTO=
-==AUDITORIA DO PROJETO==
-==TERMO DE ENCERRAMENTO DO PROJETO==
 
+A finalização do trabalho se dá pelo termo de encerramento do projeto, é importante ressaltar que conforme solicitado pelos Stackholders, a responsabilização pela entrega ou, a ausência, das atividades, não competia a gerência do projeto, portanto, o processo de avaliação e correção das atividades envolvidas no desenvolvimento do sistema não serão objetos desta seção.
+
+==AUDITORIA DO PROJETO==
+
+Para medir os resultados da implementação dos sistemas devemos analisar se o tal atende a todos os requisitos expostos em momento inicial, para isso, foi realizado uma auditoria, o resultado desta encontra-se nas tabelas abaixo.
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/encerramento/auditoria1.png
+
+https://tsi1sem2014.googlecode.com/svn/wiki/images/encerramento/auditoria2.png
+
+==Gerência de Escopo==
+
+Durante o desenvolvimento do projeto ocorreram mudanças quanto ao escopo do projeto, resultando em discrepâncias da documentação com o sistema implantado.
+
+Em momento inicial esperava-se que o usuário pudesse postar documentos com extensão (.doc, .doc, .pdf, etc). Isso não foi implantado no sistema.
+
+Outra alteração no escopo é a implementação da função recuperar senha, que não pode ser implantada devido à dificuldade no processo e a falta de tempo.
+
+O modelo de banco de dados utilizado no sistema doi o MySQL, diferente do SQLite planejado.
+
+Foi inserido na tela inicial a opção de visualizar aniversariantes, que traz ao usuário a lista de aniversariantes das datas futuras.
+
+
+
+==Conclusão==
+Durante o desenvolvimento do trabalho foram encontrados diversos problemas, como a falta da documentação criada na primeira parte do projeto, o não completo comprometimento dos participantes, a não avaliação ou correção dos documentos durante o desenvolvimento do processo, feriados e recessos e etc.
+
+Apesar das dificuldades encontradas, é possível atribuir um resultado positivo ao projeto, pois foi exigido dos envolvidos colocar em prático todos os conhecimentos adquiridos no curso. 
 
 =REFERÊNCIAS=
 
