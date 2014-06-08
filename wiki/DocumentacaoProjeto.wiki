@@ -28,15 +28,15 @@ Com o intuito de definir os objetivos e as justificativas do projeto, um cronogr
 ||||Riscos:<br><br> Diversos fatores podem influenciar para que esse projeto não seja concluído no prazo determinado ou até mesmo cancelado, a saber: feriados,<br> interferindo no tempo; desistências da maioria dos desenvolvedores; greve na instituição de aluno; escopo mal elaborado, desentendimento<br> entre os membros dos grupos.||
 ||||*Gerente do Projeto* ||
 |||| Nome: Aluno Lucas Grabert ||
-|||| Responsabilidades:<br><br> `*`	Revisar a documentação formal do projeto e tomar uma decisão de aceite ou recusa <br> `*`	Assegurar que os membros da equipe de projeto estejam cientes de suas responsabilidades e também, que todos os compromissos<br> assumidos pelos indivíduos sejam realizados.<br> `*`	Gerenciar compromissos contratuais e realizá-los em tempo, dentro do orçamento e com satisfação do cliente.<br> `*`	Elaborar e atualizar o Plano de Projeto com a anuência expressa do cliente.<br> `*`	Controlar custos, cronograma, orçamento e variações técnicas dentro das margens estabelecidas no projeto.<br> `*`	Manter toda documentação atualizada nos sistemas, bem como na base de conhecimento.<br> `*`	Seguir todos os processos e padrões metodológicos.<br> `*`	Reportar formalmente o status do projeto à gerência, evitando surpresas  || 
+|||| Responsabilidades:<br><br> `*`	Assegurar que os membros da equipe de projeto estejam cientes de suas responsabilidades.<br> `*`	Gerenciar compromissos contratuais e realizá-los em tempo, dentro do orçamento e com satisfação do cliente.<br> `*`	Elaborar e atualizar o Plano de Projeto com a anuência expressa do cliente.<br> `*`	Controlar custos, cronograma, orçamento e variações técnicas dentro das margens estabelecidas no projeto.<br> `*`	Manter toda documentação atualizada nos sistemas, bem como na base de conhecimento.<br> `*`	Seguir todos os processos e padrões metodológicos.<br> `*`	Reportar formalmente o status do projeto à gerência, evitando surpresas  || 
 ||||<p align=center> *Participantes* ||
 |||| Daiane<br> Samara<br> Simone<br> Lucas ||
 ||||<p align=center> *Responsável pela elaboração deste documento* ||
 |||| Nome: Simone ||
 |||| 10/10/2013 `<`assinatura`>` Simone ||
 ||||<p align=center> *Responsável pela autorização do projeto* ||
-|||| Nome: ||
-|||| Cargo: ||
+|||| Nome: Lucas Grabert||
+|||| Cargo: Gerente de Projeto ||
 ||||`<`assinatura`>` ||
 
 <br><br>
@@ -335,7 +335,8 @@ http://tsi1sem2014.googlecode.com/svn/Remover%20Classificado.jpg
 
 === PROJETO DO BANCO DE DADOS ===
 
-O presente capítulo
+O presente capítulo é responsável por expor o banco de dados utilizado no sistema, o capítulo é dividido em três partes: Modelo Conceitual, Modelo Lógico e Modelo Físico.
+
 ==== Modelo Conceitual ====
 
 http://tsi1sem2014.googlecode.com/svn/wiki/images/ModeloConceitual.jpg
@@ -423,9 +424,106 @@ Anexo 01
 
 ==MANUAL DO USUÁRIO==
 
-==TREINAMENTO==
+Para facilitar a utilização do sistema desenvolvido, foi elabora o manual do usuário contendo informações de uso do referido. O manual será divido em seis partes, o acesso, tela inicial, mensagens, classificados, perfil e conclusão.
+
+Atualmente o sistema IFBook aceita dois níveis e usuários.  
+`*`Gestor: É o administrador do sistema. Pode alterar e excluir todas as mensagens, inclusive as dos outros usuários.
+
+`*`Usuário: Pode alterar excluir apenas mensagens de sua autoria.
 
 
+===Acesso===
+
+O acesso ao sistema é igual as duas categorias de usuário, sendo assim, o usuário deverá preencher corretamente os campos de login, prontuário e a senha, após isso deve clicar em entrar. 
+
+Imagem 1
+
+Caso algum campo não seja preenchido corretamente, uma mensagem de erro irá alertá-lo, caso contrário, o acesso será liberado e o usuário será enviado a tela inicial. 
+
+Imagem 2
+
+===Tela Inicial===
+
+A visualização da tela inicial é a mesma para as duas categorias de usuário. A tela inicial é composta pela lista de aniversariantes da semana, botões direcionadores a página de mensagens, classificados, imagem do usuário que leva para o perfil do próprio usuário e, o logo que leva a tela inicial como mostra a figura abaixo.
+Figuraaaaaa
+ 
+Caso o usuário clique no nome de um aniversariante, ele será redirecionado ao perfil do aniversariante, para voltar deve clicar no logo do sistema.
+
+===Mensagens===
+
+A página de mensagens é composta da lista de mensagens de todos os usuários, um botão de nova e outro de editar. Além do cabeçalho com a imagem do usuário e o logo do sistema.
+Ao clicar e soltar em uma imagem, o usuário será enviado ao perfil do proprietário daquela mensagem.
+
+Imagem
+
+====Nova mensagem====
+
+Ao clicar no botão novo, o usuário será enviado a tela de nova mensagem, devendo assim, preencher as informações referente ao classificado: Titulo, Descrição, área de interesse, podendo preencher ou não a imagem. Após a inserção das informações o usuário deve clicar em enviar.
+Imagem 1
+Caso algum campo não esteja devidamente preenchido aparecerá uma mensagem de erro, solicitando ao usuário preencher o campo requerido.
+Imagem 2
+
+====Editar Mensagem====
+
+Para editar as mensagens, o usuário deve clicar no botão Editar na tela principal de mensagens e ser redirecionado a lista de mensagens de sua autoria como mostra a imagem abaixo. 
+
+Imagem 1
+
+Ao ver a lista de suas mensagens o usuário deve clicar na mensagem a ser editada.
+Caso o Usuário seja do tipo Gestor, ele visualizará todas as mensagens do sistema, podendo edita-las.
+
+Imagem 2
+
+
+====Excluir mensagem====
+
+Caso o usuário clique e segure por 2 segundos na mensagem de sua autoria aparecerá uma mensagem de alerta perguntando se ele quer realmente deletar a mensagem.
+Caso o Usuário seja do tipo Gestor, ele poderá clicar em qualquer mensagem do sistema para deletar.
+
+
+===Classificados===
+
+A página de classificados é composta da lista de classificados de todos os usuários, um botão de novo e outro de editar. Além do cabeçalho com a imagem do usuário e o logo do sistema.
+Ao clicar e soltar em uma imagem, o usuário será enviado ao perfil do proprietário daquela mensagem.
+
+Imagem
+
+====Novo Classificado====
+Ao clicar no botão novo, o usuário será enviado a tela de novo classificado, devendo assim, preencher as informações referente a mensagem: Titulo, Descrição, área de interesse, podendo preencher ou não a imagem. Após a inserção das informações o usuário deve clicar em enviar.
+Imagem 1
+Caso algum campo não esteja devidamente preenchido aparecerá uma mensagem de erro, solicitando ao usuário preencher o campo requerido.
+
+====Editar Classificados====
+
+Para editar as os classificados, o usuário deve clicar no botão Editar na tela principal de classificados e ser redirecionado a lista de classificados e sua autoria como mostra a imagem abaixo. 
+
+Imagem 1
+
+Ao ver a lista de classificados de sua autoria, o usuário deve clicar no classificado a ser editado.
+Caso o Usuário seja do tipo Gestor, ele poderá editar todos os classificados do sistema.
+
+Imagem 2
+
+
+====Excluir Classificados====
+
+Caso o usuário clique e segure por 2 segundos no classificado de sua autoria aparecerá uma mensagem de alerta perguntando se ele quer realmente deletar o classificado.
+Caso o Usuário seja do tipo Gestor, ele poderá clicar em qualquer classificado do sistema para deletar.
+
+Imagem 2
+
+
+===Perfil===
+
+Ao acessar o perfil o usuário deve clicar no botão editar perfil no lado direito a sua imagem.
+ImageeemEditarPerfil1
+
+Ao editar suas informações o usuário deve clicar no botão salvar.
+
+
+===Conclusão===
+
+O sistema foi desenvolvido com uma interface simples para a mais fácil navegação do usuário. Para facilitar o uso foi implantado a função de que o usuário pode clicar a qualquer momento no logo do sistema para regressar a tela inicial.
 
 =ENCERRAMENTO=
 ==AUDITORIA DO PROJETO==
