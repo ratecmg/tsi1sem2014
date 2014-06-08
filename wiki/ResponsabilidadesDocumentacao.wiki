@@ -64,11 +64,11 @@ Jessé e Tiago papai
 GERENCIAMENTO DE RISCOS<br> ok
 REGISTRO DOS RISCOS<br>ok
 PLANEJAMENTO DE RESPOSTA AOS RISCOS<br>ok
-MANUAL DO USUÁRIO<br>
+MANUAL DO USUÁRIO :  falta colocas as imagens do sistema final<br>
 TREINAMENTO<br> já é o manual ok
-ENCERRAMENTO<br>
+ENCERRAMENTO ok e adicionado o gerenciamento de escopo<br>
 AUDITORIA DO PROJETO<br>acima
 TERMO DE ENCERRAMENTO DO PROJETO<br>acima
-REFERÊNCIAS<br> pegar as das imentas 
+REFERÊNCIAS<br> ok
 ANEXOS<br> só o caso de teste
 Lucas E Phelps
