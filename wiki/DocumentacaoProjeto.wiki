@@ -355,7 +355,7 @@ Para o melhor gerenciamento do tempo do projeto, foi realizado um controle das t
 
 
 ===MATRIZ DE RESPONSABILIDADES===
-As responsabilidades sobre as atividades foram divididas entre os integrantes de acordo com a solicitação dos stackholders, visando o aprendizado dos envolvidos. Segue abaixo o esquema de responsabilidades em relação ao planejamento.
+As responsabilidades sobre as atividades foram divididas entre os integrantes de acordo com a solicitação dos stakeholders, visando o aprendizado dos envolvidos. Segue abaixo o esquema de responsabilidades em relação ao planejamento.
 
 https://tsi1sem2014.googlecode.com/svn/wiki/images/matrizresp/MatrizREsp1.jpg
 <br>
@@ -527,7 +527,7 @@ O sistema foi desenvolvido com uma interface simples para a mais fácil navegaç
 
 =ENCERRAMENTO=
 
-A finalização do trabalho se dá pelo termo de encerramento do projeto, é importante ressaltar que conforme solicitado pelos Stackholders, a responsabilização pela entrega ou, a ausência, das atividades, não competia a gerência do projeto, portanto, o processo de avaliação e correção das atividades envolvidas no desenvolvimento do sistema não serão objetos desta seção.
+A finalização do trabalho se dá pelo termo de encerramento do projeto, é importante ressaltar que conforme solicitado pelos Stakeholders, a responsabilização pela entrega ou, a ausência, das atividades, não competia a gerência do projeto, portanto, o processo de avaliação e correção das atividades envolvidas no desenvolvimento do sistema não serão objetos desta seção.
 
 ==AUDITORIA DO PROJETO==
 
