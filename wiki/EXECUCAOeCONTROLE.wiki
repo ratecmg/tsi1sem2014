@@ -33,42 +33,42 @@ Observa-se na figura abaixo as classes criadas no pacote DAO, responsável por r
 <br><br>
 É possível verificar na imagem abaixo as classes que foram criadas no pacote modelo.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura4b.png </p>
-<p align=center>Figura 5 – Classes do pacote modelo </p>
+<p align=center>Figura 6 – Classes do pacote modelo </p>
 
 <br><br>
 Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest (Web Service)
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 6 – Classes do pacote rest </p>
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%206%20%E2%80%93%20Classes%20do%20pacote%20rest.png </p>
+<p align=center>Figura 7 – Classes do pacote rest </p>
 
 <br><br>
 Na imagem abaixo é possível observar as classes que foram criadas no pacote útil (conexão com Web Service)
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 7 – Classes do pacote útil </p>
+<p align=center>Figura 8 – Classes do pacote útil </p>
 
 <br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 8 – Classes do pacote </p>
+<p align=center>Figura 9 – Classes do pacote </p>
 
 <br><br>
 Abaixo é possível observar os métodos da classe BaseController, utilizada para centralizar as permissões do usuário ao acessar as páginas. Deste modo simplificou o desenvolvimento das funcionalidades, além de reutilizar o código.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 9 – Classe BaseController </p>
+<p align=center>Figura 10 – Classe BaseController </p>
 
 <br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote testes, onde os desenvolvedores criaram para testar os métodos de DAO.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 10 – Classes do Pacote de Teste </p>
+<p align=center>Figura 11 – Classes do Pacote de Teste </p>
 
 <br><br>
 Abaixo é possível observar as classes que foram criadas no pacote útil, que contém a classe URLCatcher  e o pacote validation, onde possui uma classe para realizar a validação.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 11 – Demais pacotes </p>
+<p align=center>Figura 12 – Demais pacotes </p>
 
 <br><br>
 Na classe URLCatcher foram definidas todas as URLs das páginas e controllers utilizados, como mostra um trecho retirado da classe a baixo:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 12 – URLs das páginas de controllers </p>
+<p align=center>Figura 13 – URLs das páginas de controllers </p>
 
 <br><br>
 ==== 1.1.2 TESTES DE QUALIDADE ====
@@ -81,48 +81,48 @@ Segue abaixo os resultados dos testes de qualidade executados no sistema web.
 <br>
 Para criar um projeto estruturado, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter as classes de DAO, um pacote para as classes do modelo e por fim um pacote para adicionar as classes do resources.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 13 – Projeto do WebService </p>
+<p align=center>Figura 14 – Projeto do WebService </p>
 
 <br><br>
 As classes contidas no pacote resources preparam as informações vindas do banco para fornecer para a aplicação Android. Abaixo podem ser observadas as classes criadas para o pacote Dao.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 14 – Classes do Pacote Dao </p>
+<p align=center>Figura 15 – Classes do Pacote Dao </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes Exception
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 15 – Classes do Pacote Exception </p>
+<p align=center>Figura 16 – Classes do Pacote Exception </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes model
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 16 – Classes dos Pacotes Model </p>
+<p align=center>Figura 17 – Classes dos Pacotes Model </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes Resources
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 17 – Classes dos Pacotes Resources </p>
+<p align=center>Figura 18 – Classes dos Pacotes Resources </p>
 
 === 1.3  APLICATIVO ANDROID  ===
 Com o objetivo de criar um projeto estruturado, o sistema foi dividido em camadas, onde cada uma é responsável por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter as classes de DAO, pacote com as classes para acesso ao webservice, um pacote para as classes do model e por fim um pacote para adicionar as classes do servidor.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 18 – Estrutura projeto Android </p>
+<p align=center>Figura 19 – Estrutura projeto Android </p>
 
 <br><br>
 Nas classes do pacote survivor prepara as informações vindas do webservice e fornece elas as telas do aplicativo. E realiza também o processo inverso, pegando os dados da tela e enviando para as classes de conexão com o webservice, através das classes do pacote DAO.
 O pacote DAO contem as classes que atuam como intermediarias para realizar o tratamento dos dados que são recebidos do webservice. A estrutura pode ser visto abaixo:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 19 – Pacotes DAO </p>
+<p align=center>Figura 20 – Pacotes DAO </p>
 
 <br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote model e pacote ws. O pacote ws contem as  classes que consomem os serviços do webservice.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 20 – Pacote Modelo </p>
+<p align=center>Figura 21 – Pacote Modelo </p>
 
 <br><br>
 Abaixo podemos observar as telas do Android dentro da pasta res/layout/ 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 21 – Telas do Aplicativo Android </p>
+<p align=center>Figura 22 – Telas do Aplicativo Android </p>
 
 == 2. IMPLANTAÇÃO ==
 Com o objetivo de orientar as pessoas que desejarem implantar o sistema no Instituto Federal, foi elaborado um planejamento de sua implantação, que pode ser visto nas próximas seções.
@@ -138,7 +138,7 @@ Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-
 <br><br>O arquivo com a implementação da Base de dados e alguns dados pré-inseridos é fornecido por um arquivo sem extensão com nome banco_sdn. Para restaurar a base dados através do arquivo você deve possuir o aplicativo Mysql Administrator, um software do pacote de instalação MySQL GUI Tools Bundle disponível em: http://dev.mysql.com/downloads.
 <br><br>Ao executar o programa a tela da Figura 22 será exibida:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
-<p align=center>Figura 22 – Acesso MySQL </p>
+<p align=center>Figura 23 – Acesso MySQL </p>
 
 Com a Base de Dados restaurada, o próximo passo é implantar o arquivo sdn.WAR que contem os serviços, dentro de um servidor Tomcat pré-configurado. Tutoriais para a instalação e confiração do Tomcat em diversas plataformas pode ser obtido em: http://www.mhavila.com.br/topicos/java/tomcat.html 
 Abra um navegador de sua preferência e se conecte a http://IP_DO_SERVIDOR_TOMCAT:8080/manager/html. E insira o usuário e senha. Se você não sabe qual é o usuário e a senha do servidor procure no arquivo CATALINA_HOME/conf/tomcat-users.xml e veja e cheque a configuração. 
