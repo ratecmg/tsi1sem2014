@@ -10,7 +10,7 @@ Na figura da arquitetura do projeto podemos observar o desenvolvimento de um pro
 ===1.1.	APLICATIVO WEB===
 Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter os controllers, um para as classes de DAO, um pacote para as classes do modelo, um pacote para guardar todas as classes que foram utilizados para testes, um pacote para adicionar classes uteis para todo o projeto e por fim um pacote para adicionar as classes de validação.
 
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura2a.png </p>
 <p align=center>Figura 2 - Estrutura do Projeto </p>
 
 <br><br>
