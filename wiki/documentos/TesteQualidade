@@ -1,0 +1,6027 @@
+TestLink Community [configure $tlCfg->document_generator->company_name]
+ 
+TestLink logo
+
+Test Plan Execution Report
+Projeto de Teste: IFBook
+Plano de Teste: Plano de Teste para o Projeto IFBook
+Impresso por TestLink em 10/06/2014
+
+2012 © TestLink Community
+SUMÁRIO
+
+ 
+
+1. Plataforma:Android
+
+
+1.1. SCT-MOD01: Perfil do Usuário
+
+IFB-67: Login - Campo (Prontuário) - Valor Limite - Inferior : 0
+
+IFB-237: Login - Campo (Prontuário) - Valor Limite - Inferior : +1
+
+IFB-259: Login - Campo (Prontuário) - Valor Limite - Superior : -1
+
+IFB-66: Login - Campo (Prontuário) - Valor Limite - Equivalência e Superior : 0
+
+IFB-235: Login - Campo (Prontuário) - Valor Limite - Superior : +1
+
+IFB-287: Login - Campo (Prontuário) - Valor Limite - Sistemático
+
+IFB-65: Login - Campo (Senha) - Valor Limite - Inferior : 0
+
+IFB-255: Login - Campo (Senha) - Valor Limite - Inferior : +1
+
+IFB-261: Login - Campo (Senha) - Valor Limite - Sistemático e Superior : -1
+
+IFB-256: Login - Campo (Senha) - Valor Limite - Equivalência e Superior : 0
+
+IFB-258: Login - Campo (Senha) - Valor Limite - Superior : +1
+
+IFB-13: Login-Login Com Sucesso
+
+IFB-64: Login-Login Com Sucesso - Sistemático
+
+IFB-22: Login-Usuario Incorreto
+
+IFB-68: Login-Usuario Incorreto - Sistemático
+
+IFB-26: Login-Usuario Não Cadastrado
+
+IFB-69: Login-Usuario Não Cadastrado - Sistemático
+
+IFB-18: Login-Senha Incorreta
+
+IFB-70: Login-Senha Incorreta - Sistemático
+
+IFB-7: Exibir tela Inicial
+
+IFB-9: Recuperar Senha
+
+IFB-104: Recuperar Senha - Sistemático
+
+IFB-100: Recuperar Senha - (bv) Valor Limite - Superior/Inferior: -1
+
+IFB-228: Recuperar Senha - (bv) Valor Limite - Superior/Inferior: 0
+
+IFB-209: Recuperar Senha - (bv) Valor Limite - Superior/Inferior: +1
+
+IFB-215: Recuperar Senha - (email) Valor Limite - Superior: +1
+
+IFB-216: Recuperar Senha - (email) Valor Limite - Superior: 0
+
+IFB-211: Recuperar Senha - (email) Valor Limite - Superior: -1
+
+IFB-219: Recuperar Senha - (email) Valor Limite - Inferior: +1
+
+IFB-218: Recuperar Senha - (email) Valor Limite - Inferior: 0
+
+IFB-21: Recuperar Senha - Email Incorreto
+
+IFB-310: Recuperar Senha - Email Incorreto - Sistematico
+
+IFB-241: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Superior: -1
+
+IFB-103: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Superior: 0
+
+IFB-98: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Superior: +1
+
+IFB-96: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Inferior: 0
+
+IFB-92: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Inferior: +1
+
+IFB-17: Recuperar Senha - Nome de Usuário incorreto
+
+IFB-313: Recuperar Senha - Nome de Usuário incorreto- Sistematico
+
+IFB-251: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Superior: -1
+
+IFB-301: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Superior: 0
+
+IFB-250: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Superior: +1
+
+IFB-247: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Inferior: 0
+
+IFB-248: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Inferior: +1
+
+IFB-24: Recuperar Senha - Campos em branco
+
+IFB-311: Recuperar Senha - Campos em branco - Sistematico
+
+IFB-15: Enviar Imagem de Perfil
+
+IFB-20: Enviar Imagem de Perfil-Tamanho não permitido
+
+IFB-28: Enviar Imagem de Perfil - Formato não suportado
+
+IFB-84: Enviar Imagem de Perfil- Valor Limite - Vazio
+
+IFB-91: Enviar Imagem de Perfil- Valor Limite - Inferior
+
+IFB-106: Enviar Imagem de Perfil- Valor Limite -Superior
+
+IFB-131: Enviar Imagem de Perfil- Classe_Equivalência- Invalida
+
+IFB-148: Enviar Imagem Perfil-Sistematico
+
+IFB-314: Teste Breno - Verificacao Ferramenta
+
+
+1.2. SCT-MOD02: Postagem de Mensagens
+
+IFB-5: Visualizar Mensagem - Com sucesso
+
+IFB-12: Postar Mensagens - Com sucesso
+
+IFB-196: Postar Mensagens - Com sucesso - (Titulo) -Valor Limite - Superior : -1
+
+IFB-124: Postar Mensagens - Com sucesso - (Titulo) -Valor Limite - Superior : 0
+
+IFB-129: Postar Mensagens - Com sucesso - (Titulo) - Valor Limite - Superior : 1
+
+IFB-203: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Superior : -1
+
+IFB-180: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Superior : 0
+
+IFB-181: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Superior : 1
+
+IFB-182: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Superior : 0
+
+IFB-183: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Superior : 1
+
+IFB-184: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Superior : 0
+
+IFB-185: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Superior : 1
+
+IFB-240: Postar Mensagens - Com sucesso - (Imagem) - Particionamento de Equivalência - sem Imagem
+
+IFB-136: Postar Mensagens - Com sucesso - (Titulo) - Valor Limite - Inferior : 0
+
+IFB-137: Postar Mensagens - Com sucesso - (Titulo) - Valor Limite - Inferior : 1
+
+IFB-214: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Inferior : 0
+
+IFB-220: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Inferior : 1
+
+IFB-230: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Inferior : 0
+
+IFB-232: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Inferior : 1
+
+IFB-225: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Inferior : 0
+
+IFB-227: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Inferior : 1
+
+IFB-53: Postar Mensagens - Erro de Click
+
+IFB-55: Postar Mensagens - Campos com tamanhos Excedentes
+
+IFB-56: Postar Mensagens - Campos em Branco
+
+IFB-97: Postar Mensagens - Com Sucesso - Sistemático
+
+IFB-6: EditarMensagem - Com Sucesso
+
+IFB-186: EditarMensagem - Com Sucesso - Sistemático
+
+IFB-254: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Superior: -1
+
+IFB-188: EditarMensagem - Com Sucesso - (Titulo) - Valor Limite - Superior: 0
+
+IFB-189: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Superior: +1
+
+IFB-260: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Inferior: 0
+
+IFB-262: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Inferior: +1
+
+IFB-263: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Superior: -1
+
+IFB-264: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Superior: 0
+
+IFB-265: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Superior: +1
+
+IFB-267: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Inferior: 0
+
+IFB-266: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Inferior: +1
+
+IFB-304: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Superior: -1
+
+IFB-302: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Superior: 0
+
+IFB-303: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Superior: +1
+
+IFB-269: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Inferior: 0
+
+IFB-268: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Inferior: +1
+
+IFB-271: EditarMensagem -Com Sucesso - (AreaInteresse) - Valor Limite - Inferior: 0
+
+IFB-270: EditarMensagem -Com Sucesso - (AreaInteresse) - Valor Limite - Inferior: +1
+
+IFB-19: Editar Mensagem - Inexistente
+
+IFB-300: Editar Mensagem - Inexistente - Sistemático
+
+IFB-57: Editar Mensagem - Erro de Click
+
+IFB-210: Editar Mensagem - Erro de Click - Sistemático
+
+IFB-58: Editar Mensagem - Campos em Branco
+
+IFB-193: Editar Mensagem - Campos em Branco - Sistemático
+
+IFB-274: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Superior: -1
+
+IFB-195: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Superior: 0
+
+IFB-197: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Superior: +1
+
+IFB-273: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Inferior: 0
+
+IFB-272: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Inferior: +1
+
+IFB-275: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Superior: -1
+
+IFB-276: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Superior: 0
+
+IFB-277: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Superior: +1
+
+IFB-279: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Inferior: 0
+
+IFB-278: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Inferior: +1
+
+IFB-306: EditarMensagem - Campos em Branco- (Imagem) - Valor Limite - Superior: -1
+
+IFB-309: EditarMensagem - Campos em Branco - (Imagem) - Valor Limite - Superior: 0
+
+IFB-308: EditarMensagem - Campos em Branco - (Imagem) - Valor Limite - Superior: +1
+
+IFB-281: Editar Mensagem - Campos em Branco - (Imagem) - Valor Limite - Inferior: 0
+
+IFB-280: Editar Mensagem - Campos em Branco - (Imagem) - Valor Limite - Inferior: +1
+
+IFB-284: Editar Mensagem - Campos em Branco - (AreaInteresse) - Valor Limite - Inferior: 0
+
+IFB-285: Editar Mensagem - Campos em Branco - (AreaInteresse) - Valor Limite - Inferior: +1
+
+IFB-88: Remover Mensagem - Com Sucesso - Valor Limite Inferior: Vazio
+
+IFB-282: Remover Mensagem Gestor- Com Sucesso - Valor Limite Inferior: Vazio
+
+IFB-95: Remover Mensagem - Com Sucesso - Valor Limite Inferior: 1
+
+IFB-283: Remover Mensagem Gestor- Com Sucesso - Valor Limite Inferior: 1
+
+IFB-87: Remover Mensagem - Com Sucesso - Valor Limite Inferior: N
+
+IFB-286: Remover Mensagem Gestor- Com Sucesso - Valor Limite Inferior: N
+
+IFB-10: Remover Mensagem - Com Sucesso
+
+IFB-289: Remover Mensagem Gestor - Com Sucesso
+
+IFB-59: Remover Mensagem- Cancelado pelo Usuário
+
+IFB-290: Remover Mensagem Gestor- Cancelado pelo Usuário
+
+IFB-23: Remover mensagem quando não existe mensagem
+
+IFB-293: Remover Mensagem Gestor - Quando não existe mensagem
+
+IFB-11: Postar Classificados - Com Sucesso
+
+IFB-29: Postar Classificados - Campo em Branco - (Título)
+
+IFB-207: Postar Classificados - Campo em Branco - (Título) - Valor Limite Inferior +1
+
+IFB-208: Postar Classificados - Campo em Branco - (Título) - Valor Limite Superior -1
+
+IFB-217: Postar Classificados - Campo em Branco - (Título) - Valor Limite Superior
+
+IFB-221: Postar Classificados - Campo em Branco - (Título) - Valor Limite Superior +1
+
+IFB-200: Postar Classificados - Campo em Branco - (Descrição)
+
+IFB-229: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Inferior +1
+
+IFB-233: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Superior -1
+
+IFB-239: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Superior
+
+IFB-238: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Superior +1
+
+IFB-205: Postar Classificados - Campo em Branco - (Categoria)
+
+IFB-243: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Compras
+
+IFB-242: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Vendas
+
+IFB-244: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Aluguel
+
+IFB-245: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Vagas de Emprego
+
+IFB-246: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Estágios
+
+IFB-35: Postar Classificados - Erro de Click
+
+IFB-31: Editar Classificados - Usuário
+
+IFB-38: Editar Classificados Gestor Valor Limite - Inferior: 0 e Classes de Equivalencia
+
+IFB-60: Editar Classificado - Erro de Click
+
+IFB-111: Remover Classificado com Sucesso - Valor Limite Inferior: Vazio
+
+IFB-294: Remover Classificado Gestor com Sucesso - Valor Limite Inferior: Vazio
+
+IFB-115: Remover Classificado com Sucesso - Valor Limite Inferior: 1
+
+IFB-295: Remover Classificado Gestor com Sucesso - Valor Limite Inferior: 1
+
+IFB-118: Remover Classificado com Sucesso - Valor Limite Inferior: N
+
+IFB-296: Remover Classificado Gestor com Sucesso - Valor Limite Inferior: N
+
+IFB-43: Remover Classificado com Sucesso
+
+IFB-299: Remover Classificado Gestor com Sucesso
+
+IFB-48: Remover Classificados - Apagar Classificado- Inexistente
+
+IFB-297: Remover Classificados Gestor - Apagar Classificado- Inexistente
+
+IFB-50: Remover Classificado - Negado pelo Usuário
+
+IFB-298: Remover Classificado Gestor - Negado pelo Usuário
+
+IFB-113: Visualizar Mensagem / Classificados - Com sucesso - Sistemático
+
+IFB-178: Visualizar Mensagem - Com Sucesso - Valor Limite - Inferior: 0 e Classes de Equivalenca
+
+IFB-204: Visualizar Classificados - Com Sucesso - Valor Limite - Inferior: 0 e Classes de Equivalenca
+
+IFB-206: Visualizar Mensagem - Com Sucesso - Valor Limite - Inferior: 1 e Classes de Equivalenca
+
+IFB-212: Visualizar Classificado - Com Sucesso - Valor Limite - Inferior: 1 e Classes de Equivalenca
+
+IFB-222: Visualizar Mensagem - Com Sucesso - Sistemático e Classes de Equivalenca
+
+IFB-224: Visualizar Classificado - Com Sucesso - Sistemático e Classes de Equivalenca
+
+IFB-236: Visualizar Classificado - Com sucesso
+
+IFB-253: Editar Classificados - Gestor
+
+IFB-288: Editar Classificados - Usuário - Valor Limite - Inferior: 1 e Classes de Equivalencia
+
+IFB-291: Editar Classificados - Gestor - Valor Limite - Inferior: 1 e Classes de Equivalencia
+
+IFB-292: Editar Classificados Usuário Valor Limite - Inferior: 0 e Classes de Equivalencia
+
+Projeto de Teste: IFBook
+
+Desenvolver uma Rede Social IFBOOK para o IFSP-SBV, visando propiciar suporte à base de comunicação e interação entre alunos, professores e administradores do IFSP – Instituto Federal de Educação,Ciencia e Tecnoogia de São Paulo
+
+
+1. Plataforma: Android
+
+
+1.1. Suíte de Teste : SCT-MOD01: Perfil do Usuário
+
+ 
+
+Caso de Teste IFB-67: Login - Campo (Prontuário) - Valor Limite - Inferior : 0
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar no campo login um valor nulo ("") e acionar o evento de mudança de campo.
+
+O sistema deve mostrar, na mesma tela, a mensagem "Campo inválido ✗ .Digite o prontuário completo contendo 'bv + prontuário' ".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Mostrou a mensagem: "Preencha os campos para logar!"
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-237: Login - Campo (Prontuário) - Valor Limite - Inferior : +1
+Autor:	lucasgrabert
+Editado última vez por:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "b" (1 caracteres) no campo login e acionar o evento de mudança de campo.
+
+O sistema deve mostrar, na mesma tela, a mensagem "Campo inválido ✗ .Digite o prontuário completo contendo 'bv + prontuário' ".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	A mensagem exibida foi:"Falha ao logar"
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-259: Login - Campo (Prontuário) - Valor Limite - Superior : -1
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "bv123456" (8 caracteres) no campo login e acionar o evento de mudança de campo.
+
+O sistema deve mostrar, na mesma tela, a mensagem "Campo inválido ✗ .Digite o prontuário completo contendo 'bv + prontuário' ".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Mensagem: "" Falha ao logar! :("
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-66: Login - Campo (Prontuário) - Valor Limite - Equivalência e Superior : 0
+Autor:	felipe_benutti
+Editado última vez por:	lucasgrabert
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "bv1011073" no campo login e acionar o evento de mudança de campo.
+
+O sistema deve retornar a mensagem "Login válido. ✓"
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Foram digitados o login e a senha corretos.
+Não apareceu a mensagem de login válido mas o login foi realizado com sucesso
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-235: Login - Campo (Prontuário) - Valor Limite - Superior : +1
+Autor:	lucasgrabert
+Editado última vez por:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "bv12345678" (10 caracteres) no campo login e acionar o evento de mudança de campo.
+
+O sistema deve mostrar, na mesma tela, a mensagem "Campo inválido ✗ .Digite o prontuário completo contendo 'bv + prontuário' ".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Mostrou a mensagem: "Preencha os campos para logar!"
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-287: Login - Campo (Prontuário) - Valor Limite - Sistemático
+Autor:	felipe_benutti
+Editado última vez por:	lucasgrabert
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "bv1110837" no campo login e acionar o evento de mudança de campo.
+
+O sistema deve retornar a mensagem "Login válido. ✓"
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	acessou, mas sem nenhuma mensagem.
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-65: Login - Campo (Senha) - Valor Limite - Inferior : 0
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar no campo senha um valor nulo ("") e acionar o evento de mudança de campo.
+
+O sistema deve mostrar, na mesma tela, a mensagem "Campo inválido ✗ .Digite uma senha entre 1 e 10 caracteres".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Mostrou a mensagem: "Preencha os campos para logar!"
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-255: Login - Campo (Senha) - Valor Limite - Inferior : +1
+Autor:	felipe_benutti
+Editado última vez por:	lucasgrabert
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "a" (1 caracter) no campo senha e acionar o evento de mudança de campo.
+
+O sistema deve retornar a mensagem "Senha inválida. ✓"
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Mensagem exibida foi: "Prontuário ou Senha Inválidos"
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-261: Login - Campo (Senha) - Valor Limite - Sistemático e Superior : -1
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "abc123$@#" (9 caracteres) no campo senha e acionar o evento de mudança de campo.
+
+O sistema deve retornar a mensagem "Senha válida. ✓"
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Mensagem: "Falha ao logar! :("
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-256: Login - Campo (Senha) - Valor Limite - Equivalência e Superior : 0
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "abc1234$@#" (10 caracteres) no campo senha e acionar o evento de mudança de campo.
+
+O sistema deve retornar a mensagem "Senha válida. ✓"
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-258: Login - Campo (Senha) - Valor Limite - Superior : +1
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar "abc1234$@#9" (11 caracteres) no campo senha e acionar o evento de mudança de campo.
+
+O sistema deve retornar a mensagem "Senha válida. ✓"
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-13: Login-Login Com Sucesso
+Autor:	lucasgrabert
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o login "bv1011073" e em seguida a senha "123456." e, finalmente, clicar no botão enviar.
+
+O sistema deve retornar a mensagem "acesso efetuado com sucesso."
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	lucasgrabert
+Comentários	Não mostrou a mensagem "acesso efetuado com sucesso"
+Mas efetuou o login com sucesso.
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-64: Login-Login Com Sucesso - Sistemático
+Autor:	felipe_benutti
+Editado última vez por:	lucasgrabert
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de Teste deve autorizar o acesso do usuário por meio da inserção de login e senha corretos
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o login "abc123567" e em seguida a senha "abc1234" e, finalmente, clicar no botão enviar.
+
+O sistema deve retornar a mensagem "acesso efetuado com sucesso."
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-22: Login-Usuario Incorreto
+Autor:	lucasgrabert
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse Caso de Teste deve negar o acesso devido ao usuário estar incorreto 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o usuário "usernameerrado" e a senha "abc1234" e clicar em enviar
+
+O sistema deve mostrar, na mesma tela, a mensagem "acesso inválido: usuário ou senha inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-68: Login-Usuario Incorreto - Sistemático
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse Caso de Teste deve negar o acesso devido ao usuário estar incorreto 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o usuário "usernameerrado2" e a senha "abc1234" e clicar em enviar
+
+O sistema deve mostrar, na mesma tela, a mensagem "acesso inválido: usuário ou senha inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-26: Login-Usuario Não Cadastrado
+Autor:	lucasgrabert
+Editado última vez por:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse Caso de Teste deve negar o acesso devido a usuário nao cadastrado 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o usuário "usuarioInexistente" e a senha "abc1234" e clicar em enviar
+
+O sistema deve mostrar, na mesma tela, a mensagem "usuário não cadastrado".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-69: Login-Usuario Não Cadastrado - Sistemático
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse Caso de Teste deve negar o acesso devido a usuário nao cadastrado 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o usuário "usuarioInexistente2" e a senha "abc1234" e clicar em enviar
+
+O sistema deve mostrar, na mesma tela, a mensagem "usuário não cadastrado".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-18: Login-Senha Incorreta
+Autor:	lucasgrabert
+Editado última vez por:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse Caso de Teste deve negar o acesso devido a senha invalida 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o usuário "abc123" e a senha "senhaerrada" e clicar em enviar
+
+O sistema deve mostrar, na mesma tela, a mensagem "acesso inválido: usuário ou senha inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-70: Login-Senha Incorreta - Sistemático
+Autor:	felipe_benutti
+Objetivo do Teste::
+Equipe: Felipe e Lucas
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse Caso de Teste deve negar o acesso devido a senha invalida 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve digitar o usuário "abc123" e a senha "senhaerrada2" e clicar em enviar
+
+O sistema deve mostrar, na mesma tela, a mensagem "acesso inválido: usuário ou senha inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-7: Exibir tela Inicial
+Autor:	ffscruz
+Editado última vez por:	samararv
+Objetivo do Teste::
+Equipe: Samara Vieira 1111124 e Fagner Cruz 1110705
+
+ 
+
+Teste de: Validação
+
+Teste de: Integração
+
+Esse caso de teste irá analisar se a tela inicial (Home) está sendo execultada com todas as suas funcionalidades ( Imagem do perfil, Nome do Usuário, Aba Áreas de Interesse, Aba Fórum, Painel de Mensagens, Painel de Eventos, Aba Logoff ).
+
+Pré-condições:
+O usuário deve logar no sistema.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao execultar o seu login no sistema, o usuário deve vizualisar a página (Home).
+
+A página (Home) terá de exibir as seguintes funcionalidades:  Imagem do perfil, Nome do Usuário, Aba Áreas de Interesse, Aba Fórum, Painel de Mensagens, Painel de Eventos, Aba Logoff .
+
+ 
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC002: Exibir Tela Inicial
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-9: Recuperar Senha
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, informa o bv  'bv1111115'e email 'daaianegalvaojjdasidsd@hotmail.com ' e clica em 'Confirmar.'
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-104: Recuperar Senha - Sistemático
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, informa o bv 'bv11111011' e email 'casodeteste@hotmail.com' e clica em 'Confirmar.'
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-100: Recuperar Senha - (bv) Valor Limite - Superior/Inferior: -1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita o campo BV com 8 caracteres
+
+ex :  bv111110
+
+bv Incorreto !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-228: Recuperar Senha - (bv) Valor Limite - Superior/Inferior: 0
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario vai digitar '' (vazio)
+
+bv Incorreto !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-209: Recuperar Senha - (bv) Valor Limite - Superior/Inferior: +1
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+ O usuario digita o campo Bv com 10 caracteres
+
+Ex : bv11111101
+
+ 
+
+ 
+
+bv Incorreto !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-215: Recuperar Senha - (email) Valor Limite - Superior: +1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo email ,a quantidade de 51 caracteres
+
+Exemplo :
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffdddsa
+
+Email Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-216: Recuperar Senha - (email) Valor Limite - Superior: 0
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 50 caracteres
+
+Exemplo:
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffddds
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-211: Recuperar Senha - (email) Valor Limite - Superior: -1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 49 caracteres
+
+Exemplo: 
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffddd
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-219: Recuperar Senha - (email) Valor Limite - Inferior: +1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 1 caracteres
+
+Exemplo: 
+
+ a
+
+Email Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-218: Recuperar Senha - (email) Valor Limite - Inferior: 0
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo  Email  '' (vazio)
+
+ 
+
+Email Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-21: Recuperar Senha - Email Incorreto
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+ 
+Este caso de teste irá informar ao usuário que o email está incorreto.
+ 
+Teste de: Verificação
+Teste de: Integração
+
+ 
+
+Pré-condições:
+O email do usuario tem que estar cadastrado no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, informa o bv 'bv55555555556' e email 'dasidsiodansiodnsdasn521267848d4s89d4 ' e clica em 'Confirmar.'
+ 
+O sistema informa ao usuário que o email não está cadastrado no sistema (Incorreto).
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-310: Recuperar Senha - Email Incorreto - Sistematico
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+ 
+Este caso de teste irá informar ao usuário que o email está incorreto.
+ 
+Teste de: Verificação
+Teste de: Integração
+
+ 
+
+Pré-condições:
+O email do usuario tem que estar cadastrado no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, informa o bv 'bv11111011' e email  'casodeteste77hotmail.comkdajsdahuishdnhauishduhasudhsuiahzxlml,cx,okfdogpdksdfijfiosdfndocvnoisndovnosdibvuiasbvduilb'
+e clica em 'Confirmar.'
+ 
+O sistema informa ao usuário que o email não está cadastrado no sistema (Incorreto).
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-241: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Superior: -1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 49 caracteres
+
+Exemplo: 
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffddd
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-103: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Superior: 0
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 50 caracteres
+
+Exemplo:
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffddds
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-98: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Superior: +1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 51 caracteres
+
+Exemplo: 
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffdddaa
+
+Email Invalido
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-96: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Inferior: 0
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 50 caracteres
+
+Exemplo:
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffddds
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-92: Recuperar Senha - Email Incorreto - (email) - Valor Limite - Inferior: +1
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Email a quantidade de 50 caracteres
+
+Exemplo: 
+
+ aaaaaaaaaaaaaaaaaaaaaaaa@hotmailaaaafffffffffddd5
+
+Ao clicar em confirmar o sistema gera uma senha aleatória e redireciona para o e-mail cadastrado do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-17: Recuperar Senha - Nome de Usuário incorreto
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe : Daiane e Michele Honda e Michele Hermann
+
+Objetivo Principal deste caso de teste é informar ao usuario que o mesmo não esta cadastrado no BD do sistema IFBook.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Pré-condições:
+Usuario tem que estar cadastrado no BD do sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, informa o bv 'bv12121254df' e email 'daianegalvao125@kllajkdim ' e clica em 'Confirmar.'
+
+Exibir uma mensagem na qual informe ao usuario que ele nao esta cadastrado no Sistema do IFBook.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-313: Recuperar Senha - Nome de Usuário incorreto- Sistematico
+Autor:	daiane
+Objetivo do Teste::
+Equipe : Daiane e Michele Honda e Michele Hermann
+
+Objetivo Principal deste caso de teste é informar ao usuario que o mesmo não esta cadastrado no BD do sistema IFBook.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Pré-condições:
+Usuario tem que estar cadastrado no BD do sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, informa o bv 'bv12144848' e email 'daianegalosmo125@kllajkdim ' e clica em 'Confirmar.'
+
+Exibir uma mensagem na qual informe ao usuario que ele nao esta cadastrado no Sistema do IFBook.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-251: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Superior: -1
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Bv a quantidade de 8 caracteres
+
+Exemplo: 
+
+bv1111110
+
+Bv Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-301: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Superior: 0
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Bv  '' (Vazio)
+
+ 
+
+Bv Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-250: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Superior: +1
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Bv a quantidade de 10 caracteres
+
+Exemplo: 
+
+bv11111102
+
+Bv invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-247: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Inferior: 0
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação  de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Bv  '' (Vazio)
+
+ 
+
+Bv Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-248: Recuperar Senha - Nome Usuario Incorreto - (bv)-Valor Limite - Inferior: +1
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+
+ Este caso de teste irá fazer a recuperação de senha.
+
+ 
+
+Teste de: Validação 
+
+Teste de: Integração
+
+ 
+
+ 
+
+Pré-condições:
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario digita no campo Bv a quantidade de 1 caracter
+
+Exemplo: 
+
+b
+
+Bv Invalido !
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-24: Recuperar Senha - Campos em branco
+Autor:	michele_honda
+Editado última vez por:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+ 
+Este caso de teste irá informar ao usuário que os campos estão em branco.
+ 
+ 
+Teste de: Verificação
+Teste de: Integração
+
+ 
+
+Pré-condições:
+ 
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, não informa o bv e email e clica em 'Confirmar.'
+ 
+O sistema informa ao usuário que os campos estão em branco.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-311: Recuperar Senha - Campos em branco - Sistematico
+Autor:	daiane
+Objetivo do Teste::
+Equipe: Daiane e Michele Honda e Michele Hermann
+ 
+Este caso de teste irá informar ao usuário que os campos estão em branco.
+ 
+ 
+Teste de: Verificação
+Teste de: Integração
+
+ 
+
+Pré-condições:
+ 
+O usuario tem que ter cadastro no BD do Sistema IFBook.
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário ao clicar em “Recuperar senha” no menu de seleção na tela de login, NÃO informa o bv e email e clica em 'Confirmar.'
+ 
+O sistema informa ao usuário que os campos estão em branco.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC004: Recuperar Senha
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-15: Enviar Imagem de Perfil
+Autor:	Degine
+Editado última vez por:	Simone
+Objetivo do Teste::
+Equipe: Degine e Simone
+
+Esse caso de teste ira verificar se uma nova imagem foi enviada com sucesso para o perfil do usuario.
+
+Teste de Validação
+
+Teste de Sistema
+
+Pré-condições:
+O usuário deve estar previamente logado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+- Logar no sistema
+
+- Acessar a sessão editar perfil 
+
+- Selecionar imagem de até 02 Mb do tipo JPEG ou PNG
+
+- E enviar a imagem
+
+- A imagem que foi selecionada pelo usuário deve aparecer  no campo de imagem do perfil.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-20: Enviar Imagem de Perfil-Tamanho não permitido
+Autor:	Degine
+Objetivo do Teste::
+Equipe: Degine e Simone
+
+Este caso de teste tem como objetivo verificar se uma imagem enviada para o campo perfil com tamanho maior que 02 Mb será recusada pelo sistema.
+
+Teste de Verificação 
+
+Teste de Integração
+
+Pré-condições:
+O usuário deve estar previamente logado.
+#:	Ações do Passo:	Resultados Esperados::
+1	
+- Logar no sistema
+
+- Acessar a sessão editar perfil 
+
+- Selecionar imagem maior que 02 Mb do tipo JPEG ou PNG
+
+- E enviar a imagem
+
+- O sistema deverá recusar a imagem envida pelo usuário por exceder o tamanho determinado pelo sistema, e exibir uma alerta: "Tamanho máximo permitido de imagem 02 Mb."
+
+2		
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-28: Enviar Imagem de Perfil - Formato não suportado
+Autor:	Degine
+Objetivo do Teste::
+Este caso de teste tem como objetivo verificar se uma imagem no campo de perfil em formatos diferentes de JPEG e PNG serão recusados pelo sistema.
+
+Teste de Verificação 
+
+Teste de Integração 
+
+Pré-condições:
+O usuário deve estar previamente logado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+- Logar no sistema
+
+- Acessar a sessão editar perfil 
+
+- Selecionar imagem até 02 Mb dos formatos diferentes de: JPEG ou PNG
+
+- E enviar a imagem
+
+- O sistema deverá recusar a imagem envida pelo usuário por ser diferente do formato permitido pelo sistema, e exibir uma alerta: "Formato de imagem inválido (JPEG, PNG)".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-84: Enviar Imagem de Perfil- Valor Limite - Vazio
+Autor:	Degine
+Objetivo do Teste::
+Equipe: Degine e Simone 
+
+Esse caso de teste ira verificar se uma nova imagem com o tamanho de 0Mb será carregada pelo sistema.
+
+Teste de verificação
+
+Teste de integração
+
+ 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario não enviara nenhuma imagem para o perfil.
+
+O sistema deve seguir para o proximo do login.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-91: Enviar Imagem de Perfil- Valor Limite - Inferior
+Autor:	Degine
+Objetivo do Teste::
+Equipe: Degine e Simone
+
+Esse caso de teste ira verificar se uma nova imagem com o tamanho de 1Mb será carregada pelo sistema.
+
+ 
+
+Teste de Verificação 
+
+ 
+
+Teste de Integração
+
+Pré-condições:
+O usuário deve estar previamente logado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario enviará uma imagem com tamanho de 1Mb.
+
+  A imagem que foi selecionada pelo usuário deve aparecer  no campo de imagem do perfil.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-106: Enviar Imagem de Perfil- Valor Limite -Superior
+Autor:	Degine
+Objetivo do Teste::
+Equipe: Degine e Simone
+
+Esse caso de teste ira verificar se uma nova imagem com o tamanho de 3Mb será carregada pelo sistema.
+
+ 
+
+Teste de Validação
+
+Teste de Sistema
+
+Pré-condições:
+O usuário deve estar previamente logado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario envirá uma imagem de perfil com o tamanho de 3Mb.
+
+O sistema deverá recusar a imagem envida pelo usuário por exceder o tamanho determinado pelo sistema, e exibir uma alerta: "Tamanho máximo permitido de imagem 02 Mb."
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-131: Enviar Imagem de Perfil- Classe_Equivalência- Invalida
+Autor:	Degine
+Objetivo do Teste::
+Equipe: Degine e Simone
+
+Esse caso de teste ira verificar se um numero inteiro enviado no campo da imagem será carregado pelo sistema.
+
+ 
+
+Teste de verificação
+
+Teste de integração
+
+ 
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario enviará o numero 1 no campo imagem de perfil.
+
+O sistema deverá recusar o que o usuario tentou enviar como imagem.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-148: Enviar Imagem Perfil-Sistematico
+Autor:	Simone
+Editado última vez por:	Degine
+Objetivo do Teste::
+Equipe: Degine e Simone
+
+Esse caso de teste ira verificar se uma string enviada no campo da imagem será carregado pelo sistema.
+
+Teste de verificação
+
+Teste de integração
+
+Pré-condições:
+O usuário deve estar previamente cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuario enviará a palavra "imagem" no campo imagem de perfil.
+O sistema deverá recusar o que o usuario tentou enviar como imagem.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD01_UC005: Enviar Imagem de Perfil
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-314: Teste Breno - Verificacao Ferramenta
+Autor:	blromano
+Objetivo do Teste::
+Testar a ferramenta test link.
+
+Pré-condições:
+Nenhuma pré-condição;
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Verificar a impressão da ferramenta test link.
+
+Relatório em word gerado com sucesso e com todos os casos de teste da ferramenta.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	blromano
+Requisitos	MOD01_UC001: Login
+Palavras-chave:	 Nenhum
+1.2. Suíte de Teste : SCT-MOD02: Postagem de Mensagens
+
+ 
+
+Caso de Teste IFB-5: Visualizar Mensagem - Com sucesso
+Autor:	bv1010913
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se o sistema disponibilizará com sucesso as mensagens cadastradas.
+
+ 
+
+ 
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Para visualizar uma mensagem  com sucesso os mesmo deverão estar préviamente cadastrados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Mensagens. O mesmo deverá clicar para vê-las. 
+
+Deverá aparecer as mensagens previamente cadastradas.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-12: Postar Mensagens - Com sucesso
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Equipe: Tiago Modena e Danilo Oliveira
+
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+ 
+Pré-condições:
+ 
+
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+ 
+
+ 
+
+ 
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+ 
+
+1. Clicar no botão “Opções” na tela de mensagens.
+ 
+
+2. O sistema abre as opções de mensagens: “Nova Mensagem”, “Editar Mensagem”, “Apagar Mensagem”.
+2	
+ 
+
+3. O Usuário deve selecionar “Nova Mensagem” no sub-menu.
+ 
+
+4. O sistema abre a tela de postagem de mensagens com os seguintes campos:
+ 
+Título:(50 caracteres) (obrigatório)
+Descrição:(200 caracteres)(obrigatório)
+Categoria:(combobox) (obrigatório)
+Inserir Imagem.(2 mb)
+3	
+ 
+
+5. O usuário preenche os campos, tendo a opção de não inserir imagens (opcional).
+ 
+
+6. O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-196: Postar Mensagens - Com sucesso - (Titulo) -Valor Limite - Superior : -1
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Equipe: Tiago Modena e Danilo Oliveira
+
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Título: HahsjhaS JAHSJAHSJAHS ASJAHASPASUAMSNASI ASI222 2
+
+Título Válido!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-124: Postar Mensagens - Com sucesso - (Titulo) -Valor Limite - Superior : 0
+Autor:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Título: HahsjhaS JAHSJAHSJAHS ASJAHASPASUAMSNASI ASI222 22
+
+Título Válido!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-129: Postar Mensagens - Com sucesso - (Titulo) - Valor Limite - Superior : 1
+Autor:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Título: HahsjhaS JAHSJAHSJAHS ASJAHASPASUAMSNASI ASI222 22f
+
+Título Inválido!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-203: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Superior : -1
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Descrição:HahsjhaS JAHSJAHSJAHS ASJAHASPASUAMSNASI ASI222 22asjdh jkashdh asda sldl askdlhj asdkljas kldjskla djklsadjkl ashdkl askldk asldkl sahkdlhs akldhaskl dhlska hdkl ashdklhaskldh askldhklasdiasdhio 8we
+
+Descrição Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-180: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Superior : 0
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Descrição:HahsjhaS JAHSJAHSJAHS ASJAHASPASUAMSNASI ASI222 22asjdh jkashdh asda sldl askdlhj asdkljas kldjskla djklsadjkl ashdkl askldk asldkl sahkdlhs akldhaskl dhlska hdkl ashdklhaskldh askldhklasdiasdhio 8wer
+
+Descrição Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-181: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Superior : 1
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Descrição: HahsjhaS JAHSJAHSJAHS ASJAHASPASUAMSNASI ASI222 22asjdh jkashdh asda sldl askdlhj asdkljas kldjskla djklsadjkl ashdkl askldk asldkl sahkdlhs akldhaskl dhlska hdkl ashdklhaskldh askldhklasdiasdhio 8werg
+
+Descrição Inválida
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-182: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Superior : 0
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Categoria: null
+
+Categoria Inválida
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-183: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Superior : 1
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Categoria: Informática
+
+Categoria Válida
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-184: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Superior : 0
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+ 
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Imagem: imagem.jpg(2mb)
+
+Imagem Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-185: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Superior : 1
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+ 
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Imagem: imagem.jpg(2.1mb)
+
+Imagem Inválida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-240: Postar Mensagens - Com sucesso - (Imagem) - Particionamento de Equivalência - sem Imagem
+Autor:	Daniloob
+Editado última vez por:	bv1111132
+Objetivo do Teste::
+Versão 1
+Criado em  27/02/2014 20:28:31  por Daniloob
+Última modificação em  31/03/2014 20:47:30  por bv1111132
+Objetivo do Teste:
+Equipe: Tiago Modena e Danilo Oliveira
+ 
+Teste de: Verificação
+Teste de: Integração
+Este Caso de Uso deve ocorrer sempre que a ação “Postar mensagens” for acionada. Deve publicar no IFBOOK a mensagem que foi digitada pelos atores envolvidos.
+ 
+Atores: Usuários e Gestores
+ 
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Imagem: null
+
+Imagem Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-136: Postar Mensagens - Com sucesso - (Titulo) - Valor Limite - Inferior : 0
+Autor:	bv1111132
+Editado última vez por:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Título: null
+
+Não é permitido campo em branco!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-137: Postar Mensagens - Com sucesso - (Titulo) - Valor Limite - Inferior : 1
+Autor:	bv1111132
+Editado última vez por:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Título: A
+
+Título Válido
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-214: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Inferior : 0
+Autor:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Descrição: null
+
+Descrição Inválida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-220: Postar Mensagens - Com sucesso - (Descrição) - Valor Limite - Inferior : 1
+Autor:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Descrição: B
+
+Descrição Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-230: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Inferior : 0
+Autor:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Imagem: null
+
+Imagem Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-232: Postar Mensagens - Com sucesso - (Imagem) - Valor Limite - Inferior : 1
+Autor:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Imagem: imagem.jpg(0.001mb)
+
+Imagem Válida
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-225: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Inferior : 0
+Autor:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Categoria: null
+
+Categoria Inválido!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-227: Postar Mensagens - Com sucesso - (Categoria) - Valor Limite - Inferior : 1
+Autor:	Daniloob
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Categoria: C
+
+Categoria Válida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-53: Postar Mensagens - Erro de Click
+Autor:	ricardoborges.jr
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Tiago Modena e Danilo Oliveira
+
+Teste de: Integração
+
+Teste de: Verificação
+
+Vefica o funcionamento do botão de terno para a tela de Mensagem
+
+Pré-condições:
+Estar logado no sistema e estar visualizando a tela de Mensagens
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário clicar em:” Editar Mensagem” ou “Apagar Mensagem”.
+O sistema deve habilitar um botão para que o usuário retorne a tela anterior(“Mensagens”).
+2	
+O Usuário escolhe a opção regressar a tela de mensagens
+. O sistema retorna para tela de mensagens
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-55: Postar Mensagens - Campos com tamanhos Excedentes
+Autor:	ricardoborges.jr
+Editado última vez por:	Daniloob
+Objetivo do Teste::
+Equipe: Tiago Modena e Danilo Oliveira
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica se o sistema não permite que que o tamanho máximo dos campos não seja excedido
+
+Pré-condições:
+Estar logado e na tela de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário tenta incluir uma Mensagem com campos maiores que os definidos”.
+O usuário não irá conseguir incluir mais caracteres do que a quantidade definida.
+2	
+O Usuário ajusta sua mensagem conforme a capacidade dos espaços
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-56: Postar Mensagens - Campos em Branco
+Autor:	ricardoborges.jr
+Editado última vez por:	Daniloob
+Objetivo do Teste::
+Equipe: Tiago Modena e Danilo Oliveira
+
+Teste de: Verificação
+
+Teste de: Unidade
+
+Verifica o prenchimento dos campos
+
+Pré-condições:
+Estar logado na tela de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O Usuário Deixa algum dos campo sem preenchimento (exceção do inserir imagem).
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
+2	
+O Usuário corrige o campo solicitado pelo sistema
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou campos irregulares.
+3	
+O Usuário corrige o campo solicitado pelo sistema
+Caso ainda algum campo apresente problema o sistema volta ao passo ele emite novamente u alerta caso contrário publica a mensagem e e retorna para tela de visuaçização de mensagens
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-97: Postar Mensagens - Com Sucesso - Sistemático
+Autor:	bv1111132
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC002: Postar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-6: EditarMensagem - Com Sucesso
+Autor:	richard
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e a edita, tendo a opção de não inserir imagens.
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	marcio.delarolle
+Comentários	Embora o processo tenha sido validado com sucesso, foram encontradas algumas inconsistências:
+- Não foi localizado o botão "Opções"
+- A opção de inserir imagem está disponível na edição da imagem.
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-186: EditarMensagem - Com Sucesso - Sistemático
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e a edita, tendo a opção de não inserir imagens.
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status:	Passou
+Baseline	Baseline 001 - Projeto IFBook
+Testador	marcio.delarolle
+Comentários	Embora o processo tenha sido validado com sucesso, foram encontradas algumas inconsistências:
+- Não foi localizado o botão "Opções"
+- A opção de inserir imagem está disponível na edição da imagem.
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-254: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Superior: -1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "Teste Título 1"
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-188: EditarMensagem - Com Sucesso - (Titulo) - Valor Limite - Superior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "Teste Título com quantidade de ciquenta caractes."
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-189: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Superior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "Teste Título com quantidade de ciquenta1 caractes."
+
+O sistema deve retornar a mensagem "Título Inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-260: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, deixando o campo nulo.
+
+O sistema deve retornar a mensagem "Título Inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-262: EditarMensagem -Com Sucesso - (Titulo) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "T"
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-263: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Superior: -1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "Teste quantidade de caracteres na descricao."
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-264: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Superior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "Teste quantidade de caracteres na descricao 1"
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-265: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Superior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "Teste quantidade de caracteres na descricao 1!"
+
+O sistema deve retornar a mensagem "Descrição Inválida".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-267: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, deixando o campo nulo.
+
+O sistema deve retornar a mensagem "Descrição Inválida".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-266: EditarMensagem -Com Sucesso - (Descrição) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "D"
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-304: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Superior: -1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: imagem.jpg(1.0mb)
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-302: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Superior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: Imagem: imagem.jpg(2.0mb)
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-303: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Superior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: Imagem: imagem.jpg(3.0mb)
+
+Imagem Inválida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-269: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: null
+
+Imagem Inválida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-268: EditarMensagem -Com Sucesso - (Imagem) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem:
+
+Imagem: imagem.jpg(1.0mb)
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-271: EditarMensagem -Com Sucesso - (AreaInteresse) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja, alterando sua área de interesse:
+
+Área de Interesse: nulo
+
+Área de Interesse Inválida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-270: EditarMensagem -Com Sucesso - (AreaInteresse) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja, alterando sua área de interesse:
+
+Área de Interesse: "Técnologia".
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-19: Editar Mensagem - Inexistente
+Autor:	richard
+Editado última vez por:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste tem como finalidade a tentativa de edição de uma mensagem inexistente no sistema.
+
+Pré-condições:
+O usuário não pode ter mensagens cadastradas.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e em seguida "Editar Mensagem".
+
+Mensagem informa "Nenhuma mensagem cadastrada".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-300: Editar Mensagem - Inexistente - Sistemático
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste tem como finalidade a tentativa de edição de uma mensagem inexistente no sistema.
+
+Pré-condições:
+O usuário não pode ter mensagens cadastradas.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e em seguida "Editar Mensagem".
+
+Mensagem informa "Nenhuma mensagem cadastrada".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-57: Editar Mensagem - Erro de Click
+Autor:	ricardoborges.jr
+Editado última vez por:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de teste verifica a funcionalidade do botão voltar na tela "Editar Mensagem”.
+Pré-condições:
+Logado e visualizando a tela de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário seleciona a opção "Editar Mensagem" e em seguida clica no botão voltar
+O sistema retorna para a tela de mensagens
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-210: Editar Mensagem - Erro de Click - Sistemático
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de teste verifica a funcionalidade do botão voltar na tela "Editar Mensagem”.
+Pré-condições:
+Logado e visualizando a tela de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário seleciona a opção "Editar Mensagem" e em seguida clica no botão voltar
+O sistema retorna para a tela de mensagens
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-58: Editar Mensagem - Campos em Branco
+Autor:	ricardoborges.jr
+Editado última vez por:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou irregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+2	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, deixando o campo nulo.
+O sistema deve retornar a mensagem "Título Inválido".
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-193: Editar Mensagem - Campos em Branco - Sistemático
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, deixando o campo nulo.
+
+O sistema deve retornar a mensagem "Título Inválido".
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-274: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Superior: -1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "Teste Título 1"
+ 
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-195: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Superior: 0
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "Teste Título com quantidade de ciquenta caractes."
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-197: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Superior: +1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "Teste Título com quantidade de ciquenta1 caractes."
+ 
+
+O sistema deve retornar a mensagem "Título Inválido".
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	 Nenhum
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-273: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, deixando o campo nulo.
+
+O sistema deve retornar a mensagem "Título Inválido".
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-272: Editar Mensagem - Campos em Branco - (Título) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e edita o título, digitando "T"
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-275: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Superior: -1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "Teste quantidade de caracteres na descricao."
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-276: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Superior: 0
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "Teste quantidade de caracteres na descricao 1"
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-277: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Superior: +1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "Teste quantidade de caracteres na descricao 1!"
+
+O sistema deve retornar a mensagem "Descrição Inválida".
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-279: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, deixando o campo nulo.
+ 
+
+O sistema deve retornar a mensagem "Descrição Inválida".
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-278: Editar Mensagem - Campos em Branco - (Descrição) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja alterar e altera o campo de Descrição, inserindo a mensagem "D"
+ 
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-306: EditarMensagem - Campos em Branco- (Imagem) - Valor Limite - Superior: -1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: imagem.jpg(1.0mb)
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-309: EditarMensagem - Campos em Branco - (Imagem) - Valor Limite - Superior: 0
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: Imagem: imagem.jpg(2.0mb)
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-308: EditarMensagem - Campos em Branco - (Imagem) - Valor Limite - Superior: +1
+Autor:	marcio.delarolle
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste irá verificar a edição com sucesso de uma mensagem.
+
+Pré-condições:
+O usuário precisa ter alguma mensagem previamente cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem: 
+
+Imagem: Imagem: imagem.jpg(3.0mb)
+
+Imagem Inválida!
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-281: Editar Mensagem - Campos em Branco - (Imagem) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem:
+
+Imagem: null
+
+Imagem Inválida!
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-280: Editar Mensagem - Campos em Branco - (Imagem) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja e altera a imagem:
+
+Imagem: imagem.jpg(1.0mb)
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-284: Editar Mensagem - Campos em Branco - (AreaInteresse) - Valor Limite - Inferior: 0
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja, alterando sua área de interesse:
+
+Área de Interesse: nulo
+ 
+
+Área de Interesse Inválida!
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-285: Editar Mensagem - Campos em Branco - (AreaInteresse) - Valor Limite - Inferior: +1
+Autor:	marcio.delarolle
+Editado última vez por:	felippeciacco
+Objetivo do Teste::
+Equipe: Felippe Ciacco, Richard, Márcio.
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de uso verifica se o sistema não permitirá cammpos em branco ou inrregulares
+
+Pré-condições:
+Estar logado e na tela de visualisação de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Clicar no botão "Opções" e selecionar "Editar Mensagem". Em seguida seleciona a mensagem que deseja, alterando sua área de interesse:
+
+Área de Interesse: "Técnologia".
+
+O sistema publica a mensagem e redireciona o usuário a tela de visualização de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC003: Editar Mensagens
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-88: Remover Mensagem - Com Sucesso - Valor Limite Inferior: Vazio
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem.
+
+O Sistema exibe a mensagem: “Não existe mensagens a serem excluídas!”.
+2		
+ O sistema retorna para a tela de mensagens do usuário.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-282: Remover Mensagem Gestor- Com Sucesso - Valor Limite Inferior: Vazio
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como gestor, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem.
+
+O Sistema exibe a mensagem: “Não existe mensagens a serem excluídas!”.
+2		
+ O sistema retorna para a tela de mensagens.
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-95: Remover Mensagem - Com Sucesso - Valor Limite Inferior: 1
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu selecionar a mensagem a ser deletada, e clicar na opção Excluir Mensagem, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+2	
+O usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Mensagem excluído com sucesso” e a mensagem é deletada do BD
+3		
+Retorna à tela de mensagens exibindo nenhuma mensagem do usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-283: Remover Mensagem Gestor- Com Sucesso - Valor Limite Inferior: 1
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como gestor, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu selecionar a mensagem a ser deletada, e clicar na opção Excluir Mensagem, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+2	
+O usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Mensagem excluído com sucesso” e a mensagem é deletada do BD
+3		
+Retorna à tela de mensagens exibindo nenhuma mensagem.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-87: Remover Mensagem - Com Sucesso - Valor Limite Inferior: N
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu selecionar a mensagem a ser deletada, e clicar na opção Excluir Mensagem, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+2	
+O usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Mensagem excluído com sucesso” e a mensagem é deletada do BD
+3		
+Retorna à tela de mensagens  do usuário não exibindo a mensagem excluída.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-286: Remover Mensagem Gestor- Com Sucesso - Valor Limite Inferior: N
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como gestor, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu selecionar a mensagem a ser deletada, e clicar na opção Excluir Mensagem, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+2	
+O usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Mensagem excluído com sucesso” e a mensagem é deletada do BD
+3		
+Retorna à tela de mensagens não exibindo a mensagem excluída.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-10: Remover Mensagem - Com Sucesso
+Autor:	ricardoborges.jr
+Objetivo do Teste::
+Equipe: Ricardo e Pedro
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu selecionar a mensagem a ser deletada, e clicar na opção Excluir Mensagem, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+2	
+O usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Mensagem excluído com sucesso” e a mensagem é deletada do BD
+3		
+Retorna á tela de mensagens  do usuário não exibindo a mensagem excluída.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-289: Remover Mensagem Gestor - Com Sucesso
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Essa caso de teste vai verificar a remoção com sucesso da mensagem
+
+Pré-condições:
+Estar logado no sistema como gestor, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu selecionar a mensagem a ser deletada, e clicar na opção Excluir Mensagem, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir a mensagem?”.
+2	
+O usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Mensagem excluído com sucesso” e a mensagem é deletada do BD
+3		
+Retorna á tela de mensagens  do usuário não exibindo a mensagem excluída.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-59: Remover Mensagem- Cancelado pelo Usuário
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse caso de teste tem como finalidade verificar o comportamento do sistema quando a ação de apagar um mensagem é cancelada
+
+Pré-condições:
+Estar logado como usuário e visualizando a tela de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O Usuário escolhe a opção excluir mensagem.
+O sistema exibe a mensagem: “deseja realmente excluir a mensagem?”
+2	
+O usuário cancela a exclusão da mensagem
+O sistema exibe a mensagem “Mensagem Não excluída” e retorna para a tela de mensagens
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-290: Remover Mensagem Gestor- Cancelado pelo Usuário
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Esse caso de teste tem como finalidade verificar o comportamento do sistema quando a ação de apagar um mensagem é cancelada
+
+Pré-condições:
+Estar logado como gestor e visualizando a tela de mensagens
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O Usuário escolhe a opção excluir mensagem.
+O sistema exibe a mensagem: “deseja realmente excluir a mensagem?”
+2	
+O usuário cancela a exclusão da mensagem
+O sistema exibe a mensagem “Mensagem Não excluída” e retorna para a tela de mensagens
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-23: Remover mensagem quando não existe mensagem
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Esse caso de teste verifica a reação do sistema quando se tenta remover um mensagem sendo que não há mensagem alguma
+
+Pré-condições:
+Estar logado como usuário no sistema, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu.
+
+Exibição da mensagem "Não existe menagem a ser excluída" e voltar para tela de exibição de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-293: Remover Mensagem Gestor - Quando não existe mensagem
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Esse caso de teste verifica a reação do sistema quando se tenta remover um mensagem sendo que não há mensagem alguma
+
+Pré-condições:
+Estar logado como usuário no sistema, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Mensagem no sub-menu.
+
+Exibição da mensagem "Não existe menagem a ser excluída" e voltar para tela de exibição de mensagens.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC004: Remover Mensagem
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-11: Postar Classificados - Com Sucesso
+Autor:	danilo
+Editado última vez por:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar o cadastro de um classificado com sucesso em Postar Classificados.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-29: Postar Classificados - Campo em Branco - (Título)
+Autor:	danilo
+Editado última vez por:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: " "
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou irregulares.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-207: Postar Classificados - Campo em Branco - (Título) - Valor Limite Inferior +1
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "A"
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-208: Postar Classificados - Campo em Branco - (Título) - Valor Limite Superior -1
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Lorem ipsum dolor sit amet, consectetur cras amet"
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-217: Postar Classificados - Campo em Branco - (Título) - Valor Limite Superior
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Lorem ipsum dolor sit amet, consectetur cras amet."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-221: Postar Classificados - Campo em Branco - (Título) - Valor Limite Superior +1
+Autor:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Lorem ipsum dolor sit amet, consectetur cras amete."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou irregulares.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-200: Postar Classificados - Campo em Branco - (Descrição)
+Autor:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: " "
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou irregulares.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-229: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Inferior +1
+Autor:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "A"
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-233: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Superior -1
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac purus at felis euismod dapibus in vitae neque. Nulla quis nunc lorem. Ut a tortor quis tellus cursus facilisis non a mi massa nunc."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-239: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Superior
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac purus at felis euismod dapibus in vitae neque. Nulla quis nunc lorem. Ut a tortor quis tellus cursus facilisis non a mi massa nunce."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-238: Postar Classificados - Campo em Branco - (Descrição) - Valor Limite Superior +1
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac purus at felis euismod dapibus in vitae neque. Nulla quis nunc lorem. Ut a tortor quis tellus cursus facilisis non a mi massa nunce."
+Categoria: "Vagas de Emprego."
+Imagem: <<Imagem>>.
+
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou irregulares.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-205: Postar Classificados - Campo em Branco - (Categoria)
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: " "
+Imagem: <<Imagem>>.
+
+O sistema emite um alerta dizendo para o usuário preencher corretamente os campos obrigatórios ou irregulares.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-243: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Compras
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Compras"
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-242: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Vendas
+Autor:	max
+Editado última vez por:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vendas"
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-244: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Aluguel
+Autor:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Aluguel"
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-245: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Vagas de Emprego
+Autor:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Vagas de Emprego"
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-246: Postar Classificados - Campo em Branco - (Categoria) - Sistemático - Estágios
+Autor:	max
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se ficou algum campo em branco antes de efetivar o cadastro de Classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário deve clicar na opção Classificados.
+
+Deve selecionar "Novo Classificado" e preencher os campos Titulo, Descrição e Categoria (obrigatórios) e Imagem (opcional):
+
+Titulo: "Divulgação de vagas estagio."
+Descrição: "Estágio na Empresa de Desenvolvimento."
+Categoria: "Estágios"
+Imagem: <<Imagem>>.
+
+O Sistema cadastra o Classificado no BD e redireciona o usuário para a tela de visualização de Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-35: Postar Classificados - Erro de Click
+Autor:	danilo
+Objetivo do Teste::
+Equipe: Danilo Silva e Max.
+
+Teste de: Validação
+
+Teste de: Integração
+
+Este caso de teste deve verificar se o usuário pode editar ou excluir um classificado já existente no sistema. O sistema deve exibir um alerta com a mensagem de sucesso ou erro.
+
+Pré-condições:
+O Ator deve estar logado no sistema e estar visualizando a tela de Classificados
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Se o usuário clicar em "Editar Classifidos" ou "Excluir Classificados".
+
+O Sistema redireciona o usuário para a página que ele escolheu e habilita o botão "Voltar", para que o usuário possa ser redirecionado para a página anterior.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC005: Postar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-31: Editar Classificados - Usuário
+Autor:	bv1010913
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste testará a edição com sucesso de classificados pelo usuário.
+
+Pré-condições:
+O Usuário deve estar logado, deve existir classificados publicado pelo mesmo e também deverá estar visualizando a tela de classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de classificados o usuário clicará no botão Editar para editar um classificado, o sistema listará todos os classificados postados pelo mesmo, onde ele poderá escolher um classificado para sua edição. Após escolher o classificado a ser editado, o sistema carregará o classificado em modo de edição, o usuário realizará a edição e clicará em alterar.
+
+O sistema deverá exibir o classificado com a alteração realizada pelo usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC006: Editar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-38: Editar Classificados Gestor Valor Limite - Inferior: 0 e Classes de Equivalencia
+Autor:	bv1010913
+Editado última vez por:	ffscruz
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: integração
+
+ 
+
+Este caso de teste, deverá testar um classificado onde o gestor deixa o classificado alterado em branco.
+
+Pré-condições:
+Estar logado no sistema, e ter um classificado postado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de classificado o Gestor clica em editar, o sistema carrega o classificado para a edição, o usuário deixa o clasificado em branco, e clica em alterar.
+
+O sistema deverá mostrar uma mensagem de aviso que o classificado está em branco, e não permitir a alteração.
+
+2	
+O Gestor preenche corretamente os campos e clica em alterar
+
+O sistema publica e redirecina para tela de visualição de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC006: Editar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-60: Editar Classificado - Erro de Click
+Autor:	ricardoborges.jr
+Editado última vez por:	ffscruz
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este Caso de Uso deve ocorrer sempre que o usuário desejar editar um classificado criada por ele
+
+Pré-condições:
+Existir classificados publicados pelo usuário.
+
+O usuário deve estar visualizando a tela de classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário clicar em:” Novo Classificado” ou “Apagar Classificado”.
+
+O sistema deve habilitar um botão para que o usuário retorne a tela anterior (“Classificado”).
+
+2	
+O Usuário escolhe a opção regressar a tela de Classificado
+
+O sistema retorna a tela de visualização Classificados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	 Nenhum
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-111: Remover Classificado com Sucesso - Valor Limite Inferior: Vazio
+Autor:	PedroMazarini
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “Não existe classificado a ser excluído”.
+
+2		
+ O sistema retorna para tela de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-294: Remover Classificado Gestor com Sucesso - Valor Limite Inferior: Vazio
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema como gestor, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “Não existe classificado a ser excluído”.
+
+2		
+ O sistema retorna para tela de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-115: Remover Classificado com Sucesso - Valor Limite Inferior: 1
+Autor:	PedroMazarini
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir o classificado?”.
+
+2	
+o usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Classificado excluído com sucesso” e a mensagem é deletada do BD
+
+3		
+Retorna a tela de classificados exibindo nenhum classificado
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-295: Remover Classificado Gestor com Sucesso - Valor Limite Inferior: 1
+Autor:	ricardoborges.jr
+Objetivo do Teste::
+Equipe Ricardo e Pedro
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema como gestor, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir o classificado?”.
+
+2	
+o usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Classificado excluído com sucesso” e a mensagem é deletada do BD
+
+3		
+Retorna a tela de classificados exibindo nenhum classificado
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-118: Remover Classificado com Sucesso - Valor Limite Inferior: N
+Autor:	PedroMazarini
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema  como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir o classificado?”.
+
+2	
+o usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Classificado excluído com sucesso” e a mensagem é deletada do BD
+
+3		
+Retorna a tela de classificados não exibindo o classificado excluído
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-296: Remover Classificado Gestor com Sucesso - Valor Limite Inferior: N
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir o classificado?”.
+
+2	
+o usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Classificado excluído com sucesso” e a mensagem é deletada do BD
+
+3		
+Retorna a tela de classificados não exibindo o classificado excluído
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-43: Remover Classificado com Sucesso
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema  como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir o classificado?”.
+
+2	
+o usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Classificado excluído com sucesso” e a mensagem é deletada do BD
+
+3		
+Retorna a tela de classificados não exibindo o classificado excluído
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-299: Remover Classificado Gestor com Sucesso
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Verifica a remoção com sucesso de um classificado
+
+Pré-condições:
+Estar logado no sistema  como usuário, estar na tela de mensagem com pelo menos uma mensagem a ser excluida.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de mensagem clicar no botão Opções selecionar a opção Apagar Classificao no sub-menu selecionar o classificado a ser deletada, e clicar na opção Excluir Classificao, confirmar a exclusão da mensagem.
+
+O Sistema exibe a mensagem: “deseja realmente excluir o classificado?”.
+
+2	
+o usuário confirma a exclusão
+
+ O sistema exibe a mensagem “Classificado excluído com sucesso” e a mensagem é deletada do BD
+
+3		
+Retorna a tela de classificados não exibindo o classificado excluído
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-48: Remover Classificados - Apagar Classificado- Inexistente
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+teste de: verificação
+
+Teste de: Integração
+
+Este caso de teste tem como finalidade a tentativa de remoçãode um classificado inexistente no sistema.
+
+Pré-condições:
+Estar logado no sistema  como usuário e na tela de visualição de classificados
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Selecionar “Apagar Classificados” no sub-menu.
+O sistema exibe a mensagem “Não existe classificados a serem excluídos”.
+2		
+Retorna a tela de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-297: Remover Classificados Gestor - Apagar Classificado- Inexistente
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+teste de: verificação
+
+Teste de: Integração
+
+Este caso de teste tem como finalidade a tentativa de remoçãode um classificado inexistente no sistema.
+
+Pré-condições:
+Estar logado no sistema como gestor e na tela de visualição de classificados
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Selecionar “Apagar Classificados” no sub-menu.
+O sistema exibe a mensagem “Não existe classificados a serem excluídos”.
+2		
+Retorna a tela de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-50: Remover Classificado - Negado pelo Usuário
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: unidade
+
+Testar quando o usuário cancela a açãoe de exclusão
+
+Pré-condições:
+Estar logado  como usuário e visualizando a tela de classificado
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário escolhe a opção excluir classificados
+
+O Sistema exibe uma mensagem questionando a exclusão do classificado. 
+2	
+usuário cancela a exclusão do classificado
+O sistema exibe a mensagem “Classificado Não excluído” e retorna a tela de classificados
+3		
+Retorna a tela de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-298: Remover Classificado Gestor - Negado pelo Usuário
+Autor:	ricardoborges.jr
+Editado última vez por:	bv1111019
+Objetivo do Teste::
+Equipe Ricardo e Jessé
+
+Teste de: Verificação
+
+Teste de: unidade
+
+Testar quando o usuário cancela a açãoe de exclusão
+
+Pré-condições:
+Estar logado como gestor e visualizando a tela de classificado
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+O usuário escolhe a opção excluir classificados
+
+O Sistema exibe uma mensagem questionando a exclusão do classificado. 
+2	
+usuário cancela a exclusão do classificado
+O sistema exibe a mensagem “Classificado Não excluído” e retorna a tela de classificados
+3		
+Retorna a tela de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC007: Remover Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-113: Visualizar Mensagem / Classificados - Com sucesso - Sistemático
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé Cuzini Gestin e Wellington Silva dos Santos
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se o sistema disponibilizará com sucesso as mensagens e classificados cadastrados.
+
+ 
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Para visualizar uma mensagem ou classificado com sucesso os mesmo deverão estar préviamente cadastrados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Mensagens. O mesmo deverá clicar para vê-las. 
+
+Deverá aparecer as mensagens previamente cadastradas.
+
+2	
+Ao abrir o sistema o usuario tera a opção de visualização dos Classificados. O mesmo deverá clicar para vê-los. 
+
+Deverá aparecer os classificados previamente cadastrados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	 Nenhum
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-178: Visualizar Mensagem - Com Sucesso - Valor Limite - Inferior: 0 e Classes de Equivalenca
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara.
+
+Teste de: Verificação.
+
+Teste de: Integração.
+
+Este caso de teste irá verificar se na aba de mensagem não haverá nenhuma mensagem cadastrada.
+
+ 
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Não deve haver nenhuma mensagem cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Mensagens. O mesmo deverá clicar para vê-las.
+
+Não deverá aparecer nenhuma mensagem cadastradas.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-204: Visualizar Classificados - Com Sucesso - Valor Limite - Inferior: 0 e Classes de Equivalenca
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara.
+ 
+Teste de: Verificação.
+ 
+Teste de: Integração.
+ 
+Este caso de teste irá verificar se na aba de classificado não haverá nenhum classificado cadastrado.
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+ 
+Não deve haver nenhum classificado cadastrado
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização dos Classificados. O mesmo deverá clicar para vê-los. 
+Não deverá aparecer nenhum classificado cadastrado.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-206: Visualizar Mensagem - Com Sucesso - Valor Limite - Inferior: 1 e Classes de Equivalenca
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara.
+
+Teste de: Verificação.
+
+Teste de: Integração.
+
+Este caso de teste irá verificar se na aba de mensagem haverá uma mensagem cadastrada.
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Deve haver uma mensagem cadastrada.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Mensagens. O mesmo deverá clicar para vê-las.
+
+Deverá aparecer uma mensagem cadastrada.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-212: Visualizar Classificado - Com Sucesso - Valor Limite - Inferior: 1 e Classes de Equivalenca
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara.
+
+Teste de: Verificação.
+
+Teste de: Integração.
+
+Este caso de teste irá verificar se na aba de classificados haverá um classificado cadastrado.
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Deve haver um classificado cadastrado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Classificados. O mesmo deverá clicar para vê-las.
+
+Deverá aparecer um classificado cadastrado.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-222: Visualizar Mensagem - Com Sucesso - Sistemático e Classes de Equivalenca
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara.
+
+Teste de: Verificação.
+
+Teste de: Integração.
+
+Este caso de teste irá verificar se na aba de mensagem haverá três mensagens cadastradas.
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Deve haver três mensagens cadastradas.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Mensagens. O mesmo deverá clicar para vê-las.
+
+Deverá aparecer três mensagens cadastradas.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-224: Visualizar Classificado - Com Sucesso - Sistemático e Classes de Equivalenca
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara.
+
+Teste de: Verificação.
+
+Teste de: Integração.
+
+Este caso de teste irá verificar se na aba de classificado haverá três classificados cadastrados.
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Deve haver três classificados cadastrados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização das Classificados. O mesmo deverá clicar para vê-las.
+
+Deverá aparecer três classificados cadastrados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-236: Visualizar Classificado - Com sucesso
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: Integração
+
+Este caso de teste irá verificar se o sistema disponibilizará com sucesso as classificados cadastrados.
+
+ 
+
+Pré-condições:
+É necessario o usuário estar logado no sistema.
+
+Para visualizar um classificado com sucesso os mesmo deverão estar préviamente cadastrados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Ao abrir o sistema o usuario tera a opção de visualização dos Classificados. O mesmo deverá clicar para vê-los. 
+
+Deverá aparecer os classificados previamente cadastrados.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC001: Visualizar mensagens e Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-253: Editar Classificados - Gestor
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: Integração
+
+ 
+
+Este caso de teste testará a edição com sucesso dos classificados pelo gestor.
+
+Pré-condições:
+O Gestor deve estar logado, deve existir classificados publicados e também deverá estar visualizando a tela de classificados.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de classificados o gestor clicará no botão Editar para editar um classificado, o sistema listará todos os classificados postados e deverá habilitar para edição apenas os classificados postados pelo mesmo. Após escolher o classificado a ser editado, o sistema caregará o classificado em modo de edição, o gestor realizará a edição e clicará em alterar.
+
+O Sistema deverá listar o classificado com a alteração realizada pelo gestor.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC006: Editar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-288: Editar Classificados - Usuário - Valor Limite - Inferior: 1 e Classes de Equivalencia
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: integração
+
+ 
+
+Este caso de teste, deverá testar um classificado editado pelo usuário.
+
+Pré-condições:
+Estar logado no sistema, e ter um classificado postado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de classificado o usuário clica em editar, o sistema carrega o classificado para a edição, o usuário edita o classificado e clica em alterar.
+
+O sistema deverá mostrar o classificado editado pelo usuário.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC006: Editar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-291: Editar Classificados - Gestor - Valor Limite - Inferior: 1 e Classes de Equivalencia
+Autor:	bv1111019
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: integração
+
+ 
+
+Este caso de teste, deverá testar um classificado editado pelo Gestor.
+
+Pré-condições:
+Estar logado no sistema, e haver algum classificado postado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de classificado o gestor clica em editar, o sistema carrega o classificado para a edição, o gestor edita o classificado e clica em alterar.
+
+O sistema deverá mostrar o classificado editado pelo gestor.
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC006: Editar Classificados
+Palavras-chave:	 Nenhum
+ 
+
+Caso de Teste IFB-292: Editar Classificados Usuário Valor Limite - Inferior: 0 e Classes de Equivalencia
+Autor:	ffscruz
+Objetivo do Teste::
+Equipe: Jessé, Fagner e Samara
+
+Teste de: Verificação
+
+Teste de: integração
+
+ 
+
+Este caso de teste, deverá testar um classificado onde o usuário deixa o classificado alterado em branco.
+
+Pré-condições:
+Estar logado no sistema, e ter um classificado postado.
+
+#:	Ações do Passo:	Resultados Esperados::
+1	
+Na tela de classificado o Usuário clica em editar, o sistema carrega o classificado para a edição, o usuário deixa o clasificado em branco, e clica em alterar.
+
+O sistema deverá mostrar uma mensagem de aviso que o classificado está em branco, e não permitir a alteração.
+
+2	
+O usuário preenche corretamente os campos e clica em alterar
+
+O sistema publica e redirecina para tela de visualição de classificados
+
+
+Tipo de Execução:	Manual
+Prioridade:	Médio
+Último Status	Não Executado
+Requisitos	MOD02_UC006: Editar Classificados
+Palavras-chave:	 Nenhum
