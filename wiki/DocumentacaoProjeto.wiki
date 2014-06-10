@@ -367,7 +367,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/matrizresp/MatrizREsp2.jpg
 
 Para obter um controle sobre as tarefas e prazos realizados, foi elaborado um cronograma, conforme abaixo:
 
-https://tsi1sem2014.googlecode.com/svn/wiki/images/Cronograma.PNG
+https://tsi1sem2014.googlecode.com/svn/wiki/images/cronograma.png
 
 ==GERENCIAMENTO DA QUALIDADE==
 
