@@ -130,6 +130,11 @@ Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
 <p align=center>Figura 22 – Acesso MySQL </p>
 
+Após  preencher os dados relativos a conexão com o servidor de banco de dados Mysql a seguinte janela será exibida:
+
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
+<p align=center>Figura 23 – Acesso MySQL </p>
+
 Com a Base de Dados restaurada, o próximo passo é implantar o arquivo sdn.WAR que contem os serviços, dentro de um servidor Tomcat pré-configurado. Tutoriais para a instalação e confiração do Tomcat em diversas plataformas pode ser obtido em: http://www.mhavila.com.br/topicos/java/tomcat.html 
 Abra um navegador de sua preferência e se conecte a http://IP_DO_SERVIDOR_TOMCAT:8080/manager/html. E insira o usuário e senha. Se você não sabe qual é o usuário e a senha do servidor procure no arquivo CATALINA_HOME/conf/tomcat-users.xml e veja e cheque a configuração. 
 Role a página até seção chamada "Deploy directory or WAR file located on server". Insira o nome do contexto precedido por “/” (ex /sdn) no campo de Caminho de contexto. 
