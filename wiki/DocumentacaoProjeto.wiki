@@ -371,23 +371,20 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/cronograma.png
 
 ==GERENCIAMENTO DA QUALIDADE==
 
-A fim de satisfazer a qualidade do projeto, tudo foi elaborado conforme os requisitos, especificações e adequado ao uso no projeto. 
+O gerenciamento da qualidade é a competência em obter o controle de todo
+o funcionamento adequado do projeto.
+A fim de satisfazer essa característica todos os passos foram desenvolvidos conforme os requisitos, especificações e adequados ao uso no projeto.
 
-===PLANEJAMENTO DA QUALIDADE===
+Para que fosse realizado o controle de qualidade no software que foi desenvolvido, um planejamento de testes foi elaborado. Vários casos de testes foram criados e implementados. Foram também utilizadas maneiras para relatos das ocorrências. 
 
-Para realizar um controle de qualidade no software que foi desenvolvido, um planejamento de testes foi elaborado. Vários casos de testes foram criados e implementados maneiras para relatos das ocorrências. Encontramos os casos de testes no anexo 01.
+A ferramenta adotada para o auxílio na gestão do projeto foi TestLink 1.9.7 (Ghost) onde todos os envolvidos puderam colaborar com o plano de teste estabelecido.Conforme imagem abaixo.
 
-===CONTROLE DA QUALIDADE===
+>>>>>>>>>>>>>>>>>>>Colocar imagem<<<<<<<<<<<<<<<<<<<<<<
 
-Anexo1
+
+Encontramos os casos de testes no anexo 01.
 
 https://tsi1sem2014.googlecode.com/svn/wiki/documentos/IFB_test_report-2014-06-10.7z
-
-===TESTES DE QUALIDADE===
-
-Segue anexo os resultados dos testes de qualidade executados no sistema IFbook.
-
-Anexo 01.
 
 
 ==GERENCIAMENTO DE RISCOS==
