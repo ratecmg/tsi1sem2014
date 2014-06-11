@@ -132,7 +132,7 @@ Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-
 
 Após  preencher os dados relativos a conexão com o servidor de banco de dados Mysql a seguinte janela será exibida:
 
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/banco.png </p>
 <p align=center>Figura 23 – Acesso MySQL </p>
 
 Com a Base de Dados restaurada, o próximo passo é implantar o arquivo sdn.WAR que contem os serviços, dentro de um servidor Tomcat pré-configurado. Tutoriais para a instalação e confiração do Tomcat em diversas plataformas pode ser obtido em: http://www.mhavila.com.br/topicos/java/tomcat.html 
