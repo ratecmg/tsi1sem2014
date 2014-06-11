@@ -379,7 +379,7 @@ Para que fosse realizado o controle de qualidade no software que foi desenvolvid
 
 A ferramenta adotada para o auxílio na gestão do projeto foi TestLink 1.9.7 (Ghost) onde todos os envolvidos puderam colaborar com o plano de teste estabelecido.Conforme imagem abaixo.
 
->>>>>>>>>>>>>>>>>>>Colocar imagem<<<<<<<<<<<<<<<<<<<<<<
+https://tsi1sem2014.googlecode.com/svn/wiki/images/TestLink.jpg
 
 
 Encontramos os casos de testes no anexo 01.
