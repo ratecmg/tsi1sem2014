@@ -377,14 +377,16 @@ A fim de satisfazer essa característica todos os passos foram desenvolvidos con
 
 Para que fosse realizado o controle de qualidade no software que foi desenvolvido, um planejamento de testes foi elaborado. Vários casos de testes foram criados e implementados. Foram também utilizadas maneiras para relatos das ocorrências. 
 
-A ferramenta adotada para o auxílio na gestão do projeto foi TestLink 1.9.7 (Ghost)onde todos os envolvidos puderam colaborar com o plano de teste estabelecido.Conforme imagem abaixo.
+A ferramenta adotada para o auxílio na gestão do projeto foi TestLink_1.9.7_(Ghost) onde todos os envolvidos puderam colaborar com o plano de teste estabelecido.
 
+TestLink
 https://tsi1sem2014.googlecode.com/svn/wiki/images/TestLink01.jpg
 
+Abaixo são mostrados os gráficos gerados na ferramenta TestLink.
 
+>>>>>>>>>>>>Colocar gráficos<<<<<<<<<<<<<<
 
-
-Encontramos os casos de testes no anexo 01.
+Todos os testes realizados no ambiente de testes estão disponibilizados no link abaixo.
 
 https://tsi1sem2014.googlecode.com/svn/wiki/documentos/IFB_test_report-2014-06-10.7z
 
