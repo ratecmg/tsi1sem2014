@@ -7,7 +7,7 @@ Após a realização do planejamento do projeto, iniciou-se a fase de execução
 Na figura da arquitetura do projeto podemos observar o desenvolvimento de um projeto mobile na qual o bando de dados é responsável pela armazenagem dos dados do usuário e ações do sistema. Os serviços que o sistema pode realizar estão disponíveis na plataforma móvel. Nas próximas seções poderá ser visualizada a organização do projeto com maiores detalhes.
 
 <br>
-===1.1.	APLICATIVO WEB===
+===1.1.	APLICATIVO WEB (Cliente)===
 Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter os controllers, um para as classes de DAO, um pacote para as classes do modelo, um pacote para guardar todas as classes que foram utilizados para testes, um pacote para adicionar classes uteis para todo o projeto e por fim um pacote para adicionar as classes de validação.
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura2b.png </p>
@@ -46,24 +46,19 @@ Na imagem abaixo é possível observar as classes que foram criadas no pacote ú
 <p align=center>Figura 8 – Classes do pacote útil </p>
 
 <br><br>
-Abaixo é possível observar os métodos da classe BaseController, utilizada para centralizar as permissões do usuário ao acessar as páginas. Deste modo simplificou o desenvolvimento das funcionalidades, além de reutilizar o código.
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 9 – Classe BaseController </p>
-
-<br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote testes, onde os desenvolvedores criaram para testar os métodos de DAO.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 10 – Classes do Pacote de Teste </p>
+<p align=center>Figura 9 – Classes do Pacote de Teste </p>
 
 <br><br>
 Abaixo é possível observar as classes que foram criadas no pacote útil, que contém a classe URLCatcher  e o pacote validation, onde possui uma classe para realizar a validação.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 11 – Demais pacotes </p>
+<p align=center>Figura 10 – Demais pacotes </p>
 
 <br><br>
 Na classe URLCatcher foram definidas todas as URLs das páginas e controllers utilizados, como mostra um trecho retirado da classe a baixo:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 12 – URLs das páginas de controllers </p>
+<p align=center>Figura 11 – URLs das páginas de controllers </p>
 
 <br><br>
 ==== 1.1.2 TESTES DE QUALIDADE ====
@@ -72,52 +67,52 @@ Segue abaixo os resultados dos testes de qualidade executados no sistema web.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/tabela-exemplo.png </p>
 
 <br><br>
-=== 1.2 WEB SERVICE ===
+=== 1.2 WEB SERVICE (Servidor) ===
 <br>
 Para criar um projeto estruturado, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter as classes de DAO, um pacote para as classes do modelo e por fim um pacote para adicionar as classes do resources.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 13 – Projeto do WebService </p>
+<p align=center>Figura 12 – Projeto do WebService </p>
 
 <br><br>
 As classes contidas no pacote resources preparam as informações vindas do banco para fornecer para a aplicação Android. Abaixo podem ser observadas as classes criadas para o pacote Dao.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 14 – Classes do Pacote Dao </p>
+<p align=center>Figura 13 – Classes do Pacote Dao </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes Exception
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 15 – Classes do Pacote Exception </p>
+<p align=center>Figura 14 – Classes do Pacote Exception </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes model
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 16 – Classes dos Pacotes Model </p>
+<p align=center>Figura 15 – Classes dos Pacotes Model </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes Resources
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 17 – Classes dos Pacotes Resources </p>
+<p align=center>Figura 16 – Classes dos Pacotes Resources </p>
 
 === 1.3  APLICATIVO ANDROID  ===
 Com o objetivo de criar um projeto estruturado, o sistema foi dividido em camadas, onde cada uma é responsável por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter as classes de DAO, pacote com as classes para acesso ao webservice, um pacote para as classes do model e por fim um pacote para adicionar as classes do servidor.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 18 – Estrutura projeto Android </p>
+<p align=center>Figura 17 – Estrutura projeto Android </p>
 
 <br><br>
 Nas classes do pacote survivor prepara as informações vindas do webservice e fornece elas as telas do aplicativo. E realiza também o processo inverso, pegando os dados da tela e enviando para as classes de conexão com o webservice, através das classes do pacote DAO.
 O pacote DAO contem as classes que atuam como intermediarias para realizar o tratamento dos dados que são recebidos do webservice. A estrutura pode ser visto abaixo:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 19 – Pacotes DAO </p>
+<p align=center>Figura 18 – Pacotes DAO </p>
 
 <br><br>
 Na figura abaixo é possível observar as classes que foram criadas no pacote model e pacote ws. O pacote ws contem as  classes que consomem os serviços do webservice.
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 20 – Pacote Modelo </p>
+<p align=center>Figura 19 – Pacote Modelo </p>
 
 <br><br>
 Abaixo podemos observar as telas do Android dentro da pasta res/layout/ 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 21 – Telas do Aplicativo Android </p>
+<p align=center>Figura 20 – Telas do Aplicativo Android </p>
 
 == 2. IMPLANTAÇÃO ==
 Com o objetivo de orientar as pessoas que desejarem implantar o sistema no Instituto Federal, foi elaborado um planejamento de sua implantação, que pode ser visto nas próximas seções.
