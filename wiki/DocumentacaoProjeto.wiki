@@ -45,9 +45,7 @@ Com o intuito de definir os objetivos e as justificativas do projeto, um cronogr
 
 =PLANEJAMENTO=
 
-O planejamento é todo o processo que envolve as ações que antecedem as realidades e caminhos do sistema antes de sua execução:
-
- = 1. PLANEJAMENTO =
+O planejamento é todo o processo que envolve as ações que antecedem as realidades e caminhos do sistema antes de sua execução.
   Após acordado os objetivos e justificativas, ocorreu o inicio do planejamento do projeto, onde foram definidos a forma de atuação em relação ao escopo, tempo, qualidade e aos riscos da implementação.
 <br>
  === 1.1. GERENCIAMENTO DO ESCOPO ===
