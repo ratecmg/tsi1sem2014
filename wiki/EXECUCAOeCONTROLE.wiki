@@ -140,8 +140,8 @@ Abra um navegador de sua preferência e se conecte a http://IP_DO_SERVIDOR_TOMCA
 Role a página até seção chamada "Deploy directory or WAR file located on server". Insira o nome do contexto precedido por “/” (ex /sdn) no campo de Caminho de contexto. 
 Localize o arquivo .WAR do SDN chamado sdn.WAR e entre com o caminho completo do arquivo (Ex., /camnho/para/sdn.WAR) no campo Directory URL.
 
-<br>Esta seção deve se parecer com a exibida na Figura 23:
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 18 – Estrutura projeto Android </p>
+<br>Esta seção deve se parecer com a exibida na Figura 24:
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/deploy.png </p>
+<p align=center>Figura 24- Campo de seleção do arquivo .WAR </p>
 <br>Clique em Deploy. A página era recarregar. No topo da página, veja se aparece a mensagem OK - Deployed application at context path /camnho/para/sdn.WAR"
 Na seção Applications cheque se exista uma linha representando a aplicação sdn. Pronto, a aplicação já pode ser acessada.
