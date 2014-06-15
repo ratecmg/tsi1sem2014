@@ -46,9 +46,9 @@ Na imagem abaixo é possível observar as classes que foram criadas no pacote ú
 <p align=center>Figura 8 – Classes do pacote útil </p>
 
 <br><br>
-Na figura abaixo é possível observar as classes que foram criadas no pacote testes, onde os desenvolvedores criaram para testar os métodos de DAO.
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 9 – Classes do Pacote de Teste </p>
+Na figura abaixo é possível observar as classes que foram criadas no pacote br.edu.ifsp.ddm.ifbok
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/ddm.ifbok.png	 </p>
+<p align=center>Figura 9 – Classes do Pacote br.edu.ifsp.ddm.ifbok </p>
 
 <br><br>
 Abaixo é possível observar as classes que foram criadas no pacote útil, que contém a classe URLCatcher  e o pacote validation, onde possui uma classe para realizar a validação.
