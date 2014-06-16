@@ -30,10 +30,9 @@ Observa-se na figura abaixo as classes criadas no pacote DAO, responsável por r
 <p align=center>Figura 5 – Classes do Pacote DAO </p>
 
 <br><br>
-Na figura abaixo é possível observar as classes que foram criadas no pacote 
-
+Na figura abaixo é possível observar as Activitys que foram criadas no projeto 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%204%20%E2%80%93%20Classes%20do%20pacote.png </p>
-<p align=center>Figura 4 – Classes do pacote </p>
+<p align=center>Figura 6 – Classes do pacote </p>
 
 
 
