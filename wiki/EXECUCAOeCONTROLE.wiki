@@ -63,8 +63,13 @@ As classes contidas no pacote resources preparam as informações vindas do banc
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes Exception
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 14 – Classes do Pacote Exception </p>
+<p align=center>https://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/web3.png </p>
+<p align=center>Figura 12 – Classes do Pacote Exception </p>
+
+<br><br>
+Abaixo pode ser observado as classes criadas para os pacotes Jdbc
+<p align=center>https://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/web4.png </p>
+<p align=center>Figura 13 – Classes do Pacote Jdbc </p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes model
