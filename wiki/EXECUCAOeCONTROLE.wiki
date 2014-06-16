@@ -34,12 +34,8 @@ Na figura abaixo é possível observar as Activitys que foram criadas no projeto
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%204%20%E2%80%93%20Classes%20do%20pacote.png </p>
 <p align=center>Figura 6 – Classes do pacote </p>
 
-
-
-kkkkkkkkkkkkkkkkkkkkkkk
-
 <br><br>
-Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest (Web Service)
+Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%206%20%E2%80%93%20Classes%20do%20pacote%20rest.png </p>
 <p align=center>Figura 7 – Classes do pacote rest </p>
 
