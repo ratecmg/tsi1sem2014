@@ -574,8 +574,6 @@ Durante o desenvolvimento do projeto ocorreram mudanças quanto ao escopo do pro
 
 Em momento inicial esperava-se que o usuário pudesse postar documentos com extensão (.doc, .doc, .pdf, etc). Isso não foi implantado no sistema.
 
-Outra alteração no escopo é a implementação da função recuperar senha, que não pode ser implantada devido à dificuldade no processo e a falta de tempo.
-
 O modelo de banco de dados utilizado no sistema doi o MySQL, diferente do SQLite planejado.
 
 Foi inserido na tela inicial a opção de visualizar aniversariantes, que traz ao usuário a lista de aniversariantes das datas futuras.
