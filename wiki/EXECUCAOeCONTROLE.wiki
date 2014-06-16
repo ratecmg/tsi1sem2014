@@ -8,7 +8,7 @@ Na figura da arquitetura do projeto podemos observar o desenvolvimento de um pro
 
 <br>
 ===1.1.	APLICATIVO ANDROID===
-Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter os controllers, um para as classes de DAO, um pacote para as classes do modelo, um pacote para guardar todas as classes que foram utilizados para testes, um pacote para adicionar classes uteis para todo o projeto e por fim um pacote para adicionar as classes de validação.
+Para criar um projeto estruturado, foi utilizado os conceitos MVC, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter as  classes de DAO, um pacote para as classes do modelo,um pacote para adicionar classes uteis para todo o projeto.
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura2b.png </p>
 <p align=center>Figura 2 - Estrutura do Projeto </p>
@@ -40,12 +40,12 @@ Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest
 <p align=center>Figura 7 – Classes do pacote rest </p>
 
 <br><br>
-Na imagem abaixo é possível observar as classes que foram criadas no pacote útil (conexão com Web Service)
+A seguir é possível observar as classes que foram criadas no pacote útil (conexão com Web Service)
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%208%20%E2%80%93%20Classes%20do%20pacote%20%C3%BAtil.png </p>
 <p align=center>Figura 8 – Classes do pacote útil </p>
 
 <br><br>
-Na figura abaixo é possível observar as classes que foram criadas no pacote br.edu.ifsp.ddm.ifbok
+Na próxima figura podemos observar as classes que foram criadas no pacote br.edu.ifsp.ddm.ifbok
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/ddm.ifbok.png	 </p>
 <p align=center>Figura 9 – Classes do Pacote br.edu.ifsp.ddm.ifbok </p>
 
