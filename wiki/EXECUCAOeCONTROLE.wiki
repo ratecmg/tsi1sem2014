@@ -97,7 +97,7 @@ Windows: http://www.sistemabasico.com.br/2011/06/30/instalando-o-mysql-5-5-8-no-
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura22-acessomysql.png </p>
 <p align=center>Figura 16 – Acesso MySQL </p>
 
-Após  preencher os dados relativos a conexão com o servidor de banco de dados Mysql a seguinte janela será exibida:
+<br>Após  preencher os dados relativos a conexão com o servidor de banco de dados Mysql a seguinte janela será exibida:
 
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/banco.png </p>
 <p align=center>Figura 17 – Acesso MySQL </p>
