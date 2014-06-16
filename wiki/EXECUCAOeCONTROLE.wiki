@@ -53,13 +53,13 @@ Na figura abaixo é possível observar as classes que foram criadas no pacote br
 === 1.2 WEB SERVICE (Servidor) ===
 <br>
 Para criar um projeto estruturado, dividindo em camadas, que são responsáveis por determinadas ações. Na Figura abaixo podemos observar que foram criados pacotes para conter as classes de DAO, um pacote para as classes do modelo e por fim um pacote para adicionar as classes do resources.
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 12 – Projeto do WebService </p>
+<p align=center>https://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/web1.png </p>
+<p align=center>Figura 10 – Projeto do WebService </p>
 
 <br><br>
 As classes contidas no pacote resources preparam as informações vindas do banco para fornecer para a aplicação Android. Abaixo podem ser observadas as classes criadas para o pacote Dao.
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/imagem-exemplo1.png </p>
-<p align=center>Figura 13 – Classes do Pacote Dao </p>
+<p align=center>https://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/web2.png </p>
+<p align=center>Figura 11 – Classes do Pacote Dao WebService</p>
 
 <br><br>
 Abaixo pode ser observado as classes criadas para os pacotes Exception
