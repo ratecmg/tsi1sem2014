@@ -461,7 +461,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/login2.png
 
 A visualização da tela inicial é a mesma para as duas categorias de usuário. A tela inicial é composta pela lista de aniversariantes da semana, botões direcionadores a página de mensagens, classificados, imagem do usuário que leva para o perfil do próprio usuário e, o logo que leva a tela inicial como mostra a figura abaixo.
 
-https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/incial1.png
+https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/inicial1.png
 
 Caso o usuário clique no nome de um aniversariante, ele será redirecionado ao perfil do aniversariante, para voltar deve clicar no logo do sistema.
 
@@ -501,8 +501,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/mensagemedit2.png
 Caso o usuário clique e segure por 2 segundos na mensagem de sua autoria aparecerá uma mensagem de alerta perguntando se ele quer realmente deletar a mensagem.
 Caso o Usuário seja do tipo Gestor, ele poderá clicar em qualquer mensagem do sistema para deletar.
 
-=falta imagem=
-
+https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/excluirmsg1.png
 
 ===Classificados===
 
@@ -537,7 +536,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/classificadoedit2.png
 Caso o usuário clique e segure por 2 segundos no classificado de sua autoria aparecerá uma mensagem de alerta perguntando se ele quer realmente deletar o classificado.
 Caso o Usuário seja do tipo Gestor, ele poderá clicar em qualquer classificado do sistema para deletar.
 
-FALTA IMAGEEEMM
+https://tsi1sem2014.googlecode.com/svn/wiki/images/manual/excluirclassificado1.png
 
 
 ===Perfil===
