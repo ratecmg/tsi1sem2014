@@ -20,10 +20,9 @@ Abaixo contém a parte visual do projeto, onde estão contidos os arquivos de la
 <p align=center>Figura 3 – Estrutura de Layout do Projeto </p>
 
 <br><br>
-Na figura abaixo é possível observar as classes que foram criadas no pacote 
-
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%204%20%E2%80%93%20Classes%20do%20pacote.png </p>
-<p align=center>Figura 4 – Classes do pacote </p>
+É possível verificar na imagem abaixo as classes que foram criadas no pacote modelo.
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura4b.png </p>
+<p align=center>Figura 4 – Classes do pacote modelo </p>
 
 <br><br>
 Observa-se na figura abaixo as classes criadas no pacote DAO, responsável por realizar o acesso e todas as interações ao banco de dados. 
@@ -31,9 +30,14 @@ Observa-se na figura abaixo as classes criadas no pacote DAO, responsável por r
 <p align=center>Figura 5 – Classes do Pacote DAO </p>
 
 <br><br>
-É possível verificar na imagem abaixo as classes que foram criadas no pacote modelo.
-<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/figura4b.png </p>
-<p align=center>Figura 6 – Classes do pacote modelo </p>
+Na figura abaixo é possível observar as classes que foram criadas no pacote 
+
+<p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/Figura%204%20%E2%80%93%20Classes%20do%20pacote.png </p>
+<p align=center>Figura 4 – Classes do pacote </p>
+
+
+
+kkkkkkkkkkkkkkkkkkkkkkk
 
 <br><br>
 Na imagem abaixo pode-se observar as classes que foram criadas no pacote rest (Web Service)
