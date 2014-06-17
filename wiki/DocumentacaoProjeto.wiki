@@ -399,7 +399,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/M%C3%A9tricas%202.jpg
 
 Todos os testes realizados no ambiente de testes estão disponíveis para download no link abaixo.
 
-https://tsi1sem2014.googlecode.com/svn/wiki/documentos/IFB_test_report-2014-06-10.7z
+https://tsi1sem2014.googlecode.com/svn/wiki/documentos/TestLink%201.9_IFBook_TSI_6-Sem-2014.rar
 
 
 ==GERENCIAMENTO DE RISCOS==
