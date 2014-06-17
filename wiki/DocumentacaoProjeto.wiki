@@ -682,6 +682,7 @@ Foi inserido na tela inicial a opção de visualizar aniversariantes, que traz a
 
 
 ==Conclusão==
+
 Durante o desenvolvimento do trabalho foram encontrados diversos problemas, como a falta da documentação criada na primeira parte do projeto, o não completo comprometimento dos participantes, a não avaliação ou correção dos documentos durante o desenvolvimento do processo, feriados e recessos e etc.
 
 Apesar das dificuldades encontradas, é possível atribuir um resultado positivo ao projeto, pois foi exigido dos envolvidos colocar em prático todos os conhecimentos adquiridos no curso. 
@@ -696,6 +697,3 @@ http://www.guj.com.br/articles/37 <br>
 http://docs.oracle.com/javase/tutorial/rmi/ <br>
 http://www.devmedia.com.br/construindo-um-webservice-em-java/4516 <br>
 http://www.jsptut.com/ <br>
-
-
-=ANEXOS=
