@@ -44,18 +44,18 @@ entregue até dia 14 de maio.
 
 
 ----------------------------------------------------------
-EXECUÇÃO E CONTROLE<br>
-APLICATIVO WEB<br>
-TESTES DE QUALIDADE<br>+
-WEB SERVICE<br>
-RELATÓRIOS DE DESEMPENHO<br>
-APLICATIVO ANDROID<br>
-IMPLANTAÇÃO<br>
-PLANEJAMENTO DA IMPLANTAÇÃO<br>
+EXECUÇÃO E CONTROLE ok<br>
+APLICATIVO WEB ok<br>
+
+WEB SERVICE ok<br>
+RELATÓRIOS DE DESEMPENHO foi com os testes<br>
+APLICATIVO ANDROID ok <br>
+IMPLANTAÇÃO ok <br>
+PLANEJAMENTO DA IMPLANTAÇÃO ok <br>
 
 Simone, Samara, Daiane, DEgine
 ----------------------------------------------------------
-FALTA ESTRUTURA ANALITICA DO PROJETO
+ESTRUTURA ANALITICA DO PROJETO ok
 
 
 Jessé e Tiago papai
