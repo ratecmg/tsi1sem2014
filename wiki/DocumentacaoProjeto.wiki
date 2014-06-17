@@ -391,7 +391,7 @@ Abaixo são mostrados os gráficos e métricas gerados na ferramenta TestLink.
 
 ==== Gráficos  ====
  
->>>>>>>>>>>>Colocar gráficos<<<<<<<<<<<<<<
+https://tsi1sem2014.googlecode.com/svn/wiki/images/M%C3%A9tricas%201.jpg
 
 ==== Métricas Gerais do Plano de Teste ====
 
