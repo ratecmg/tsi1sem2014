@@ -420,7 +420,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/riscos/riscos3.png
 <br><br>
 == EXECUÇÃO E CONTROLE ==
 
-Após a realização do planejamento do projeto, iniciou-se a fase de execução do projeto, onde a equipe foi dividida em vários grupos, onde cada grupo tinha a responsabilidade de desenvolver uma parte especifica do aplicativo web e local. Foi definida a arquitetura que seria utilizada, como pode ser visto na imagem abaixo:
+Após a realização do planejamento do projeto, iniciou-se a fase de execução do projeto, onde a equipe foi dividida em vários grupos, onde cada grupo tinha a responsabilidade de desenvolver uma parte especifica do aplicativo. Foi definida a arquitetura que seria utilizada, como pode ser visto na imagem abaixo:
 <p align=center>http://tsi1sem2014.googlecode.com/svn/wiki/images/execucaoecontrole/arquiteturapronta.png </p>
 <p align=center>Figura Arquitetura do Projeto </p>
 
