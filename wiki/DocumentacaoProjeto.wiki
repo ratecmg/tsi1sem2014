@@ -537,20 +537,6 @@ Role a página até seção chamada "Deploy directory or WAR file located on ser
 Na seção Applications cheque se exista uma linha representando a aplicação sdn. Pronto, a aplicação já pode ser acessada.
 
 
-==TESTES DE QUALIDADE==
-
-Anexo 01
-
-
-==RELATÓRIOS DE DESEMPENHO==
-
-==APLICATIVO ANDROID==
-
-
-
-=IMPLANTAÇÃO=
-==PLANEJAMENTO DA IMPLANTAÇÃO==
-
 ==MANUAL DO USUÁRIO==
 
 Para facilitar a utilização do sistema desenvolvido, foi elabora o manual do usuário contendo informações de uso do referido. O manual será divido em seis partes, o acesso, tela inicial, mensagens, classificados, perfil e conclusão.
