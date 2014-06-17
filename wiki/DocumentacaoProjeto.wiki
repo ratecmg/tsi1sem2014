@@ -688,5 +688,14 @@ Apesar das dificuldades encontradas, é possível atribuir um resultado positivo
 
 =REFERÊNCIAS=
 
+http://www.manydesigns.com/en/portofino/portofino3/3_1_x/installation-guide/deploying-on-tomcat <br> 
+http://developer.android.com/design/index.html <br>
+http://www.android.com/ <br>
+http://www.java.com/pt_BR/ <br>
+http://www.guj.com.br/articles/37 <br>
+http://docs.oracle.com/javase/tutorial/rmi/ <br>
+http://www.devmedia.com.br/construindo-um-webservice-em-java/4516 <br>
+http://www.jsptut.com/ <br>
+
 
 =ANEXOS=
