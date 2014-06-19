@@ -669,7 +669,7 @@ https://tsi1sem2014.googlecode.com/svn/wiki/images/encerramento/auditoria1.png
 
 https://tsi1sem2014.googlecode.com/svn/wiki/images/encerramento/auditoria2.png
 
-==Gerência de Escopo==
+==Gerência de Mudanças==
 
 Durante o desenvolvimento do projeto ocorreram mudanças quanto ao escopo do projeto, resultando em discrepâncias da documentação com o sistema implantado.
 
