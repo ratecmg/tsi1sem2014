@@ -1,4 +1,4 @@
-g=INICIAÇÃO= 
+=INICIAÇÃO= 
 
 Este trabalho é objeto de atividades relacionadas ao curso de Tecnologia em Sistemas para Internet do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo realizado no período de agosto de 2013 até junho de 2014, como requisito de nota para as matérias: Desenvolvimento de Projetos Web, Desenvolvimento em Dispositivos Móveis, Engenharia de Software, Introdução ao Gerenciamento de Projetos, Qualidade e Teste de Software, Sistemas Distribuídos para WEB.
 =ATA E DIAGNÓSTICO=
